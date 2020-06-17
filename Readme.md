@@ -21,13 +21,13 @@ Download this repository and then decide for which applications you want to inst
 * copy `en-Academic.dic` and `en-Academic.aff` to  `/usr/share/hunspell`
 
 **Install LibreOffice Extension**<br>
-* Automatic: Download and open [`acamedic-libreoffice.oxt`](master/addons/acamedic-libreoffice.oxt) file in the `addons` folder.
+* Automatic: Download and open [`acamedic-libreoffice.oxt`](addons/acamedic-libreoffice.oxt) file in the `addons` folder.
 * Manual: 
 	* Start LibreOffice and select `Tools → Extension Manager... → Add`. 
 	* Open `acamedic-libreoffice.oxt` from the `addons` folder.
 
 **Install Thunderbird Extension**<br>
-* Automatic: Download and open [`acamedic-mozilla.xpi`](master/addons/acamedic-mozilla.xpi).
+* Automatic: Download and open [`acamedic-mozilla.xpi`](addons/acamedic-mozilla.xpi).
 * Manual: 
 	* Start Thunderbird and select `Tools → Add-ons → ⚙ → Install Add-on from file`.
 	* Open `acamedic-mozilla.xpi` from the `addons` folder.
@@ -64,7 +64,7 @@ The dictionary is constructed from several individual dictionary files in the `s
 
 ## Motivation for this Dictionary
 
-For spell checking of academic documents, it is not useful if dictionaries include words such as `thee` or `wee`. They will most likely mask a spelling error of the words `the` or `we`. Since they are archaic words, probably no one is going to write them but rather read them in some historic text fragments. And even if you write them, a spelling error of these words will most likely be masked by other words because instead of `wee` there is `we`, `see`, or `weed`.
+For spell checking of academic documents, it is not useful if dictionaries include words such as `thee` or `wee`. They will most likely mask a spelling error of the words `the` or `we`. Since they are archaic or words, probably no one is going to write them but rather read them in some historic text fragments. And even if you write them, a spelling error of these words will most likely be masked by other words because instead of `wee` there is `we`, `see`, or `weed`.
 
 Furthermore, the standard dictionaries include a lot of problematic words, such as `wit`, `dome`, or `wont`.
 
@@ -77,7 +77,7 @@ I have created this dictionary using the following process:
 2. Manually go through it an remove non-scientific terms
 3. Use it to check reference papers 
 4. add newly found terms that are in [SCOWL-60](http://app.aspell.net/create)
-5. manually check add further unrecognized terms
+5. manually check and add further unrecognized terms
 
 
 #### Terms I have removed

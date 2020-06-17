@@ -1,0 +1,6 @@
+A small hunspell dictionary that is tailored for professional, scientific writing. 
+
+* based on SCOWL en-US dictionary
+* removed words such as `thee`, `fatuous`, or `jerk`
+* added words such as `overapproximate`, `workflow`, and `bitmask`.
+* better suggestions for confused words

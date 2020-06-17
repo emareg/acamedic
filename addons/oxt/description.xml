@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink"> 
+    <version value="2020.03.01" />
+    <identifier value="de.emareg.acamedic" />
+    <display-name>
+        <name lang="en">Acamedic – The Academic Dictionary for spell checking.</name>
+        <name lang="de">Acamedic – Das akademische Wörterbuch zur Rechtschreibüberprüfung.</name>
+    </display-name>
+    <platform value="all" />
+    <publisher>
+        <name xlink:href="https://github.com/emareg/acamedic" lang="en">Emanuel Regnath</name>
+    </publisher>
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+</description>

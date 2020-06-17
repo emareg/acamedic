@@ -1,0 +1,317 @@
+SET UTF-8
+TRY esianrtolcdugmphbyfvkwzESIANRTOLCDUGMPHBYFVKWZ'
+NOSUGGEST !
+
+
+# character conversions
+ICONV 1
+ICONV ’ '
+
+
+# ordinal numbers
+# COMPOUNDMIN 1
+# only in compounds: 1th, 2th, 3th
+# ONLYINCOMPOUND c
+# compound rules:
+# 1. [0-9]*1[0-9]th (10th, 11th, 12th, 56714th, etc.)
+# 2. [0-9]*[02-9](1st|2nd|3rd|[4-9]th) (21st, 22nd, 123rd, 1234th, etc.)
+# COMPOUNDRULE 3
+# COMPOUNDRULE n*1t
+# COMPOUNDRULE n*mp
+
+COMPOUNDMIN 2      # 
+COMPOUNDWORDMAX 7
+CHECKCOMPOUNDDUP   # Forbid word duplication in compounds (e.g. foofoo).
+COMPOUNDMORESUFFIXES
+
+# compound rules
+COMPOUNDRULE 5
+COMPOUNDRULE d*u   # for SI units: digit*unit e.g. 3ms
+COMPOUNDRULE m?hxp?m?hs # for chemicals: prefix*chemical+suffix, e.g. di+meth+anol
+COMPOUNDRULE p?m?hs
+COMPOUNDRULE p?m?hx
+COMPOUNDRULE ma
+
+
+
+
+
+
+# Prefixes  A:re B:dis, C:con, E: de, F: pro
+# --------------------------------------------
+PFX A Y 1
+PFX A   0     re         .
+
+PFX I Y 1
+PFX I   0     in         .
+
+PFX U Y 1
+PFX U   0     un         .
+
+PFX C Y 1
+PFX C   0     de          .
+
+PFX E Y 1
+PFX E   0     dis         .
+
+PFX F Y 1
+PFX F   0     con         .
+
+PFX K Y 1
+PFX K   0     pro         .
+
+
+# Suffixes
+# --------------------------------------------
+
+
+# Gerund
+SFX G Y 3
+SFX G   e     ing        [^eoy]e
+SFX G   0     ing        [eoy]e 
+SFX G   0     ing        [^e] 
+
+
+# Gerund with doubled consonant
+# SFX Gd Y 8
+# SFX 0 bing [^aeiou][aeiou]b
+# SFX 0 king [^aeiou][aeiou]c
+# SFX 0 ding [^aeiou][aeiou]d
+# SFX 0 ming [^aeiou][aeiou]m
+# SFX 0 ning [^aeiou][aeiou]n
+# SFX 0 ping [^aeiou][aeiou]p
+# SFX 0 ring [^aeiou][aeiou]r
+# SFX 0 ting [^aeiou][aeiou]t
+
+
+SFX D Y 4
+SFX D   0     d          e
+SFX D   y     ied        [^aeiou]y
+SFX D   0     ed         [^ey]
+SFX D   0     ed         [aeiou]y
+
+
+# adjective comparative, superlative
+SFX R Y 4
+SFX R   0     r          e
+SFX R   y     ier        [^aeiou]y
+SFX R   0     er         [aeiou]y
+SFX R   0     er         [^ey]
+
+SFX T N 4
+SFX T   0     st         e
+SFX T   y     iest       [^aeiou]y
+SFX T   0     est        [aeiou]y
+SFX T   0     est        [^ey]
+
+# adverbs
+SFX Y Y 4
+SFX Y   y     ily        y
+SFX Y   0     ally       ic
+SFX Y   e     y          ble
+SFX Y   0     ly         [^cy]
+
+# adjective to noun
+SFX P Y 3
+SFX P   y     iness      [^aeiou]y
+SFX P   0     ness       [aeiou]y
+SFX P   0     ness       [^y]
+
+# plural
+SFX S Y 5
+SFX S   y     ies        [^aeiou]y
+SFX S   0     s          [aeiou]y
+SFX S   0     es         [sxz]
+SFX S   0     es         [cs][h]   # graphs / spee[ch] / cra[sh]  => only [sc]h !
+SFX S   0     s          [^sxzy]
+
+# possesive
+SFX M Y 2
+SFX M   0     's         [^sz]
+SFX M   0     '          [sz]
+
+
+# deprected suffixes
+SFX B Y 3
+SFX B   0     able       [^aeiou]
+SFX B   0     able       ee
+SFX B   e     able       [^aeiou]e
+
+SFX L Y 1
+SFX L   0     ment       .
+
+SFX Z Y 4
+SFX Z   0     rs         e
+SFX Z   y     iers       [^aeiou]y
+SFX Z   0     ers        [aeiou]y
+SFX Z   0     ers        [^ey]
+
+SFX V N 2
+SFX V   e     ive        e
+SFX V   0     ive        [^e]
+
+SFX N Y 3
+SFX N   e     ion        e
+SFX N   y     ication    y 
+SFX N   0     en         [^ey] 
+
+SFX X Y 3
+SFX X   e     ions       e
+SFX X   y     ications   y
+SFX X   0     ens        [^ey]
+
+SFX H N 2
+SFX H   y     ieth       y
+SFX H   0     th         [^y] 
+
+SFX J Y 2
+SFX J   e     ings       e
+SFX J   0     ings       [^e]
+
+
+
+
+# Mappings for suggestion
+MAP 5
+MAP ﬁ(fi)
+MAP ﬂ(fl)
+MAP ﬀ(ff)
+MAP ﬆ(st)
+MAP ﬃ(ffi)
+
+
+# break words into two at these characters
+# BREAK 4
+# BREAK -
+# BREAK ^-
+# BREAK -$
+# BREAK —
+
+
+# REP able$ ible
+# REP able$ ably
+# REP ^de dis
+# REP ^de un
+# REP ^dis de
+# REP ^dis un
+# REP ^un dis
+# REP ^un de
+# REP ^eventbased$ event-based
+
+
+## Options for suggestions
+
+# specify neighboring keys
+KEY qwertzuop|yxcvbnm|asdfghjkl|qaw|wse|edr|rft|tgz|zhu|uji|iko|olp|ays|sxd|dcf|fvg|gbh|hnj|jmk
+
+
+
+
+
+
+# word replacing
+REP 100
+REP ^witch$ which      # full words
+REP ^angel$ angle
+REP ^though$ although
+REP ^fist$ first
+REP ^alot$ a_lot
+REP ^worstcase$ worst-case
+REP ^realtime$ real-time
+REP ^whilst$ while
+REP ^amongst$ among
+REP ic$ ical         # endings
+REP ical$ ic
+REP a ei               # defaults
+REP ei a
+REP a ey
+REP ey a
+REP ai ie
+REP ie ai
+REP are air
+REP are ear
+REP are eir
+REP air are
+REP air ere
+REP ere air
+REP ere ear
+REP ere eir
+REP ear are
+REP ear air
+REP ear ere
+REP eir are
+REP eir ere
+REP ch te
+REP te ch
+REP ch ti
+REP ti ch
+REP ch tu
+REP tu ch
+REP ch s
+REP s ch
+REP ch k
+REP k ch
+REP f ph
+REP ph f
+REP gh f
+REP f gh
+REP i igh
+REP igh i
+REP i uy
+REP uy i
+REP i ee
+REP ee i
+REP j di
+REP di j
+REP j gg
+REP gg j
+REP j ge
+REP ge j
+REP s ti
+REP ti s
+REP s ci
+REP ci s
+REP k cc
+REP cc k
+REP k qu
+REP qu k
+REP kw qu
+REP o eau
+REP eau o
+REP o ew
+REP ew o
+REP oo ew
+REP ew oo
+REP ew ui
+REP ui ew
+REP oo ui
+REP ui oo
+REP ew u
+REP u ew
+REP oo u
+REP u oo
+REP u oe
+REP oe u
+REP u ieu
+REP ieu u
+REP ue ew
+REP ew ue
+REP uff ough
+REP oo ieu
+REP ieu oo
+REP ier ear
+REP ear ier
+REP ear air
+REP air ear
+REP w qu
+REP qu w
+REP z ss
+REP ss z
+REP shun tion
+REP shun sion
+REP shun cion
+REP size cise
+
+
+
+

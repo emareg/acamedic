@@ -157,8 +157,8 @@ yocto
 
 
 ampere/S
-radian
-steradian/S
+radian/MS
+steradian/MS
 hertz
 newton
 pascal

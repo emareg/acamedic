@@ -1,0 +1,533 @@
+
+
+
+# multiplicity
+mono/m
+di/m
+tri/m
+tetra/m
+hexa/m
+penta/m
+hepta/m
+octa/m
+nona/m
+deca/m
+undeca/m
+dodeca/m
+
+
+## Hydrocarbons
+meth/h
+eth/h
+prop/h
+but/h
+pent/h
+hex/h
+hept/h
+oct/h
+non/h
+dec/h
+undec/h
+dodec/h
+tridec/h
+tetradec/h
+pentadec/h
+hexadec/h
+heptadec/h
+octadec/h
+nonadec/h
+icos/h
+henicos/h
+docos/h
+# this is not correct
+benz/h   
+
+
+## Hydrocarbon suffix
+yl/xs
+oxy/x
+
+## Hydrocarbon prefixes
+hypo/p
+per/p
+cyclo/p
+iso/p
+
+
+## Hydrocarbons suffix
+ane/s
+ene/s
+adiene/s  # enes with more double bonds
+atriene/s
+anol/s
+anediol/s
+anetriol/
+anal/s
+anedial/s
+anone/s
+anedione/s
+anetrione/s
+yne/s
+ether/s
+
+
+anecarboxylic/s
+anecarboxylate/s
+boronic/s
+
+
+
+## non IUPAC: Eth-ylene
+# from https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry
+
+phenyl/p
+
+ammonio/p
+carboxy/p
+sulfanylcarbonyl/p
+selanylcarbonyl/p
+sulfo/p
+sulfino/p
+halocarbonyl/p
+carbamoyl/p
+amidino/p
+cyano/p
+isocyano/p
+formyl/p
+thioformyl/p
+oxo/p
+sulfanylidene/p
+selanylidene/p
+tellanylidene/p
+hydroxy/p
+sulfanyl/p
+selanyl/p
+tellanyl/p
+hydroperoxy/p
+hydroxysulfanyl/p
+disulfanyl/p
+amino/p
+imino/p
+hydrazino/p
+carbonofluoridoyl/p
+carbonochloridoyl/p
+carbonobromidoyl/p
+carbonoiodidoyl/p
+
+nitrocyclo/p
+hydroxycyclo/p
+aminocyclo/p
+
+
+
+## suffixes functional groups (can be added after methan)
+# -onium
+# -ammonium
+# -oic acid*
+# -thioic
+# -selenoic
+# -sulfonic
+# -sulfinic
+# -oyl
+# -amide*
+# -imide*
+# -amidine*
+# -nitrile*
+# -thial
+# -one
+# -thione
+# -selone
+# -tellone
+# -ol
+# -thiol
+# -selenol
+# -tellurol
+# -peroxol
+# -amine
+# -imine
+# -hydrazine
+
+
+
+## infixes
+# onio/i
+# imido/i
+# oxycarbonyl/i
+
+
+
+
+
+
+
+## halogene prefixes
+# halo
+fluoro/a
+chloro/a
+bromo/a
+iodo/a
+
+# others
+nitro/p
+
+
+
+
+## suffixes for cations: ide, ite, ate
+onium/c
+oate/c
+hydro/c
+amine/c
+
+
+
+
+
+
+
+
+
+
+## salts
+hydride/a
+nitride/a
+phosphide/a
+oxide/aS
+sulfide/a
+fluoride/a
+chloride/a
+bromide/a
+iodide/a
+nitrate/a
+nitrite/a
+hydrogencarbonate/a
+carbonate/a
+hydrogensulfate/a
+sulfate/a
+hydrogensulfite/a
+sulfite/a
+dihydrogenphosphate/a
+hydrogenphosphate/a
+phosphate/a
+dihydrogenphosphite/a
+hydrogenphosphite/a
+phosphite/a
+perchlorate/a
+chlorate/a
+chlorite/a
+hypochlorite/a
+
+
+## further stand-alone suffixes (also di- tri- prefix? => seems yes)
+halide
+polycarboxylic
+
+
+
+
+carbonate/a
+hydroperoxide/a
+peroxide/a
+ether/a
+hemiacetal/a
+hemiketal/a
+acetal/a
+ketal/a
+orthocarbonate
+anhydride/a
+azide/a
+nitrate/a
+cyanate/a
+cyanide/a
+isocyanide/a
+nitrite/a
+oxime/a
+sulfide/a
+disulfide/a
+sulfoxide/a
+sulfone/a
+thiocyanate/a
+isothiocyanate/a
+phosphate/a
+ester/a
+
+
+
+
+## Standalone Names
+## ====================================================================
+
+## common substance names
+chloroform
+acetone
+phenol
+ammonium
+azanium
+graphite/M
+quartz/SM
+
+
+## DNA / RNA
+adenine
+cytosine
+guanine
+thymine
+uracil
+
+
+## enzymes
+acetylcholinesterase
+amylase
+dehydrogenase
+helicase
+trypsin
+maltase
+polymerase
+reductase
+
+
+## isotope names
+deuterium/M
+tritium/M
+
+
+
+## elements
+H
+He
+Li
+Be
+B
+C
+N
+O
+F
+Ne
+Na
+Mg
+Al
+Si
+P
+S
+Cl
+Ar
+K
+Ca
+Sc
+Ti
+V
+Cr
+Mn
+Fe
+Co
+Ni
+Cu
+Zn
+Ga
+Ge
+As
+Se
+Br
+Kr
+Rb
+Sr
+Y
+Zr
+Nb
+Mo
+Tc
+Ru
+Rh
+Pd
+Ag
+Cd
+In
+Sn
+Sb
+Te
+I
+Xe
+Cs
+Ba
+La
+Ce
+Pr
+Nd
+Pm
+Sm
+Eu
+Gd
+Tb
+Dy
+Ho
+Er
+Tm
+Yb
+Lu
+Hf
+Ta
+W
+Re
+Os
+Ir
+Pt
+Au
+Hg
+Tl
+Pb
+Bi
+Po
+At
+Rn
+Fr
+Ra
+Ac
+Th
+Pa
+U
+Np
+Pu
+Am
+Cm
+Bk
+Cf
+Es
+Fm
+Md
+No
+Lr
+Rf
+Db
+Sg
+Bh
+Hs
+Mt
+Ds
+Rg
+Cn
+Nh
+Fl
+Mc
+Lv
+Ts
+Og
+
+
+hydrogen/a
+helium/a
+lithium/a
+beryllium/a
+boron/a
+carbon/a
+nitrogen/a
+oxygen/a
+fluorine/a
+neon/a
+sodium/a
+magnesium/a
+aluminium/a
+silicon/a
+phosphorus/a
+sulfur/a
+chlorine/a
+argon/a
+potassium/a
+calcium/a
+scandium/a
+titanium/a
+vanadium/a
+chromium/a
+manganese/a
+iron/a
+cobalt/a
+nickel/a
+copper/a
+zinc/a
+gallium/a
+germanium/a
+arsenic/a
+selenium/a
+bromine/a
+krypton/a
+rubidium/a
+strontium/a
+yttrium/a
+zirconium/a
+niobium/a
+molybdenum/a
+technetium/a
+ruthenium/a
+rhodium/a
+palladium/a
+silver/a
+cadmium/a
+indium/a
+tin/a
+antimony/a
+tellurium/a
+iodine/a
+xenon/a
+caesium/a   # IUPAC spelling
+barium/a
+lanthanum/a
+cerium/a
+praseodymium/a
+neodymium/a
+promethium/a
+samarium/a
+europium/a
+gadolinium/a
+terbium/a
+dysprosium/a
+holmium/a
+erbium/a
+thulium/a
+ytterbium/a
+lutetium/a
+hafnium/a
+tantalum/a
+tungsten/a
+rhenium/a
+osmium/a
+iridium/a
+platinum/a
+gold/a
+mercury/a
+thallium/a
+lead/a
+bismuth/a
+polonium/a
+astatine/a
+radon/a
+francium/a
+radium/a
+actinium/a
+thorium/a
+protactinium/a
+uranium/a
+neptunium/a
+plutonium/a
+americium/a
+curium/a
+berkelium/a
+californium/a
+einsteinium/a
+fermium/a
+mendelevium/a
+nobelium/a
+lawrencium/a
+rutherfordium/a
+dubnium/a
+seaborgium/a
+bohrium/a
+hassium/a
+meitnerium/a
+darmstadtium/a
+roentgenium/a
+copernicium/a
+nihonium/a
+flerovium/a
+moscovium/a
+livermorium/a
+tennessine/a
+oganesson/a

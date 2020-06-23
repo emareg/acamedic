@@ -21,13 +21,13 @@ Download this repository and then decide for which applications you want to inst
 * copy `en-Academic.dic` and `en-Academic.aff` to  `/usr/share/hunspell`
 
 **Install LibreOffice Extension**<br>
-* Automatic: Download and open [`acamedic-libreoffice.oxt`](addons/acamedic-libreoffice.oxt) file in the `addons` folder.
+* Automatic: Download and open [`acamedic-libreoffice.oxt`](addons/acamedic-libreoffice.oxt?raw=true) file in the `addons` folder.
 * Manual: 
 	* Start LibreOffice and select `Tools → Extension Manager... → Add`. 
 	* Open `acamedic-libreoffice.oxt` from the `addons` folder.
 
 **Install Thunderbird Extension**<br>
-* Automatic: Download and open [`acamedic-mozilla.xpi`](addons/acamedic-mozilla.xpi).
+* Automatic: Download and open [`acamedic-mozilla.xpi`](addons/acamedic-mozilla.xpi?raw=true).
 * Manual: 
 	* Start Thunderbird and select `Tools → Add-ons → ⚙ → Install Add-on from file`.
 	* Open `acamedic-mozilla.xpi` from the `addons` folder.

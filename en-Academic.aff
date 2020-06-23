@@ -25,13 +25,15 @@ CHECKCOMPOUNDDUP   # Forbid word duplication in compounds (e.g. foofoo).
 COMPOUNDMORESUFFIXES
 
 # compound rules
+# m: multiplicity: mono-, di-, tri-
+# h: Hydrocarbons: -meth-, -eth-, -prop-
+# a: no suffix, e.g. element names
 COMPOUNDRULE 5
 COMPOUNDRULE d*u   # for SI units: digit*unit e.g. 3ms
 COMPOUNDRULE m?hxp?m?hs # for chemicals: prefix*chemical+suffix, e.g. di+meth+anol
 COMPOUNDRULE p?m?hs
 COMPOUNDRULE p?m?hx
-COMPOUNDRULE ma
-
+COMPOUNDRULE m*a
 
 
 
@@ -72,7 +74,8 @@ SFX G   0     ing        [eoy]e
 SFX G   0     ing        [^e] 
 
 
-# Gerund with doubled consonant
+# Gerund with doubled consonant: open => openning?? honor [^aeiou][aeiou][bkdmnprt]/
+# does not work
 # SFX Gd Y 8
 # SFX 0 bing [^aeiou][aeiou]b
 # SFX 0 king [^aeiou][aeiou]c

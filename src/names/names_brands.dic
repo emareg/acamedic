@@ -13,7 +13,6 @@ Android/M
 Apollo
 Apple/M
 aptX
-Harvard
 ARM
 Asus
 Atmel/M
@@ -44,6 +43,7 @@ GNATprove/M
 GNOME/M
 Go
 Google/M
+Harvard
 Haskell/M
 Hewlett-Packard
 Hitachi/M
@@ -54,7 +54,9 @@ IBM/M
 IEEE/M
 Infineon
 Intel/M
+iOS
 IoT
+iPhone/SM
 ISBN
 JavaScript
 KDE
@@ -89,7 +91,6 @@ PayPal/M
 Perl
 Pixhawk
 Python
-QoS
 Ravenscar
 ReactJS
 Renault

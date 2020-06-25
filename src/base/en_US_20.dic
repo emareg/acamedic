@@ -23,7 +23,8 @@ absorb/DSG
 abstract/SDG
 abstraction/MS
 absurd
-abuse/DSGV
+abuse/DSG
+abusive/Y
 academic/SM
 accelerate/GSD
 acceleration/MS
@@ -53,7 +54,6 @@ acid
 ago
 acorn
 acoustic
-acquaintance
 acquire/DSG
 acquisition/MS
 acronym/SM
@@ -69,7 +69,8 @@ actual/Y
 adapt/SDRG
 adaptation/MS
 add/DGS
-addict/GVSD
+addict/GSD
+addictive/Y
 addition/MS
 additional/Y
 address/GMDS
@@ -99,8 +100,8 @@ adverse/Y
 advertise/DSG
 advertisement/MS
 advice
-advise/DSZGB
-adviser/M
+advise/DSGB
+adviser/MS
 advisory
 advocate/MGDS
 aerial
@@ -326,7 +327,8 @@ attendant
 attention/SM
 attitude/MS
 attorney/SM
-attract/SDGV
+attract/SDG
+attractive/Y
 attraction/MS
 attribute/DSMG
 audible
@@ -446,6 +448,7 @@ beginning
 begun
 behalf
 behave/DSG
+email/GMDS
 behavior/MS
 behind
 being/MS
@@ -486,7 +489,6 @@ billion/SM
 bin
 binary
 bind/GS
-biochemistry
 biography
 biological
 biologist/SM
@@ -594,7 +596,8 @@ brother/MS
 brought
 brown
 browse/DSG
-brush/MSRDGZ
+brush/MSDG
+brusher/MS
 brutal/Y
 bubble/MS
 buck/MS
@@ -614,7 +617,7 @@ bullet/SM
 bulletin
 bump
 bunch
-bundle
+bundle/SDGM
 burden
 bureaucracy
 burn/DSG
@@ -814,7 +817,8 @@ civilian
 civilization/MS
 civilize/DSG
 claim/MDGS
-clarify/GNDS
+clarify/GDS
+clarification/MS
 clarity
 clash/S
 class/GMDS
@@ -872,7 +876,8 @@ collapse/MGDS
 collar
 collate/DSG
 colleague/SM
-collect/ADVGS
+collect/ADGS
+collective/Y
 collectable/S
 collection/SM
 collector/SM
@@ -1302,12 +1307,15 @@ deed/SM
 deem/SGD
 deep/TRY
 defeat/DGSM
-defect/MVS
+defect/MS
+defective/Y
 defend/DGS
-defense/V
+defense/MS
+defensive/Y
 deficiency/SM
 define/AGDS
-definite/YV
+definite/Y
+definitive/Y
 definition/MS
 defy
 degenerate/SDG
@@ -1378,7 +1386,8 @@ destruction/MS
 destructive
 detach/SDG
 detail/MSDG
-detect/DBSGV
+detect/DBG
+detective/MS
 detection/MS
 detector
 deter
@@ -1477,7 +1486,8 @@ dissimilar
 distance/MS
 distant
 distasteful/Y
-distinct/YV
+distinct/Y
+distinctive/Y
 distinction/MS
 distinguish/DSG
 distort/DGS
@@ -1815,7 +1825,8 @@ expectable/UY
 expectation/SM
 expedition/MS
 expenditure
-expense/SMV
+expense/SM
+expensive/Y
 experience/DSMG
 experiment/MGDS
 experimental/Y
@@ -2062,7 +2073,8 @@ foul
 found/SDG
 foundation/MS
 fountain
-four/H
+four
+fourth
 fourteen
 fraction/SM
 fragile
@@ -2235,7 +2247,8 @@ grip/SM
 groan
 ground/MS
 group/GMDS
-grow/SGH
+grow/SG
+growth/S
 grown
 guarantee/MDSG
 guard/GMDS
@@ -2483,7 +2496,8 @@ impose/DSG
 impossibility/SM
 impossible
 impractical/Y
-impress/GVDS
+impress/GDS
+impressive/Y
 impression/MS
 imprison/SDG
 improbable
@@ -2579,7 +2593,8 @@ inhibition
 initial/SY
 initialization/MS
 initialize/DSG
-initiate/GVDS
+initiate/GDS
+initiative/MS
 inject/SDG
 injection/SM
 injector/SM
@@ -2631,7 +2646,8 @@ intellect
 intellectual/Y
 intelligence
 intelligent/Y
-intense/YV
+intense/Y
+intensive/Y
 intensity/MS
 intent
 intention/SM
@@ -3281,7 +3297,8 @@ none
 nonetheless
 nonsense
 noon
-nor/H
+nor
+north
 norm
 normal/Y
 normality/MS
@@ -3322,7 +3339,8 @@ nurse/MS
 nut/MS
 oar
 obey/DGS
-object/SMDGV
+object/SMDG
+objective/MSY
 objection/SMB
 obligation/MS
 obligatory
@@ -3355,7 +3373,8 @@ of
 off
 offend/SDG
 offender/MS
-offense/MVS
+offense/MS
+offensive/Y
 offer/SGMD
 offering/MS
 offhand
@@ -3533,7 +3552,8 @@ particular/Y
 partition/SDG
 partner/SM
 party/SM
-pass/GVMDS
+pass/GMDS
+passive/Y
 passage/SM
 passenger/SM
 passion/MS
@@ -3848,7 +3868,8 @@ process/MDSG
 processor/SM
 produce/ADSG
 producer/MS
-product/SVM
+product/SM
+productive/Y
 production/A
 productivity/M
 profession/MS
@@ -3889,7 +3910,8 @@ proprietary
 prose
 prosecute/DSG
 prosecution/MS
-prospect/VMS
+prospect/MS
+prospective
 prostitute/MS
 protect/DSG
 protection/M
@@ -4008,7 +4030,8 @@ reach/DSG
 react/SDG
 reactionary
 reactor/MS
-read/GSJ
+read/GS
+readings
 readability
 readable/U
 reader/MS
@@ -4167,7 +4190,8 @@ rest/SDG
 restaurant/SM
 restore/SDG
 restrain/SDG
-restrict/GVDS
+restrict/GDS
+restrictive/Y
 restriction/MS
 result/MDSG
 resume/SDG
@@ -4396,7 +4420,8 @@ set's
 set/AS
 setting/MS
 settle/DSG
-seven/H
+seven
+seventh
 several
 severe/Y
 severity/M
@@ -4492,7 +4517,8 @@ site/SM
 sitting
 situate/DSG
 situation/MS
-six/H
+six
+sixth
 sixteen
 sixty/SM
 size/MGDS
@@ -4768,7 +4794,8 @@ stunt
 stupid
 stupidity
 style/SM
-subject/GVMDS
+subject/GMDS
+subjective/Y
 submission/MS
 submit/S
 submitted
@@ -4800,7 +4827,8 @@ successor/MS
 such
 sudden/Y
 sue/SDG
-suffer/SZGDR
+suffer/SGD
+sufferer/MS
 suffice/SDG
 sufficient/IY
 suffix
@@ -4962,7 +4990,8 @@ temporarily
 temporary/F
 tempt/SDG
 temptation/MS
-ten/MHS
+ten/MS
+tenth/S
 tend/ISGD
 tendency/SM
 tender
@@ -5059,7 +5088,8 @@ tighten/SDG
 tightness
 tile/MS
 till
-time/MGJDS
+time/MGDS
+timings
 timer/MS
 timescale
 timetable
@@ -5195,7 +5225,8 @@ turntable
 tutor
 tutorial
 twelve
-twenty/H
+twenty
+twentieth
 twice
 twin/MS
 twist/SDG
@@ -5578,7 +5609,8 @@ yesterday
 yet
 yield/S
 you're
-you/H
+you
+youth
 young/TR
 your/S
 yourself

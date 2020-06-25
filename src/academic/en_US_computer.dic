@@ -103,7 +103,8 @@ foreach
 framework/SM
 freshness
 frontend/S
-fuzz/DSGRZ
+fuzz/DSG
+fuzzer/MS
 gadget/SM
 gateway/SM
 gcc
@@ -118,7 +119,8 @@ inflow/MSG
 infotainment
 init
 inline/SDG
-instantiate/DSGNVX
+instantiate/DSG
+instantiation/MS
 interconnect/SDG
 interconnection/S
 Internet
@@ -195,6 +197,7 @@ precondition/S
 preemption
 preemptive/Y
 preempt/SDG
+failover
 prefetcher/MS
 preimage/S
 prepend/D

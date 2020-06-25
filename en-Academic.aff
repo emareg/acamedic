@@ -134,7 +134,7 @@ SFX M   0     's         [^sz]
 SFX M   0     '          [sz]
 
 
-# deprected suffixes
+# maybe deprected suffixes
 SFX B Y 3
 SFX B   0     able       [^aeiou]
 SFX B   0     able       ee
@@ -143,33 +143,8 @@ SFX B   e     able       [^aeiou]e
 SFX L Y 1
 SFX L   0     ment       .
 
-SFX Z Y 4
-SFX Z   0     rs         e
-SFX Z   y     iers       [^aeiou]y
-SFX Z   0     ers        [aeiou]y
-SFX Z   0     ers        [^ey]
+# deprected suffixes: Z,V,N,X,H,J
 
-SFX V N 2
-SFX V   e     ive        e
-SFX V   0     ive        [^e]
-
-SFX N Y 3
-SFX N   e     ion        e
-SFX N   y     ication    y 
-SFX N   0     en         [^ey] 
-
-SFX X Y 3
-SFX X   e     ions       e
-SFX X   y     ications   y
-SFX X   0     ens        [^ey]
-
-SFX H N 2
-SFX H   y     ieth       y
-SFX H   0     th         [^y] 
-
-SFX J Y 2
-SFX J   e     ings       e
-SFX J   0     ings       [^e]
 
 
 

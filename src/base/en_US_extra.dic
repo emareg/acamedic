@@ -191,6 +191,10 @@ mutable/YP
 predictor/SM
 predictive/PY
 heterogeneous/Y
+biochemistry
+acquaintance
+imprecision
+trademark/GMDS
 collision/SM
 colloquial/Y
 collude/SDG
@@ -653,7 +657,8 @@ parametrization/SM
 parametrize/GDS
 participation/MS
 particularity/S
-particularize/ZGDRS
+particularize/GDS
+particularizer/MS
 partnership/MS
 patentability
 patentable/U
@@ -688,7 +693,8 @@ practicability
 practicably
 pre
 predefine/GSD
-predetermine/ZGBDRS
+predetermine/GBDS
+predeterminer/MS
 predicate/SDG
 preprint/SDG
 preservability

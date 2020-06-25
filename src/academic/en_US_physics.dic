@@ -124,7 +124,8 @@ spacetime
 stellar
 stripline/MS
 subatomic
-superconduct/SGVD
+superconduct/SGD
+superconductive
 superconduction/SM
 superconductivity/SM
 superconductor/MS

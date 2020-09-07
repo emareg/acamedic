@@ -134,6 +134,15 @@ SFX M   0     's         [^sz]
 SFX M   0     '          [sz]
 
 
+# latin plural
+SFX Q Y 3
+SFX Q   us    i           us
+SFX Q   um    a           um
+SFX Q   x     ces         ix
+
+
+
+
 # maybe deprected suffixes
 SFX B Y 3
 SFX B   0     able       [^aeiou]
@@ -144,6 +153,7 @@ SFX L Y 1
 SFX L   0     ment       .
 
 # deprected suffixes: Z,V,N,X,H,J
+
 
 
 

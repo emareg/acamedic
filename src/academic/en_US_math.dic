@@ -40,10 +40,12 @@ convergence/MS
 convergent
 convolution/MS
 convolutional/Y
+convolve/GSD
 coprime/MS
 cos
 cosine/SM
 covariance
+covariant
 curvature/SM
 cyclic
 cyclical/Y
@@ -100,6 +102,7 @@ idempotent
 infimum
 infinitesimal/SY
 injective
+invertible
 isomorphism/MS
 isoperimetric
 kth
@@ -118,6 +121,7 @@ matrix
 moduli
 modulo
 modulus
+monotonic/Y
 monotonous/UY
 multidimensional
 multidimensionality
@@ -135,6 +139,7 @@ nonsymmetric/Y
 normalization/ACMS
 normalize/ADSG
 normalized/UC
+normalizer/MS
 nth
 operand/MS
 orthogonal/Y
@@ -162,13 +167,14 @@ radial/SMY
 radix/SM
 reciprocal/YS
 rectangular
-monotonic/Y
 residual/SYM
 secant/SMY
 semidefinite
 simplex/S
 sin
 singularity/S
+sinusoid/MS
+sinusoidal/Y
 spherical/PY
 spheroid/SM
 spheroidal/Y

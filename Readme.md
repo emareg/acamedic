@@ -4,7 +4,7 @@ A small Hunspell dictionary for professional, scientific writing.
 
 * **High Quality:** based on SCOWL en-US dictionary and thoroughly tested.
 * **High Sensitivity:** 
-	* removed words such as `thee`, `fatuous`, or `jerk`.
+	* removed words such as `thee`, `posses`, `fatuous`, or `jerk`.
 	* less missed errors (but probably more false-positives)
 * **Academic Language:** 
 	* added words such as `overapproximation`, `whitepaper`, and `bitmask`.
@@ -82,10 +82,10 @@ I have created this dictionary using the following process:
 
 #### Terms I have removed
 - archaic terms such as `brethren`, `cobbler`, `sod`, `thee`, `thou`, `unto`, `wive`
-- inappropriate words such as `cum`, `slut`, `gnome`, `sexy`
+- inappropriate words such as `cum`, `slut`, `gnome`, `sexy`, `slave`
 - narrative adjectives such as `cunning`, `fatuous`, `fierce`, `ghastly`, `hitherto`, `pompous`, `sheer`
 - uncommon words with common alternatives, such as `envisage` (use `envision`), `futile` (use `useless`),  or `horrific` (use `horrible`). 
-- colloquial words such as `eh`, `gig`, `hey`, `lad`, `lousy`, `oh`
+- colloquial words such as `eh`, `gig`, `hey`, `lad`, `lousy`, `oh`, `bugger`
 - words that are very far away from technical contexts, such as `horde`, `hail`, `hog`, `hut`, `lark`, `mummy`, `bigot`
 - religious terms such as `heresy`, `sermon`, `sinful`
 - words often used to insult: `hypocrite`, `illiterate`, `inane`, `jerk`, `moron`, `snobbery`
@@ -108,6 +108,7 @@ I do automatic testing on the resulting dictionary file:
 		- Google
 		- [Cambridge Dictionary](https://dictionary.cambridge.org/)
 		- [Oxford Dictionary](https://www.oxfordlearnersdictionaries.com/definition/academic)
+<!-- - check that only few words are one edit (typo) away from each other. -->
 
 
 ### Lessons Learned

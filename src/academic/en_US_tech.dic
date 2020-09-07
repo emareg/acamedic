@@ -37,3 +37,13 @@ coil/MS
 telegraph/MSDG
 autopilot/MS
 supercharger/MS
+solder/MSDG
+resistor/SM
+compressor/SM
+airline/MS
+motorbike/MS
+motorboat/MS
+motorcycle/MS
+hexacopter/MS
+trapdoor/MS
+

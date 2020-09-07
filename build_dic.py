@@ -1,4 +1,5 @@
 import os
+import re
 import shutil
 
 def merge_files(inFiles):
@@ -10,6 +11,7 @@ def merge_files(inFiles):
 
     lines = sorted(list(text.splitlines()))
     text = "\n".join(lines).strip()
+    text = re.sub(r"#.*?\n", "\n", text).strip()  # remove comments
     text = "{}\n".format(text.count('\n')+1) + text
     with open('en-Academic.dic', 'w') as f:
         f.write(text)
@@ -59,6 +61,7 @@ def install():
 merge_files(['src/base/en_US_20.dic', 
              'src/base/en_US_extra.dic', 
              'src/base/en_US_abbr.dic', 
+             'src/base/en_Latin.dic', 
              'src/academic/en_US_tech.dic', 
              'src/academic/en_US_computer.dic', 
              'src/academic/en_US_math.dic', 

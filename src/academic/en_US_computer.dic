@@ -2,11 +2,8 @@ acceptor/MS
 accumulator/MS
 actuator/MS
 ad-hoc
-administrator/SM
 admin/MS
-libc
-handheld/MS
-intruder/M
+administrator/SM
 allocator/SM
 antialiasing
 app/SM
@@ -32,6 +29,9 @@ blocktime/S
 bool
 boolean/S
 bootloader/MS
+bootstrap/SM
+bootstrapped
+bootstrapping
 botnet/MS
 breakpoint/MS
 broadband/MS
@@ -53,6 +53,7 @@ chiplet/S
 chipset/S
 cipher/DMSG
 ciphertext/S
+codebase/M
 com
 concatenation/MS
 constructor/MS
@@ -72,13 +73,8 @@ daemon/MS
 datacenter/MS
 dataflow/MS
 datasheet/S
+datatype/MS
 deadlock/MSDG
-superclass
-writable
-notebook/MS
-bootstrap/SM
-bootstrapping
-bootstrapped
 debugged
 debugger/SM
 debugging
@@ -117,6 +113,7 @@ fuzzer/MS
 gadget/SM
 gateway/SM
 gcc
+handheld/MS
 handover/S
 hardcode/GDS
 homepage/S
@@ -135,6 +132,7 @@ interconnection/S
 Internet
 interpreter/SM
 Intranet
+intruder/M
 jitter/DSG
 joiner/S
 keypair/S
@@ -144,6 +142,7 @@ laptop/MS
 latency/S
 lexer/S
 lib/S
+libc
 linker/MS
 liveness
 login/S
@@ -162,11 +161,8 @@ microservice/MS
 middleware
 monolithic
 monospace
-datatype/MS
-subclass/MS
 motherboard/S
 msg
-untyped
 multicast
 multicore
 multihop
@@ -183,6 +179,7 @@ newline/S
 nonblocking
 nonce/S
 nonzero
+notebook/MS
 octal
 octet/SM
 offline
@@ -242,8 +239,6 @@ secp256k1
 secp256r1
 secp384r1
 semaphore/GMSD
-typechecker/MS
-
 setup/SM
 simulator/MS
 smartphone/MS
@@ -254,12 +249,11 @@ spamming
 spyware/M
 src
 standby/M
-subtype/MSDG
-typecheck/MSDG
 startup/MS
 stateful
 stateless/P
 stdout
+subclass/MS
 subdirectory/SM
 sublayer/S
 subnormal/MS
@@ -267,7 +261,9 @@ subprogram/SM
 substring/S
 subsystem/S
 subtree/S
+subtype/MSDG
 sudo/R
+superclass
 superframe/S
 superuser/S
 sync/SDG
@@ -289,11 +285,14 @@ transducer/MS
 transpond/SDG
 transponder/MS
 txt
+typecheck/MSDG
+typechecker/MS
 uncommitted
 underflow/SDG
 unencrypted
 unroll/DGS
 unsigned
+untyped
 upload/SDG
 uptime/S
 username/SM
@@ -312,5 +311,6 @@ web
 website/S
 wideband
 wireless/MDSYP
+writable
 www
 xor

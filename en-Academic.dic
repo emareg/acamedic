@@ -1,4 +1,4 @@
-10449
+10502
 0/d
 0cm
 0em
@@ -612,6 +612,7 @@ Estonia
 Estonian/S
 Ethan
 Ethereum/M
+Ethernet/M
 Ethiopia
 Ethiopian/S
 Eu
@@ -698,6 +699,7 @@ Freiburg
 French
 Fribourg
 Frida
+Friday/MS
 Frieda 
 Friedrich
 Fritz
@@ -1377,6 +1379,7 @@ Marah
 Marburg
 Marc
 Marcel
+March/MS
 Marco
 Marcus
 Mareike
@@ -1428,6 +1431,7 @@ Max
 Maxim
 Maximilian
 Maxwell/M
+May/MS
 Maya
 Maynooth
 Maysoun
@@ -1492,6 +1496,7 @@ Moldovan/S
 Mona
 Monacan/S
 Monaco
+Monday/MS
 Mongolia
 Mongolian/S
 Monika
@@ -1873,6 +1878,7 @@ Sara
 Sarah
 Sascha
 Saskia
+Saturday/MS
 Saudi
 Sb
 Sc
@@ -1970,6 +1976,7 @@ Stuttgart
 Sudan
 Sudanese
 Suha
+Sunday/MS
 Sunderland
 Surabaya
 Surat
@@ -2058,6 +2065,7 @@ Thomson/M
 Thorben
 Thore
 Thunderbird/M
+Thursday/MS
 Ti
 Tianjin
 Tijuana
@@ -2103,6 +2111,7 @@ Trondheim
 TrueType
 Ts
 Tuana
+Tuesday/MS
 Tunis
 Tunisia
 Tunisian/S
@@ -2200,6 +2209,7 @@ Warsaw
 Washington
 Wayne
 Wb/u
+Wednesday/MS
 Wei
 Wen
 Wenzhou
@@ -3046,7 +3056,7 @@ bijection/S
 bijective
 bike/MSDG
 biker/MS
-bilinear
+bilinear/Y
 bill/SM
 billion/SM
 bimetal
@@ -3384,8 +3394,8 @@ centrifugal/SMY
 century/SM
 ceremony
 cerium/a
-certain/Y
-certainty/U
+certain/UY
+certainty/US
 certificate/MS
 certification/ACM
 certifier/MS
@@ -3542,7 +3552,8 @@ clock/SM
 clockwise
 clog
 clone/SM
-close/DRSMYTG
+close/EMSDG
+close/RYT
 closet
 closure
 cloth/MS
@@ -3561,6 +3572,7 @@ coaxial/Y
 cobalt/a
 code's
 code/CGDS
+codebase/M
 coefficient/SM
 coffee
 cog/MS
@@ -3762,7 +3774,6 @@ confine/SDG
 confirm/ASDG
 confirmation/AMS
 conflict/SGMD
-conform
 conformance/S
 confront/SDG
 confuse/DSG
@@ -3898,6 +3909,7 @@ cope/SDG
 copernicium/a
 copper
 copper/a
+coprime
 coprime/MS
 copy/DSMG
 copyright
@@ -4182,6 +4194,8 @@ degree/MS
 dehydrogenase
 deity
 delay/MSDG
+delegate/SDG
+delegation/MS
 delete/DSG
 deletion/MS
 deliberate/Y
@@ -4438,6 +4452,7 @@ documentary
 documentation/MS
 dodec/h
 dodeca/m
+dodecahedron/MS
 dodge
 does
 doesn't
@@ -4759,8 +4774,11 @@ equivalency/S
 equivalent/YMS
 era
 erase/DRSG
+erasure/MS
 erbium/a
 ergo
+ergonomic/S
+ergonomically
 err
 erroneous
 error/MS
@@ -5180,7 +5198,7 @@ forgot
 forgotten
 fork/SGDM
 form's/A
-form/IASGD
+form/IACFSGD
 formal/IY
 formalism/MS
 formalization/MS
@@ -5528,8 +5546,10 @@ he
 head/GSMD
 headache
 header/MS
+heading/MS
 headline/MS
 health
+healthcare
 healthy/U
 heap
 hear/GS
@@ -5589,6 +5609,8 @@ hexa/m
 hexacopter/MS
 hexadec/h
 hexadecimal
+hexagon/MS
+hexagonal/Y
 hid
 hidden
 hide/DSG
@@ -5723,6 +5745,9 @@ iPhone/SM
 ice
 icon/SM
 icos/h
+icosahedra
+icosahedral/Y
+icosahedron/MS
 icy/RST
 id
 idea/SM
@@ -6082,6 +6107,7 @@ irony
 irrational/Y
 irrationalism
 irrationality/MS
+irrecoverable/Y
 irreducible
 irregular/Y
 irrelevant
@@ -6320,6 +6346,9 @@ left
 leftover/MS
 leg/MS
 legal/Y
+legality/MS
+legalization/MS
+legalize/SDG
 legend
 legendary
 legible
@@ -6624,6 +6653,9 @@ mechanical/Y
 mechanism/SM
 media
 median
+mediate/SDG
+mediation/SM
+mediator/MS
 medical
 medicine
 medieval
@@ -7208,6 +7240,10 @@ ocean/SM
 oct/h
 octa/m
 octadec/h
+octagon/MS
+octahedra
+octahedral/Y
+octahedron/MS
 octal
 octet/SM
 odd/YS
@@ -7333,6 +7369,7 @@ our/S
 ourselves
 out/R
 outbound
+outbreak/MS
 outcome/MS
 outcry
 outdated
@@ -7639,7 +7676,7 @@ personality/SM
 personalization/MS
 personalize/SDG
 personnel
-perspective
+perspective/MS
 persuade/SDG
 persuasion
 perverse
@@ -8139,7 +8176,8 @@ quantifier/MS
 quantify/DSG
 quantitative/Y
 quantity/SM
-quantization/S
+quantization/MS
+quantize/DSG
 quantum
 quark/SM
 quarter/MS
@@ -8273,6 +8311,7 @@ reconsider
 record/GMDS
 recorder/MS
 recording/MS
+recoverable/Y
 recovery
 recreational/Y
 recruit/GLSD
@@ -8416,6 +8455,7 @@ reside/SDG
 residence
 resident/SM
 residual/SYM
+residue/MS
 resignation
 resilient/Y
 resist
@@ -8682,6 +8722,7 @@ selfish
 sell/GSM
 semantic/SY
 semaphore/GMSD
+semester/SM
 semi
 semiconductor/MS
 semidefinite
@@ -9540,7 +9581,10 @@ testbed/S
 testcase/S
 tetra/m
 tetradec/h
+tetrahedra
 tetrahedral
+tetrahedral/Y
+tetrahedron/MS
 tetrahedron/MS
 tex
 text/FMS
@@ -9729,7 +9773,10 @@ transceive/SDG
 transceiver/MS
 transcendence/MS
 transcendental/Y
+transcontinental
+transcribe/SDG
 transcript/MS
+transcription/MS
 transduce/SDG
 transducer/MS
 transfer/MS
@@ -9793,6 +9840,10 @@ trigonometric/Y
 trigonometry/MS
 trillion/SM
 trilogy
+trim/S
+trimester/SM
+trimmed
+trimming
 trip/MS
 triple/SD
 triplet/MS
@@ -9880,7 +9931,6 @@ unbounded
 unbundled
 uncalibrated
 uncategorized
-uncertain
 uncertified
 unchanged
 unclassified
@@ -9967,6 +10017,7 @@ unlimited
 unload
 unmapped
 unmatched
+unmediated
 unmitigated
 unmodified
 unmodulated
@@ -10307,6 +10358,7 @@ workflow/S
 working/MS
 workload/SM
 workshop/MS
+workspace/MS
 workstation/MS
 world/MS
 worldwide
@@ -10328,6 +10380,7 @@ wrapper/SM
 wrapping
 wreck/DGS
 wrist
+wristband/MS
 writable
 write/GS
 writer/MS

@@ -724,8 +724,8 @@ center/GMDS
 central/Y
 century/SM
 ceremony
-certain/Y
-certainty/U
+certain/UY
+certainty/US
 certificate/MS
 certifier/MS
 certify/SDG
@@ -847,7 +847,8 @@ clique
 clock/SM
 clog
 clone/SM
-close/DRSMYTG
+close/EMSDG
+close/RYT
 closet
 closure
 cloth/MS
@@ -859,7 +860,6 @@ clumsy
 cluster/MSDG
 coach
 coal
-oftentimes
 coast
 coat/MS
 code's
@@ -1490,7 +1490,6 @@ distortion/MS
 distract/DSG
 distress/DSG
 distribute/AGDS
-wheelchair/MS
 district
 disturb/DSG
 disturbance
@@ -2301,6 +2300,8 @@ harmful/Y
 harmless
 harmony
 harsh
+harvest/MSDG
+harvester/MS
 has
 hash/SDG
 hasten
@@ -2316,6 +2317,7 @@ he
 head/GSMD
 headache
 header/MS
+heading/MS
 headline/MS
 health
 healthy/U
@@ -2696,10 +2698,10 @@ inventor
 inverse/SDG
 invert/SGD
 invest/SDG
-investor/MS
 investigate/DSG
 investigation/MS
 investment/MS
+investor/MS
 invitation/MS
 invite/DSG
 invoke/DSG
@@ -3388,6 +3390,7 @@ offset/S
 offsetting
 offspring/MS
 often
+oftentimes
 oil
 old/TR
 omission/SM
@@ -3628,7 +3631,7 @@ person/MS
 personal/Y
 personality/SM
 personnel
-perspective
+perspective/MS
 persuade/SDG
 persuasion
 perverse
@@ -3879,8 +3882,6 @@ profession/MS
 professional/SM
 professor/MS
 profit/M
-harvest/MSDG
-harvester/MS
 profitable/Y
 profound
 program/MS
@@ -4007,8 +4008,6 @@ raid/SM
 rail/SM
 railroad/MS
 railway/MS
-tornado/M
-tornadoes
 rain/SDG
 rainbow
 raise/MGDS
@@ -4177,6 +4176,7 @@ rescue/MSDG
 resemblance
 resemble/SDG
 reservation/MS
+reserve's
 resetting
 reside/SDG
 residence
@@ -4419,7 +4419,6 @@ serial
 series
 serious/YP
 servant/MS
-reserve's
 serve/CAFGDS
 server/SM
 service/MS
@@ -5142,6 +5141,8 @@ topic/SM
 topical
 tore
 torn
+tornado/M
+tornadoes
 torture/MS
 toss
 total/Y
@@ -5263,7 +5264,6 @@ unbalanced
 unbearable
 unbelievably
 unbiased
-uncertain
 uncertified
 unchanged
 uncle
@@ -5519,6 +5519,7 @@ what
 whatever
 whatsoever
 wheel/MS
+wheelchair/MS
 when
 whenever
 where
@@ -5609,6 +5610,7 @@ wrapper/SM
 wrapping
 wreck/DGS
 wrist
+wristband/MS
 write/GS
 writer/MS
 writing/MS

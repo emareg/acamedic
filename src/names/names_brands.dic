@@ -5,7 +5,6 @@ Ada/M
 Adacore/M
 Adobe/M
 Airbus
-Arduino/MS
 Amazon/M
 AMD/M
 Amiga
@@ -14,6 +13,7 @@ Android/M
 Apollo
 Apple/M
 aptX
+Arduino/MS
 ARM
 Asus
 Atmel/M
@@ -34,6 +34,7 @@ Dell
 Dropbox
 Elsevier/M
 Ethereum/M
+Ethernet/M
 Facebook/M
 Firefox
 FreeBSD

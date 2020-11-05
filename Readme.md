@@ -41,7 +41,12 @@ Copy `en-Academic.dic` and `en-Academic.aff` to `~/.config/sublime-text-3/Packag
 2. copy `en-Academic.dic` and `en-Academic.aff` to `~/.vscode/extensions/denisgerguri.hunspell-spellchecker-1.0.1/languages/`
 3. Follow instructions at https://marketplace.visualstudio.com/items?itemName=denisgerguri.hunspell-spellchecker#adding-new-language
 
-
+**Install for TeXstudio**<br>
+1. Start TeXstudio and select 'Options → configure Texstudio ... → Language ...'
+2. Under the spell check sub-group, check the path of the spelling dictionary. In Windows OS, the path is: 'C:\Program Files (x86)\texstudio\dictionaries'
+3. Copy `en-Academic.dic` and `en-Academic.aff` to the path from step 2. 
+4. From the same configuration window of step 2, you can choose `en-Academic` from the drop menu of the default language. 
+5. Restart TeXstudio
 
 
 

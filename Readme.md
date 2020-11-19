@@ -48,6 +48,12 @@ Copy `en-Academic.dic` and `en-Academic.aff` to `~/.config/sublime-text-3/Packag
 4. From the same configuration window of step 2, you can choose `en-Academic` from the drop menu of the default language. 
 5. Restart TeXstudio
 
+**Install for Texmaker**<br>
+1. Start Texmaker and select 'Options → Configure Texmaker → Editor'
+2. At spelling dictionary, enter the path of the downloaded repository or click the browse button.
+3. Select `en-Academic.dic`.
+4. Click OK to close.
+
 
 
 ## Contributing Words

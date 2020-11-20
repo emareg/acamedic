@@ -33,8 +33,8 @@ Download this repository and then decide for which applications you want to inst
 	* Open `acamedic-mozilla.xpi` from the `addons` folder.
 
 **Install for Sublime-Text**<br>
-Copy `en-Academic.dic` and `en-Academic.aff` to `~/.config/sublime-text-3/Packages/Language - English/`
-
+Linux: Copy `en-Academic.dic` and `en-Academic.aff` to `~/.config/sublime-text-3/Packages/Language - English/`
+Windows: Copy `en-Academic.dic` and `en-Academic.aff` to `C:\Users\YOUR_USER_NAME\AppData\Roaming\Sublime Text 3\Packages\Language - English` while replacing `YOUR_USER_NAME` with your username.
 
 **Install for Visual Studio Code**<br>
 1. Install the extension `denisgerguri.hunspell-spellchecker` (`Ctrl+Shift+P`, type `Ext install`, type `hunspell`)

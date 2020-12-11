@@ -1,4 +1,4 @@
-10502
+10518
 0/d
 0cm
 0em
@@ -2320,7 +2320,6 @@ absorb/DSG
 absorption/S
 abstract/SDG
 abstraction/MS
-absurd
 abuse/DSG
 abusive/Y
 academia/M
@@ -2465,7 +2464,7 @@ afterward/S
 again
 against
 age/MGDS
-agency
+agency/MS
 agenda
 agent/SM
 aggravate/SDG
@@ -2486,7 +2485,7 @@ air
 airbag/MS
 aircraft/M
 airline/MS
-airport
+airport/MS
 airtight
 al
 alarm/DGS
@@ -2494,7 +2493,7 @@ albeit
 album/MS
 alcohol
 alcoholic
-alert
+alert/SDG
 algebra
 algebraic
 algorithm/SM
@@ -2806,7 +2805,7 @@ atlas
 atmosphere
 atmospheric
 atom/SM
-atomic
+atomic/Y
 atomicity/S
 atriene/s
 atrocity/SM
@@ -2919,6 +2918,7 @@ bake/DSG
 balance/ASDG
 ball/SM
 ballet
+balloon/MS
 ballot
 ban/S
 banal
@@ -3373,6 +3373,7 @@ causal/Y
 causality/S
 cause/DSMG
 caution/MS
+cautious/Y
 cave
 caveat
 cease/DSG
@@ -3714,7 +3715,7 @@ compound/MSDG
 comprehend
 comprehensible/I
 comprehension
-comprehensive
+comprehensive/Y
 compress/SDG
 compression/MS
 compressor/SM
@@ -4082,7 +4083,7 @@ cyclic
 cyclical/Y
 cyclist/SM
 cyclo/p
-cylinder
+cylinder/MS
 cylindrical/Y
 cynic
 cynical
@@ -4338,6 +4339,7 @@ digging
 digit/SM
 digital/Y
 dignity
+digraph/MS
 dihedral/S
 dihydrogenphosphate/a
 dihydrogenphosphite/a
@@ -4874,6 +4876,7 @@ exclusive/YP
 exclusivity/MS
 excusable/IY
 excuse/MSDG
+exec
 executable
 execute/DSG
 executer/MS
@@ -5398,7 +5401,6 @@ gluon/SM
 go/GM
 goal/SM
 goat
-god/MS
 goes
 gold/a
 golden
@@ -5448,6 +5450,7 @@ gravitational/Y
 graviton/S
 gravity/M
 gray
+grayscale
 great/RYT
 greed
 greedy
@@ -8164,6 +8167,7 @@ puzzle/MGDS
 pwd
 px/u
 python
+quadcopter/MS
 quadratic/Y
 quadrature/S
 qualification/MS
@@ -8546,6 +8550,7 @@ rode
 roentgenium/a
 role/SM
 roll/SGMD
+rollback/SM
 roman
 romance
 romantic
@@ -8624,6 +8629,8 @@ satisfactory/U
 satisfiability/U
 satisfiable/U
 satisfy/DSG
+saturate/SDG
+saturation/SM
 sauce
 save/DSG
 saving/MS
@@ -8696,7 +8703,7 @@ secret/SY
 secretary/SM
 sect/ISM
 section/MSDG
-sector
+sector/MS
 secular
 secure/IY
 secure/SDG
@@ -9188,6 +9195,7 @@ strange/YRT
 strata
 strategic
 strategy/SM
+stratosphere/M
 stratum
 straw
 stray
@@ -9252,6 +9260,7 @@ submit/S
 submitted
 submitter/S
 submitting
+subnetwork/MS
 subnormal/MS
 suboptimal
 subparagraph
@@ -9302,7 +9311,7 @@ suffer/SGD
 sufferer/MS
 suffice/SDG
 sufficient/IY
-suffix
+suffix/MS
 sugar
 suggest/SDG
 suggestion/MS
@@ -9362,12 +9371,13 @@ superpose/GSD
 superposition/S
 superscript
 superset
+supertype/MS
 superuser/S
 supervise/DSG
 supervision/MS
 supervisor/MS
-supplement
-supplementary
+supplement/MS
+supplementary/Y
 supplier/MS
 supply/SDGM
 support/GMDS
@@ -9453,6 +9463,7 @@ syntax
 syntheses
 synthesis
 synthesis
+synthesize/SDG
 synthesizer
 synthetic/SMY
 system/SM
@@ -9838,6 +9849,7 @@ tridec/h
 trigger/SGD
 trigonometric/Y
 trigonometry/MS
+trigraph/MS
 trillion/SM
 trilogy
 trim/S
@@ -9867,7 +9879,7 @@ trunk/SM
 trust/SGD
 trustful/EYP
 trustless/P
-trustworthy/RPT
+trustworthy/UP
 truth/MS
 truthful/UYP
 try/ASDG
@@ -10015,6 +10027,7 @@ unless
 unlike
 unlimited
 unload
+unmanned
 unmapped
 unmatched
 unmediated
@@ -10034,6 +10047,7 @@ unrecognized
 unrelated
 unroll/DGS
 unsafe
+unsaturated
 unset
 unsigned
 unsolicited
@@ -10194,6 +10208,7 @@ vocal
 vocation/IAKFS
 voice/MS
 void/C
+vol
 volt/S
 voltage
 volume/SM
@@ -10235,6 +10250,7 @@ wasn't
 waste/DSMG
 wasteful/Y
 watch/MDSG
+watchdog/MS
 watchpoint/MS
 water/S
 watermark/MS

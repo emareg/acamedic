@@ -73,6 +73,11 @@ For spell checking of academic documents, it is not useful if dictionaries inclu
 
 Furthermore, the standard dictionaries include a lot of problematic words, such as `wit`, `dome`, or `wont`.
 
+### Even text analysis tool make mistakes.
+Grammarly, for example, can also analyze context and grammar but still does not spot the following spelling error:
+`Which refers to the state of keeping some resource secrete from unauthorized parties.`
+
+
 
 
 ## Creation Process
@@ -88,11 +93,12 @@ I have created this dictionary using the following process:
 #### Terms I have removed
 - archaic terms such as `brethren`, `cobbler`, `sod`, `thee`, `thou`, `unto`, `wive`
 - inappropriate words such as `cum`, `slut`, `gnome`, `sexy`, `slave`
-- narrative adjectives such as `cunning`, `fatuous`, `fierce`, `ghastly`, `hitherto`, `pompous`, `sheer`
+- narrative adjectives such as `cunning`, `fatuous`, `fierce`, `ghastly`, `hitherto`, `pompous`, `sheer`, `absurd`
 - uncommon words with common alternatives, such as `envisage` (use `envision`), `futile` (use `useless`),  or `horrific` (use `horrible`). 
-- colloquial words such as `eh`, `gig`, `hey`, `lad`, `lousy`, `oh`, `bugger`
+- rare words that are very close to common terms, such as `fist` (too close to `first`)
+- colloquial words, such as `eh`, `gig`, `hey`, `lad`, `lousy`, `oh`, `bugger`
 - words that are very far away from technical contexts, such as `horde`, `hail`, `hog`, `hut`, `lark`, `mummy`, `bigot`
-- religious terms such as `heresy`, `sermon`, `sinful`
+- religious terms: `heresy`, `sermon`, `sinful`
 - words often used to insult: `hypocrite`, `illiterate`, `inane`, `jerk`, `moron`, `snobbery`
 - British / Scottish words that sneaked into the US dictionary, such as `lorry`, `nay`, `dole`, `duff`, `dustbin`
 - potential mistakes found in SCOWL-20: `cs`, `alias's` (should be `alias'`), also `species's`, `die's`, `elect's`, `feel's`, `want's`

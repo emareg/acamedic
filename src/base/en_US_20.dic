@@ -22,7 +22,6 @@ absolute/Y
 absorb/DSG
 abstract/SDG
 abstraction/MS
-absurd
 abuse/DSG
 abusive/Y
 academic/SM
@@ -113,7 +112,7 @@ afterward/S
 again
 against
 age/MGDS
-agency
+agency/MS
 agenda
 agent/SM
 aggressive/Y
@@ -126,13 +125,13 @@ aid/DSG
 aim/DSG
 air
 aircraft/M
-airport
+airport/MS
 alarm/DGS
 albeit
 album/MS
 alcohol
 alcoholic
-alert
+alert/SDG
 algebra
 algebraic
 algorithm/SM
@@ -239,6 +238,7 @@ anything
 anyway
 anywhere
 apart
+cautious/Y
 apathetic
 apologize/DSG
 apology/SM
@@ -962,7 +962,7 @@ compound/MSDG
 comprehend
 comprehensible/I
 comprehension
-comprehensive
+comprehensive/Y
 compress/SDG
 compression/MS
 comprise/DSG
@@ -1246,7 +1246,7 @@ cutting
 cycle's
 cycle/ADSG
 cyclist/SM
-cylinder
+cylinder/MS
 cynic
 cynical
 daft
@@ -2192,7 +2192,6 @@ glue
 go/GM
 goal/SM
 goat
-god/MS
 goes
 golden
 goldfish/MS
@@ -4374,7 +4373,7 @@ secret/SY
 secretary/SM
 sect/ISM
 section/MSDG
-sector
+sector/MS
 secular
 secure/IY
 secure/SDG
@@ -4841,7 +4840,7 @@ suffer/SGD
 sufferer/MS
 suffice/SDG
 sufficient/IY
-suffix
+suffix/MS
 sugar
 suggest/SDG
 suggestion/MS
@@ -4874,8 +4873,8 @@ superiority
 supermarket
 supernatural
 supervise/DSG
-supplement
-supplementary
+supplement/MS
+supplementary/Y
 supplier/MS
 supply/SDGM
 support/GMDS

@@ -112,7 +112,7 @@ asynchrony
 atmosphere
 atmospheric
 atom/SM
-atomic
+atomic/Y
 atomicity/S
 attainable/U
 attenuation/MS
@@ -284,6 +284,7 @@ determinism/M
 determinist/SM
 deterministic/IY
 diamond/SM
+digraph/MS
 disambiguate/GDS
 disambiguation/MS
 discordance/SM
@@ -425,6 +426,7 @@ glossary/SM
 graceful/UY
 gradient/SM
 granularity/SM
+grayscale
 greenhouse/SM
 handshake/SGM
 harmonic/SIY
@@ -839,10 +841,13 @@ rework/GDS
 ripple/GMSD
 roadmap/MS
 robotics
+rollback/SM
 rotation/SM
 rotational/Y
 satisfiability/U
 satisfiable/U
+saturate/SDG
+saturation/SM
 scalability/S
 scalable
 schema
@@ -871,6 +876,8 @@ situational/Y
 skepticism
 skew/SDG
 slowdown/SM
+unmanned
+synthesize/SDG
 snapshot/MS
 solicit/DSG
 solicitation/MS
@@ -962,6 +969,7 @@ transitivity/S
 traversable/UI
 traversal/MS
 traverse/SDG
+trigraph/MS
 trillion/SM
 trim/S
 trimester/SM
@@ -972,7 +980,7 @@ tripos
 truncation/MS
 trustful/EYP
 trustless/P
-trustworthy/RPT
+trustworthy/UP
 tweet/SDG
 ubiquitous/YP
 ubiquity/S
@@ -1015,6 +1023,7 @@ unprecedented/Y
 unpreserved
 unprocessed
 unrecognized
+unsaturated
 unstructured
 unsynchronized
 unverified
@@ -1035,6 +1044,8 @@ visibility/I
 visualization/S
 visualize/GDS
 visualizer/MS
+balloon/MS
+stratosphere/M
 vocation/IAKFS
 vs
 weld/SDG

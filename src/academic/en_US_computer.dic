@@ -38,6 +38,7 @@ broadband/MS
 browser/MS
 bytecode/MS
 bytelevel
+watchdog/MS
 bytestream/S
 byzantine
 cache/GMDS
@@ -98,6 +99,7 @@ encryption/S
 endian/P
 enum/MS
 epoch/M
+exec
 failover
 fanout/SM
 filesystem/S
@@ -265,6 +267,7 @@ subtype/MSDG
 sudo/R
 superclass
 superframe/S
+supertype/MS
 superuser/S
 sync/SDG
 tablet/MS

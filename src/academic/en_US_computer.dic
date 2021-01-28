@@ -120,7 +120,6 @@ handheld/MS
 handover/S
 hardcode/GDS
 homepage/S
-html
 http/S
 hypertext
 hypertree/S
@@ -143,7 +142,7 @@ lagged
 lagging/MS
 laptop/MS
 latency/S
-lexer/S
+lexer/MS
 lib/S
 libc
 linker/MS
@@ -198,7 +197,8 @@ overflow/SGD
 passkey/SM
 passphrase/S
 payload/SM
-pdf
+localhost
+parser/MS
 permissioned/U
 permissionless
 pinout/S
@@ -288,7 +288,6 @@ transduce/SDG
 transducer/MS
 transpond/SDG
 transponder/MS
-txt
 typecheck/MSDG
 typechecker/MS
 uncommitted

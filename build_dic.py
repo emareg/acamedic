@@ -77,6 +77,7 @@ merge_files(['src/base/en_US_20.dic',
              'src/names/names_scientists.dic',
              'src/code/code_latex.dic',
              'src/code/code_c.dic',
+             'src/code/code_fileextension.dic',
              'src/own.dic',
              ])
 

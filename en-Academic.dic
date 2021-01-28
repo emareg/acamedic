@@ -1,4 +1,4 @@
-10627
+10661
 0/d
 0cm
 0em
@@ -2428,6 +2428,7 @@ adoption/MS
 adsternal
 adult/SM
 advance/SDG
+advancement/MS
 advantage/EMS
 advantageous
 advent
@@ -3471,7 +3472,7 @@ chess
 chest
 chestnut
 chew/SGD
-chi/MS
+chi/M
 chicken/SM
 chief
 child/M
@@ -3724,7 +3725,7 @@ composite
 composition/CAMS
 compositional/Y
 compound/MSDG
-comprehend
+comprehend/SDG
 comprehensible/I
 comprehension
 comprehensive/Y
@@ -3743,6 +3744,7 @@ computer/MS
 computerize/SDG
 concatenate/DSG
 concatenation/MS
+concave
 conceal/SDG
 concede
 conceivably
@@ -3755,6 +3757,7 @@ conceptual/Y
 concern/SGMD
 concert/SM
 concise/Y
+conciseness
 conclude/DSG
 conclusion/SM
 concrete
@@ -3901,6 +3904,7 @@ convergent
 conversation/SM
 converse/Y
 convert/MDRGS
+convex
 convey
 convict/DGS
 conviction/SM
@@ -4251,8 +4255,9 @@ dependent/IY
 depict/SDG
 depicter/MS
 depiction/SM
-deploy/ALGDSB
+deploy/AGDSB
 deployability
+deployment/AMS
 deposable
 deposal/S
 depose/SDG
@@ -4399,6 +4404,7 @@ discordancy
 discordant/Y
 discount/SM
 discourage/SDG
+discoverable/U
 discovery/SM
 discrepancy/SM
 discrete/Y
@@ -4475,6 +4481,7 @@ doctrine
 document/GSMD
 documentary
 documentation/MS
+docx
 dodec/h
 dodeca/m
 dodecahedron/MS
@@ -4506,6 +4513,7 @@ doubtful/Y
 doubtless
 down
 downhill
+downlink
 download/SDG
 downright
 downside/MS
@@ -4625,6 +4633,7 @@ effective/IPY
 efficiency/I
 efficient/IY
 effort/MS
+effortless
 egg/MS
 ego/MS
 eigenvalue/S
@@ -4833,7 +4842,7 @@ estimate/DSMG
 estimation/MS
 estimator/SM
 et
-eta/MS
+eta/M
 etc
 eternal
 eternity/M
@@ -4896,6 +4905,7 @@ excerpter/M
 excess/MS
 excessive/Y
 exchange/MGDS
+exchangeability
 exchangeable/UY
 exchanger/M
 excitation/S
@@ -4950,7 +4960,7 @@ expectation/SM
 expedition/MS
 expenditure
 expense/SM
-expensive/Y
+expensive/IY
 experience/DSMG
 experiment/MGDS
 experimental/Y
@@ -5009,6 +5019,9 @@ fT/u
 fV/u
 fWb/u
 fabric
+fabricate/SDG
+fabrication/MS
+fabricator/SM
 face/MGDS
 facilitate/SDG
 facility/SM
@@ -5126,6 +5139,7 @@ find/SG
 finding/MS
 fine/RT
 finger/SM
+fingerprint/SDGM
 finish/DSG
 finite/Y
 fire/DSMG
@@ -5149,7 +5163,7 @@ flame/SM
 flash/SDG
 flat
 flatten/SDG
-flavor
+flavor/MS
 flaw/SMDG
 fleet
 flerovium/a
@@ -5165,7 +5179,6 @@ float/SGD
 flood/DGS
 floor/MS
 floppy
-flour
 flow/GSMD
 flowchart/MS
 flower/MS
@@ -5407,6 +5420,7 @@ get/S
 getting
 ghost/MS
 giant
+gif
 gift/SM
 giga
 gigabit/S
@@ -5497,7 +5511,7 @@ greedy
 green/RT
 greenhouse/SM
 grew
-grid
+grid/MS
 grind/GS
 grip/SM
 groan
@@ -5739,6 +5753,7 @@ humane
 humanity/M
 humble
 humbly
+humidity
 humor
 humorous
 hundred/MS
@@ -6236,6 +6251,9 @@ journal/MS
 journalist/SM
 journey
 joy
+jpg
+js
+json
 judge/DSMG
 judgment/SM
 juice
@@ -6433,7 +6451,7 @@ lettrine
 level/SM
 lever/MS
 leverage/GDS
-lexer/S
+lexer/MS
 liability/A
 liable
 liaison
@@ -6508,6 +6526,7 @@ load/MDRSG
 loan/MS
 lobby/MS
 local/SMY
+localhost
 locality/MS
 localizability/S
 localizable/U
@@ -6530,7 +6549,7 @@ logical/Y
 login/S
 logistical/Y
 logistics
-logo
+logo/MS
 lonely
 long/TR
 longitude/MS
@@ -6540,7 +6559,7 @@ lookahead
 lookbehind
 lookup
 loop/MSDG
-loophole
+loophole/MS
 loose/SY
 lord/MS
 lose/GS
@@ -6694,6 +6713,7 @@ may
 maybe
 mayor
 maze
+md
 me
 meal/MS
 mean/GS
@@ -6993,9 +7013,10 @@ movable/A
 move/AGDS
 movement/SM
 movie/MS
+mp3
+mp4
 ms/u
 msg
-mu/MS
 much
 mud
 muddle/DSG
@@ -7252,7 +7273,6 @@ nowhere
 nozzle/MS
 ns/u
 nth
-nu/MS
 nuclear
 nuclei
 nuclei/M
@@ -7481,6 +7501,7 @@ overflow/SGD
 overhead/MS
 overhear/GS
 overheard
+overheat/SDG
 overkill/SG
 overlap/SM
 overlapped
@@ -7628,6 +7649,7 @@ parody
 parrot
 parse/SDG
 parsec/MS
+parser/MS
 parskip
 part/MYS
 partial/Y
@@ -7775,7 +7797,7 @@ phenomena
 phenomenon
 phenomenon/MS
 phenyl/p
-phi/MS
+phi/M
 philosopher/SM
 philosophical
 philosophy/SM
@@ -7804,7 +7826,7 @@ physical/Y
 physicist/MS
 physiological/Y
 physiology
-pi/MS
+pi/M
 piano
 pick/SMDG
 pico
@@ -7971,6 +7993,8 @@ powder
 power/GSMD
 powerful/Y
 powerless
+ppt
+pptx
 practicability
 practicably
 practical/Y
@@ -8204,7 +8228,7 @@ pseudonym/SM
 pseudonymous/Y
 pseudoprime/S
 pseudorandom
-psi/MS
+psi/M
 psychological
 psychologist/SM
 psychology
@@ -8584,6 +8608,7 @@ reverse/DSG
 revert
 revise/GDS
 revision/MS
+revoke/SDG
 revolt/SDG
 revolution/MS
 revolutionary
@@ -9130,7 +9155,7 @@ spectra/M
 spectral/Y
 spectrometer/MS
 spectroscopic
-spectrum
+spectrum/MS
 speculate/SDG
 speculation/MS
 speculative/Y
@@ -9689,6 +9714,7 @@ tetrahedral
 tetrahedral/Y
 tetrahedron/MS
 tex
+tex
 text/FMS
 textbook/SM
 textheight
@@ -9779,6 +9805,7 @@ tight/YRT
 tighten/SDG
 tightness
 tikz
+tikz
 tile/MS
 till
 time/MGDS
@@ -9788,6 +9815,7 @@ timely
 timeout/SM
 timer/MS
 timescale
+timespan/MS
 timestamp/SDG
 timetable
 timings
@@ -9816,6 +9844,7 @@ tolerate/DSG
 toll
 tomato/M
 tomatoes
+toml
 tomography/M
 tomorrow
 ton/MS
@@ -9990,8 +10019,8 @@ turbine/MS
 turbulence/MS
 turn/AGMDS
 turntable
-tutor
-tutorial
+tutor/MS
+tutorial/MS
 tweet/SDG
 twelve
 twentieth
@@ -10053,6 +10082,7 @@ unconnected/YP
 unconscious
 uncontrolled
 unconvincing
+uncoordinated
 uncorrelated/Y
 undec/h
 undeca/m
@@ -10141,6 +10171,7 @@ unprecedented/Y
 unpredicted
 unpreserved
 unprocessed
+unpublished
 unrecognized
 unregulated
 unrelated
@@ -10174,6 +10205,7 @@ upbringing
 upcoming
 update/MGDS
 upgrade/MGDS
+uplink
 upload/SDG
 upon
 upper
@@ -10196,7 +10228,7 @@ us
 usability/ASM
 usable/AU
 usage
-use/MGDS
+use/AMGDS
 useful/PY
 useless
 user/MS
@@ -10262,9 +10294,7 @@ verse/MS
 version/FMS
 versus
 vertex
-vertex
 vertical/Y
-vertices
 vertices
 very
 vessel
@@ -10517,9 +10547,12 @@ xenon/a
 xenotransplantation/MS
 xi/MS
 xleftmargin
+xls
+xlsx
 xor
 xshift
 y
+yaml
 yawn/SDG
 year/MYS
 yellow
@@ -10547,6 +10580,7 @@ zepto
 zero/SM
 zeta/MS
 zetta
+zettabyte/S
 zinc/a
 zirconium/a
 zone/SM

@@ -16,6 +16,7 @@ combustion/MS
 compressor/SM
 coolant/SM
 coprocessor/MS
+downlink
 dynamo/MS
 elevon/S
 glider/MS
@@ -48,4 +49,5 @@ telegraph/MSDG
 telematics
 telemetry/M
 turbine/MS
+uplink
 vehicular

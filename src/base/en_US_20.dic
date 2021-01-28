@@ -958,7 +958,7 @@ component/MS
 compose/CSDG
 composer/CMS
 compound/MSDG
-comprehend
+comprehend/SDG
 comprehensible/I
 comprehension
 comprehensive/Y
@@ -1632,6 +1632,7 @@ effective/IPY
 efficiency/I
 efficient/IY
 effort/MS
+effortless
 egg/MS
 ego/MS
 eight
@@ -1824,7 +1825,7 @@ expectation/SM
 expedition/MS
 expenditure
 expense/SM
-expensive/Y
+expensive/IY
 experience/DSMG
 experiment/MGDS
 experimental/Y
@@ -1984,7 +1985,7 @@ flame/SM
 flash/SDG
 flat
 flatten/SDG
-flavor
+flavor/MS
 flaw/SMDG
 fleet
 flesh
@@ -1999,7 +2000,6 @@ float/SGD
 flood/DGS
 floor/MS
 floppy
-flour
 flow/GSMD
 flower/MS
 flown
@@ -2240,7 +2240,7 @@ greed
 greedy
 green/RT
 grew
-grid
+grid/MS
 grind/GS
 grip/SM
 groan
@@ -2935,12 +2935,12 @@ logger/MS
 logging
 logic
 logical/Y
-logo
+logo/MS
 lonely
 long/TR
 look/SDG
 loop/MSDG
-loophole
+loophole/MS
 loose/SY
 lord/MS
 lose/GS
@@ -4646,7 +4646,7 @@ specification/MS
 specify/SDG
 specimen
 spectacular
-spectrum
+spectrum/MS
 speculate/SDG
 speculation/MS
 speculative/Y
@@ -5243,8 +5243,8 @@ tune/MGDS
 tunnel/SM
 turn/AGMDS
 turntable
-tutor
-tutorial
+tutor/MS
+tutorial/MS
 twelve
 twentieth
 twenty
@@ -5337,6 +5337,7 @@ unnatural
 unofficial
 unpleasant
 unpredicted
+unpublished
 unregulated
 unrelated
 unsafe
@@ -5374,7 +5375,7 @@ urgent/Y
 us
 usable/AU
 usage
-use/MGDS
+use/AMGDS
 useful/PY
 useless
 user/MS

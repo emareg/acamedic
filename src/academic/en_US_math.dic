@@ -9,7 +9,6 @@ antilogarithm/MS
 arccos/S
 arccosine/MS
 arctan
-interpolation/MS
 arithmetic/MS
 arithmetical/UY
 associative/Y
@@ -35,9 +34,11 @@ combinatorial/Y
 combinatorics
 commutative/Y
 commutativity
+concave
 congruent/IY
 convergence/MS
 convergent
+convex
 convolution/MS
 convolutional/Y
 convolve/GSD
@@ -109,6 +110,7 @@ idempotent
 infimum
 infinitesimal/SY
 injective
+interpolation/MS
 invertible
 isomorphism/MS
 isoperimetric
@@ -219,8 +221,6 @@ trigonometry/MS
 tuple/SM
 unidirectional/Y
 unitary
-vertex
-vertices
 x
 y
 z

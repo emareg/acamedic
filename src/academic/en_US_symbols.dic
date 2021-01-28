@@ -5,23 +5,23 @@ delta/MS
 epsilon/MS
 digamma/MS
 zeta/MS
-eta/MS
+eta/M
 theta/MS
 iota/MS
 kappa/MS
 lambda/MS
-mu/MS
-nu/MS
+# mu/MS
+# nu/MS
 xi/MS
 omicron/MS
-pi/MS
+pi/M
 rho/MS
 sigma/MS
 tau/MS
 upsilon/MS
-phi/MS
-chi/MS
-psi/MS
+phi/M
+chi/M
+psi/M
 omega/MS
 Α
 α

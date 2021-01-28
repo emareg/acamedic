@@ -24,6 +24,7 @@ adherent/Y
 adhesion/MS
 adhesive/YP
 adjustable/U
+advancement/MS
 adverb/SM
 adverbial/SMY
 adversarial/Y
@@ -224,6 +225,7 @@ composable/C
 composite
 composition/CAMS
 compositional/Y
+conciseness
 concretization
 concretize/DSG
 configurability/AS
@@ -274,12 +276,14 @@ deflation/MS
 delegate/SDG
 delegation/MS
 deliverable/S
+exchangeability
 denial/MS
 depict/SDG
 depicter/MS
 depiction/SM
-deploy/ALGDSB
+deploy/AGDSB
 deployability
+deployment/AMS
 deposable
 deposal/S
 depose/SDG
@@ -297,6 +301,7 @@ disambiguation/MS
 discordance/SM
 discordancy
 discordant/Y
+discoverable/U
 discrepancy/SM
 discretization/S
 dispatch/SDG
@@ -404,12 +409,16 @@ expressive/PYI
 expressivity
 extensibility/S
 extensible/U
+fabricate/SDG
+fabrication/MS
+fabricator/SM
 fallback/S
 feasibility/IS
 filler/M
 finalist/SM
 finality/MS
 finalization/SM
+fingerprint/SDGM
 flowchart/MS
 footage/SM
 footprint/SM
@@ -680,6 +689,7 @@ overestimate/SDG
 overestimation/MS
 overhear/GS
 overheard
+overheat/SDG
 overkill/SG
 overlapped
 overlapping
@@ -864,6 +874,7 @@ resilient/Y
 resonance/SM
 resonant/Y
 retina/MS
+revoke/SDG
 rework/GDS
 ripple/GMSD
 roadmap/MS
@@ -978,6 +989,7 @@ threefold
 threefolded/P
 timeline/SM
 timeliness
+timespan/MS
 tissue/MS
 tomography/M
 toolbox/MS
@@ -1032,6 +1044,7 @@ uncategorized
 unclassified
 uncompensated
 uncontrolled
+uncoordinated
 uncorrelated/Y
 undecided
 underapproximate/SDG

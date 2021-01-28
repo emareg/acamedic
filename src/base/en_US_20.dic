@@ -59,7 +59,7 @@ across
 act/MDGS
 action/AMS
 activate/CGDS
-activation/ACM
+activation/ACMS
 active/AIY
 activity/SM
 actor/SM
@@ -238,7 +238,6 @@ anything
 anyway
 anywhere
 apart
-cautious/Y
 apathetic
 apologize/DSG
 apology/SM
@@ -360,7 +359,6 @@ aware/P
 away
 awful/Y
 awkward
-ax/MS
 axiom/SM
 axis/M
 baby/SM
@@ -484,10 +482,10 @@ bigger
 biggest
 bike/MSDG
 biker/MS
-bill/SM
+bill/SDGM
 billion/SM
 bin
-binary
+binary/MS
 bind/GS
 binding/MS
 biography
@@ -495,7 +493,7 @@ biological
 biologist/SM
 biology
 bird/SM
-birth
+birth/MS
 birthday
 biscuit/MS
 bishop
@@ -709,6 +707,7 @@ causal/Y
 causality/S
 cause/DSMG
 caution/MS
+cautious/Y
 cave
 caveat
 cease/DSG
@@ -833,7 +832,7 @@ clear/YRT
 clearance
 clever/TR
 cliché
-click/MS
+click/MSDG
 client/MS
 cliff/MS
 climate
@@ -846,7 +845,7 @@ clipping
 clique
 clock/SM
 clog
-clone/SM
+clone/SDGM
 close/EMSDG
 close/RYT
 closet
@@ -1186,7 +1185,7 @@ credible/I
 credit/SM
 creed
 creep
-crew
+crew/MS
 cricket
 crime/SM
 criminal/SM
@@ -1430,6 +1429,8 @@ dig/TS
 digging
 digit/SM
 digital/Y
+digitalization/S
+digitalize/SDG
 dignity
 dilemma/MS
 dim
@@ -1558,7 +1559,7 @@ dream/GMDS
 dress/DSG
 drew
 drift/MSDG
-drill
+drill/SDG
 drink/SMG
 drip/S
 dripped
@@ -1698,7 +1699,8 @@ enforce/SDG
 engage/DSG
 engine/MS
 engineer/MDGS
-enhance/DSGL
+enhance/DSG
+enhancement/MS
 enjoy/SDGBL
 enlarge/SDG
 enlighten/DGLS
@@ -1989,7 +1991,7 @@ flesh
 flew
 flexibility/MS
 flexible/I
-flight
+flight/MS
 flip/S
 flipped
 flipping
@@ -2215,7 +2217,7 @@ gradual/Y
 graduate/DSMG
 graduation/M
 graffiti
-grain
+grain/D
 grammar/M
 grammatical/Y
 grandfather/MS
@@ -2556,6 +2558,7 @@ indictment
 indirect/Y
 indirection
 individual/MYS
+indoor
 induce/SDG
 industrial/Y
 industry/SM
@@ -2936,7 +2939,7 @@ logo
 lonely
 long/TR
 look/SDG
-loop/MS
+loop/MSDG
 loophole
 loose/SY
 lord/MS
@@ -3001,7 +3004,7 @@ manipulate/GDS
 manipulation/MS
 mankind
 manned
-manner
+manner/MS
 manning
 manpower
 manual/SMY
@@ -3030,11 +3033,10 @@ mathematical/Y
 mathematician/MS
 mathematics
 matter/MS
-mature
-maxima
+maturation/M
+mature/SDG
 maximal/Y
 maximize/SDG
-maximum
 may
 maybe
 mayor
@@ -3462,6 +3464,7 @@ out/R
 outcome/MS
 outcry
 outdated
+outdoor
 outgoing
 outline/DSMG
 outlook
@@ -3883,11 +3886,11 @@ professor/MS
 profit/M
 profitable/Y
 profound
-program/MS
-programmable
-programmed
+program/AMS
+programmable/A
+programmed/A
 programmer/SM
-programming
+programming/A
 progress/DSG
 prohibit/SGD
 project/MDGS
@@ -4117,6 +4120,7 @@ regrettably
 regretted
 regretting
 regular/Y
+regulate/SDG
 regulation/MS
 reign/SDG
 reinstate/DSG
@@ -4333,6 +4337,7 @@ scanned
 scanner
 scanning
 scarce/Y
+scarcity
 scare/DSG
 scarf
 scarlet
@@ -4412,7 +4417,7 @@ separate/YGDS
 separation/MS
 separator/MS
 sequel
-sequence/FSM
+sequence/FSDGM
 sequential/Y
 serial
 series
@@ -4626,6 +4631,8 @@ spanned
 spanner/SM
 spanning
 spare/SM
+sparse/Y
+sparsity
 spatial/Y
 speak/SG
 speaker/MS
@@ -4934,7 +4941,7 @@ symptom/MS
 syndicate
 syndrome
 synonym/MS
-synonymous
+synonymous/Y
 syntactic/Y
 syntax
 synthesis
@@ -5167,6 +5174,7 @@ train/SMDG
 transaction/SM
 transcript/MS
 transfer/MS
+transferable/Y
 transferred
 transferring
 transform/SDG
@@ -5329,6 +5337,7 @@ unnatural
 unofficial
 unpleasant
 unpredicted
+unregulated
 unrelated
 unsafe
 unset

@@ -9,6 +9,7 @@ antilogarithm/MS
 arccos/S
 arccosine/MS
 arctan
+interpolation/MS
 arithmetic/MS
 arithmetical/UY
 associative/Y
@@ -209,7 +210,6 @@ tensor/S
 tetrahedra
 tetrahedral
 tetrahedral/Y
-tetrahedron/MS
 tetrahedron/MS
 topological/Y
 topology/SM

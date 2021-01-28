@@ -38,7 +38,6 @@ broadband/MS
 browser/MS
 bytecode/MS
 bytelevel
-watchdog/MS
 bytestream/S
 byzantine
 cache/GMDS
@@ -91,7 +90,9 @@ doc/S
 download/SDG
 downtime/S
 dpkg
+eavesdrop/S
 eavesdropper/MS
+eavesdropping
 encoder/MS
 encoding/MS
 encrypt/DGS
@@ -292,6 +293,7 @@ typecheck/MSDG
 typechecker/MS
 uncommitted
 underflow/SDG
+underscore/MS
 unencrypted
 unroll/DGS
 unsigned
@@ -306,6 +308,7 @@ virtualization
 virtualized
 voxel/S
 vulnerability/ISM
+watchdog/MS
 watchpoint/MS
 watermark/MS
 waypoint/S

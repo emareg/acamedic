@@ -15,6 +15,7 @@ coil/MS
 combustion/MS
 compressor/SM
 coolant/SM
+coprocessor/MS
 dynamo/MS
 elevon/S
 glider/MS
@@ -34,7 +35,6 @@ piston/MS
 powerless
 propeller/MS
 quadcopter/MS
-subnetwork/MS
 resistor/SM
 rover/S
 solder/MSDG
@@ -42,10 +42,10 @@ sonar/SM
 spacecraft/M
 spaceship/SM
 spectrometer/MS
+subnetwork/MS
 supercharger/MS
 telegraph/MSDG
 telematics
 telemetry/M
-trapdoor/MS
 turbine/MS
 vehicular

@@ -46,6 +46,7 @@ aggravative/Y
 aggregate/SDG
 aggregation/MS
 agnostic/MSY
+agriculture
 algorithmic/Y
 altimeter/MS
 altitude/MS
@@ -59,6 +60,7 @@ analytical/Y
 analyzability
 analyzer/SM
 angular/Y
+annex
 annotate/SDG
 annotation/MS
 annular/Y
@@ -90,12 +92,13 @@ arcsecond/MS
 articulate/SDG
 articulation/MS
 ascent/MS
+aspiration/MS
 assert/DGS
 assertion/MS
 assess/DSG
 assessment/MS
 asset/MS
-assign/DGS
+assign/UDGS
 assignment/SM
 assist/GDS
 assistance
@@ -138,6 +141,7 @@ availability/USM
 aversion/M
 aversive/Y
 axial/Y
+balloon/MS
 baseline/MS
 behavioral/Y
 benchmark/S
@@ -148,6 +152,7 @@ bibliography/MS
 bio
 biochemistry
 biomass/SM
+biotechnology/MS
 blacklist/SDG
 blackout/MS
 blog/S
@@ -226,6 +231,7 @@ configurable/A
 configuration/ASM
 configure/ADSG
 conformance/S
+conformant/Y
 consolidate/SDG
 consolidation/MS
 consortium/M
@@ -284,6 +290,7 @@ determinism/M
 determinist/SM
 deterministic/IY
 diamond/SM
+differentiation/MS
 digraph/MS
 disambiguate/GDS
 disambiguation/MS
@@ -294,12 +301,16 @@ discrepancy/SM
 discretization/S
 dispatch/SDG
 dispatcher/MS
+dispensable/I
+dispense/SDG
+dispenser/MS
 distinguishable
 diverge/SDG
 divergence/SM
 divergency
 divergent/Y
 dominator/SM
+donor/MS
 downside/MS
 downstream
 duality/S
@@ -338,6 +349,7 @@ endorsement/MS
 endorser/MS
 endpoint/SM
 energetic
+enforcement/MS
 enrich/GDSL
 enricher
 entangle/ESGD
@@ -357,7 +369,6 @@ ergonomic/S
 ergonomically
 essentialism
 estimation/MS
-et
 evade/SDG
 evaluator/MS
 evict/GDS
@@ -401,6 +412,7 @@ finality/MS
 finalization/SM
 flowchart/MS
 footage/SM
+footprint/SM
 forefront/SM
 foreground/SD
 forehand/DS
@@ -421,7 +433,7 @@ gauge/MSDG
 generalist/MS
 generality/MS
 genesis
-geographic/Y
+geographic
 glossary/SM
 graceful/UY
 gradient/SM
@@ -433,15 +445,18 @@ harmonic/SIY
 harmonize/SDG
 healthcare
 heatmap/MS
+heterogeneity/ISM
 heterogeneous/Y
 heuristics
 holistic/Y
 homogeneity/ISM
 homogeneous/Y
+hormone/MS
 hotspot/MS
 hybrid/SM
 hypothesize/SDG
 illumination/M
+immobilize/SDG
 immutability/MS
 immutable/YP
 implausibility
@@ -460,7 +475,9 @@ inertial/Y
 inflate/SDG
 inflation/MS
 infographic/S
+initiator/MS
 innermost
+innovate/SDG
 insightful/Y
 instantaneous/Y
 instrumentation/MS
@@ -484,10 +501,13 @@ intersection/MS
 intra
 intricacy/SM
 intricate/PY
+intrusion/MS
 intrusive/YP
 intuition
 invariance
+inventory/MS
 inversion/MS
+invoice/MS
 inward/SY
 irrationalism
 irrationality/MS
@@ -535,6 +555,7 @@ localizability/S
 localizable/U
 localization/CS
 logbook/SM
+logistical/Y
 logistics
 lossless
 lossy
@@ -561,6 +582,7 @@ mercury
 mesh/MSDG
 meta
 metallic
+methodological/Y
 methodology/S
 metric/S
 microphone/MS
@@ -597,6 +619,7 @@ monetary/Y
 monetization/C
 monetize/SDG
 mono
+monotone
 multi
 multidirectional
 multimedia
@@ -716,6 +739,7 @@ particularizer/MS
 partnership/MS
 patentability
 patentable/U
+pathway/MS
 pedagogical/Y
 penetration/M
 percentile/MS
@@ -731,6 +755,7 @@ pessimistic/Y
 phenomena
 phenomenon/MS
 photography/M
+physiological/Y
 piecewise
 pinpoint/GDS
 placeholder/SM
@@ -779,7 +804,7 @@ prototypical/Y
 provability
 provable/U
 provably
-provider/M
+provider/MS
 pseudonym/SM
 pseudonymous/Y
 qualitative/Y
@@ -825,6 +850,7 @@ replicator/S
 repository/MS
 reproducibility/MS
 reproducible/Y
+reproductive/P
 repudiate/SDG
 repudiation/MS
 reputability
@@ -837,6 +863,7 @@ residue/MS
 resilient/Y
 resonance/SM
 resonant/Y
+retina/MS
 rework/GDS
 ripple/GMSD
 roadmap/MS
@@ -858,6 +885,8 @@ scholastic/Y
 screenshot/MS
 seamless/Y
 segmentation/SM
+segregate/SDG
+segregation/MS
 semester/SM
 semi
 sensor/MS
@@ -876,8 +905,6 @@ situational/Y
 skepticism
 skew/SDG
 slowdown/SM
-unmanned
-synthesize/SDG
 snapshot/MS
 solicit/DSG
 solicitation/MS
@@ -900,6 +927,7 @@ stabilization/CSM
 stabilize/CSDG
 stakeholder/MS
 standalone
+stratosphere/M
 sub
 subconscious/Y
 subfigure/SM
@@ -918,8 +946,10 @@ summation/MS
 superpose/GSD
 supervision/MS
 supervisor/MS
+surgical/Y
 surrogacy
 surrogate/S
+surveillance
 sustainability
 sustainable/U
 symposium/SM
@@ -931,6 +961,7 @@ synchrony
 synergetic/Y
 synergistic/Y
 synergy/MS
+synthesize/SDG
 synthetic/SMY
 tabular/Y
 tamper/SDG
@@ -978,6 +1009,7 @@ trimming
 triplet/MS
 tripos
 truncation/MS
+trustee/MS
 trustful/EYP
 trustless/P
 trustworthy/UP
@@ -1011,6 +1043,7 @@ unendorsed
 unification/MA
 unintended
 uninterrupted
+unmanned
 unmapped
 unmatched
 unmediated
@@ -1023,11 +1056,14 @@ unprecedented/Y
 unpreserved
 unprocessed
 unrecognized
+unresolved
 unsaturated
 unstructured
 unsynchronized
+untrustworthy/P
 unverified
 upcoming
+uppercase
 usability/ASM
 utilization/MS
 utilize/SDG
@@ -1044,8 +1080,6 @@ visibility/I
 visualization/S
 visualize/GDS
 visualizer/MS
-balloon/MS
-stratosphere/M
 vocation/IAKFS
 vs
 weld/SDG

@@ -1,4 +1,4 @@
-10661
+10699
 0/d
 0cm
 0em
@@ -386,6 +386,7 @@ Carolin
 Carolina
 Caroline
 Cartagena
+Cartesian
 Casablancastletroy
 Cauchy/M
 Cd
@@ -907,6 +908,7 @@ IPS
 IPv6
 ISBN
 ISO
+IUPAC
 Ian
 Iași
 Ibadan
@@ -1396,6 +1398,8 @@ Marino
 Marius
 Mark
 Marko
+Markov/M
+Markovian
 Markus
 Marleen
 Marlen
@@ -2378,6 +2382,7 @@ action/AMS
 activate/CGDS
 activation/ACMS
 active/AIY
+activist/MS
 activity/SM
 actor/SM
 actual/Y
@@ -2385,6 +2390,7 @@ actuator/MS
 acyclic
 ad-hoc
 adapt/SDRG
+adaptability
 adaptation/MS
 adaption/MS
 adaptive/UYP
@@ -2433,7 +2439,7 @@ advantage/EMS
 advantageous
 advent
 adventure/SM
-adventurous
+adventurous/Y
 adverb/SM
 adverbial/SMY
 adversarial/Y
@@ -2507,7 +2513,7 @@ algorithmic/Y
 alias/S
 alien/MS
 align/SDG
-alignment
+alignment/MS
 alike
 alive
 all
@@ -2516,7 +2522,7 @@ allege/SDG
 allegedly
 allergic
 alleviate/SDG
-alliance
+alliance/MS
 allocate/SDG
 allocation/MS
 allocator/SM
@@ -2598,6 +2604,7 @@ analyzable/U
 analyze/SDG
 analyzer/SM
 anarchy
+anatomical/Y
 anatomy/MS
 ancestor/SM
 anchor/DMGS
@@ -2618,6 +2625,9 @@ angry/Y
 angular/Y
 anhydride/a
 animal/MS
+animate/AMSDG
+animation/AMS
+animator/SM
 annex
 anniversary
 annotate/SDG
@@ -2751,12 +2761,18 @@ arrogant/Y
 arrow/MS
 arsenic/a
 art/MS
+arterial/SY
+arteriosclerosis/M
+artery/SM
+arthroscopic
+arthroscopy
 article/MS
 articulate/SDG
 articulation/MS
 artificial/Y
 artist/MS
 artistic/Y
+artwork/MS
 as
 ascend/DGS
 ascent/MS
@@ -2874,7 +2890,10 @@ automaton/S
 automobile/MS
 automotive
 autonomous/Y
+autonomy/M
 autopilot/MS
+autopilot/MS
+autopsy/M
 autumn/M
 auxiliary/S
 availability/USM
@@ -3077,6 +3096,7 @@ binary/MS
 bind/GS
 binding/MS
 binocular/SY
+binomial
 bio
 biochemistry
 biography
@@ -3251,7 +3271,7 @@ bulb/MS
 bulk
 bullet/SM
 bulletin
-bump
+bump/SDG
 bunch
 bundle/SDGM
 burden
@@ -3569,7 +3589,7 @@ clone/SDGM
 close/EMSDG
 close/RYT
 closet
-closure
+closure/E
 cloth/MS
 clothe/SDG
 cloud/SM
@@ -3612,7 +3632,7 @@ collar
 collate/DSG
 colleague/SM
 collect/ADGS
-collectable/S
+collectible/S
 collection/SM
 collective/Y
 collector/SM
@@ -3673,7 +3693,7 @@ communist/SM
 community/SM
 commutative/Y
 commutativity
-compact
+compact/Y
 companion/MS
 company/SM
 comparability/SM
@@ -3868,8 +3888,8 @@ contest
 contextual/Y
 contextualization
 contextualize/DSG
-continent
-continental
+continent/MS
+continental/Y
 continual/Y
 continuation/SM
 continue/EDSG
@@ -4239,6 +4259,7 @@ democratic/Y
 demolish/SDG
 demonstrate/SDG
 demonstration/MS
+demoralize/SDG
 denial/MS
 denominator/S
 denote/SDG
@@ -4375,6 +4396,7 @@ dimension/SM
 dimensional/Y
 dimensionality
 dimensionless
+diminish/SDG
 dine/GDRS
 dinner
 diode/SM
@@ -4590,6 +4612,7 @@ dying
 dynamic/SY
 dynamo/MS
 dynasty/MS
+dysfunction/MS
 dysprosium/a
 e.g
 each
@@ -4956,6 +4979,7 @@ expander/MS
 expansion/MS
 expect/DGS
 expectable/UY
+expectancy/MS
 expectation/SM
 expedition/MS
 expenditure
@@ -4985,7 +5009,7 @@ exponential/SY
 exponentiation/S
 export/MSDG
 expose/SDG
-exposure
+exposure/MS
 express/MDSG
 expression/MS
 expressionless/Y
@@ -5046,7 +5070,7 @@ fallacious
 fallacy
 fallback/S
 fallen
-false
+false/Y
 fame
 familiar/U
 familiarity/MS
@@ -5150,7 +5174,7 @@ firmware/MS
 first/Y
 fiscal
 fish/MDSG
-fit/MS
+fit/MSP
 fitted
 fitting
 five/R
@@ -5448,6 +5472,7 @@ glossary/SM
 glossy
 glove/SM
 glow/SDG
+glucose
 glue
 gluon/SM
 go/GM
@@ -5789,6 +5814,7 @@ hypergeometrical/Y
 hyperplane/S
 hyperreal
 hyperref
+hypersensitive/Y
 hypertext
 hypertree/S
 hyphen
@@ -5852,6 +5878,7 @@ imino/p
 immature
 immediate/Y
 immense/Y
+immigrant/MS
 imminent
 immobilize/SDG
 immoral
@@ -6394,7 +6421,7 @@ lawrencium/a
 lawyer/MS
 lay/SG
 layer/MS
-layout
+layout/MS
 lazy/P
 leach
 lead/SGMD
@@ -6815,6 +6842,7 @@ microkernel/S
 microliter
 micrometer/S
 microohm
+micropayment/MS
 microphone/MS
 microprocessor/SM
 microscope/MS
@@ -7866,6 +7894,7 @@ pixel/MS
 pizza/MS
 place's
 place/AEDSG
+placebo/MS
 placeholder/SM
 placement/AEMS
 plague/DSG
@@ -7985,7 +8014,7 @@ potassium/a
 potato/M
 potatoes
 potent/Y
-potential/Y
+potential/MSY
 pound/SM
 pour/SDG
 poverty
@@ -8040,10 +8069,10 @@ preferred
 preferring
 prefetcher/MS
 prefix/DSG
-pregnancy
+pregnancy/MS
 pregnant
 preimage/S
-preimplantation/MS
+preimplantation/M
 prejudice/SDGM
 preliminary/Y
 premature/Y
@@ -8524,6 +8553,7 @@ rent
 repair/SGD
 repeat/BDSG
 repeatedly
+repellent
 repertoire
 repetition/MS
 repetitive
@@ -8761,7 +8791,7 @@ scenario/MS
 scene/SM
 scenery
 schedulability/S
-schedule/DSMG
+schedule/AUMSDG
 scheduler/MS
 schema
 schemata
@@ -8814,7 +8844,7 @@ sector/MS
 secular
 secure/IY
 secure/SDG
-security/M
+security/IM
 see/SG
 seed/MS
 seek/GS
@@ -9025,6 +9055,7 @@ sky
 slag
 slang
 slash
+slaughterhouse/MS
 sleep/SG
 slept
 slice/DSMG
@@ -9067,6 +9098,7 @@ sober
 social/Y
 socialism
 socialist
+socialize/SDG
 society/SM
 sock/MS
 socket/SM
@@ -9846,7 +9878,7 @@ tomato/M
 tomatoes
 toml
 tomography/M
-tomorrow
+tomorrow/M
 ton/MS
 tone/MS
 tongue
@@ -9986,6 +10018,7 @@ tritium/M
 triumph
 trivia/M
 trivial/Y
+triviality/MS
 trolley
 troop/SM
 trophectoderm
@@ -10039,11 +10072,13 @@ typeset/S
 typesetting
 typewriter
 typical/Y
+typography/M
 ubiquitous/YP
 ubiquity/S
 ugly
 ultimate/Y
 ultra
+ultrasound
 ultraviolet
 umbrella
 unaffected
@@ -10129,6 +10164,7 @@ unexpected/Y
 unexplained
 unfair
 unfinished
+unfulfilling/Y
 unhappy
 unidirectional/Y
 unification/MA
@@ -10257,7 +10293,9 @@ van/MS
 vanadium/a
 vandalism
 vanish/SDG
-vapor/MSDG
+vapor/M
+vaporize/SDG
+vaporizer/MS
 variability/IS
 variable/SM
 variance

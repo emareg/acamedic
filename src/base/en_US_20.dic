@@ -61,6 +61,7 @@ action/AMS
 activate/CGDS
 activation/ACMS
 active/AIY
+activist/MS
 activity/SM
 actor/SM
 actual/Y
@@ -93,7 +94,7 @@ advantage/EMS
 advantageous
 advent
 adventure/SM
-adventurous
+adventurous/Y
 adverse/Y
 advertise/DSG
 advertisement/MS
@@ -138,7 +139,7 @@ algorithm/SM
 alias/S
 alien/MS
 align/SDG
-alignment
+alignment/MS
 alike
 alive
 all
@@ -147,7 +148,7 @@ allege/SDG
 allegedly
 allergic
 alleviate/SDG
-alliance
+alliance/MS
 allocate/SDG
 allocation/MS
 allow/BGSD
@@ -294,6 +295,7 @@ article/MS
 artificial/Y
 artist/MS
 artistic/Y
+artwork/MS
 as
 ascend/DGS
 ash/MS
@@ -379,6 +381,7 @@ bake/DSG
 balance/ASDG
 ball/SM
 ballet
+balloon/MS
 ballot
 ban/S
 banal
@@ -518,6 +521,8 @@ blink
 bliss
 blob
 block/GMDS
+blog/S
+blogger/MS
 blood
 bloody
 blow/SGM
@@ -539,6 +544,7 @@ bonus
 book/SGMD
 booking/MS
 booklet
+bookmark/MS
 bookshop/MS
 bookstore
 boom
@@ -612,7 +618,7 @@ bulb/MS
 bulk
 bullet/SM
 bulletin
-bump
+bump/SDG
 bunch
 bundle/SDGM
 burden
@@ -849,7 +855,7 @@ clone/SDGM
 close/EMSDG
 close/RYT
 closet
-closure
+closure/E
 cloth/MS
 clothe/SDG
 cloud/SM
@@ -875,7 +881,7 @@ collar
 collate/DSG
 colleague/SM
 collect/ADGS
-collectable/S
+collectible/S
 collection/SM
 collective/Y
 collector/SM
@@ -915,7 +921,7 @@ communication/MS
 communism
 communist/SM
 community/SM
-compact
+compact/Y
 companion/MS
 company/SM
 comparative/Y
@@ -1075,8 +1081,8 @@ content/SM
 contention/MS
 contentious
 contest
-continent
-continental
+continent/MS
+continental/Y
 continual/Y
 continuation/SM
 continue/EDSG
@@ -1257,6 +1263,7 @@ damp
 dance/SDG
 danger/SM
 dangerous/Y
+dangle/SDG
 dare/DSG
 dark/P
 dash/SDG
@@ -1848,7 +1855,7 @@ explosive/S
 exponential/SY
 export/MSDG
 expose/SDG
-exposure
+exposure/MS
 express/MDSG
 expression/MS
 expressway/SM
@@ -1890,7 +1897,7 @@ fall/MSG
 fallacious
 fallacy
 fallen
-false
+false/Y
 fame
 familiar/U
 familiarity/MS
@@ -1972,7 +1979,7 @@ firm/SMY
 first/Y
 fiscal
 fish/MDSG
-fit/MS
+fit/MSP
 fitted
 fitting
 five/R
@@ -2478,6 +2485,7 @@ imbalance
 immature
 immediate/Y
 immense/Y
+immigrant/MS
 imminent
 immoral
 immortal/Y
@@ -2826,7 +2834,7 @@ law/MS
 lawyer/MS
 lay/SG
 layer/MS
-layout
+layout/MS
 lazy/P
 leach
 lead/SGMD
@@ -3772,7 +3780,7 @@ postulate/SDG
 pot
 potato/M
 potatoes
-potential/Y
+potential/MSY
 pound/SM
 pour/SDG
 poverty
@@ -3807,7 +3815,7 @@ preference/MS
 preferred
 preferring
 prefix/DSG
-pregnancy
+pregnancy/MS
 pregnant
 prejudice/SDGM
 preliminary/Y
@@ -4345,7 +4353,7 @@ scatter/DSG
 scenario/MS
 scene/SM
 scenery
-schedule/DSMG
+schedule/AUMSDG
 scheduler/MS
 scheme/MS
 school/MS
@@ -4382,7 +4390,7 @@ sector/MS
 secular
 secure/IY
 secure/SDG
-security/M
+security/IM
 see/SG
 seed/MS
 seek/GS
@@ -4585,6 +4593,7 @@ sober
 social/Y
 socialism
 socialist
+socialize/SDG
 society/SM
 sock/MS
 socket/SM
@@ -5133,7 +5142,7 @@ tolerate/DSG
 toll
 tomato/M
 tomatoes
-tomorrow
+tomorrow/M
 ton/MS
 tone/MS
 tongue

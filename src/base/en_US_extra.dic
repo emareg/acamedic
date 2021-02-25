@@ -1,4 +1,3 @@
-aardvark/MS
 abandon/SGD
 abbreviate/GDS
 abbreviation/MS
@@ -16,6 +15,7 @@ achievable/U
 acknowledge/DSG
 acknowledgment/MS
 acquaintance
+adaptability
 adaption/MS
 adaptive/UYP
 adhere/GDS
@@ -49,8 +49,6 @@ aggregation/MS
 agnostic/MSY
 agriculture
 algorithmic/Y
-altimeter/MS
-altitude/MS
 amortize/LBDSG
 amplification/MS
 amplifier/MS
@@ -60,7 +58,11 @@ analytic/S
 analytical/Y
 analyzability
 analyzer/SM
+anatomical/Y
 angular/Y
+animate/AMSDG
+animation/AMS
+animator/SM
 annex
 annotate/SDG
 annotation/MS
@@ -88,8 +90,8 @@ approve/DSG
 approximate/SDGY
 approximation/MS
 approximative/Y
-arcminute/MS
-arcsecond/MS
+arterial/SY
+artery/SM
 articulate/SDG
 articulation/MS
 ascent/MS
@@ -137,12 +139,13 @@ authoritative/YP
 authorship/SM
 automation/MS
 automatization/MS
+autonomy/M
+autopsy/M
 auxiliary/S
 availability/USM
 aversion/M
 aversive/Y
 axial/Y
-balloon/MS
 baseline/MS
 behavioral/Y
 benchmark/S
@@ -156,10 +159,7 @@ biomass/SM
 biotechnology/MS
 blacklist/SDG
 blackout/MS
-blog/S
-blogger/MS
 boilerplate/SM
-bookmark/MS
 bottleneck/MS
 bottommost
 boundedness/U
@@ -259,12 +259,10 @@ counterexample/S
 counterintuitive/Y
 countermeasure/S
 counterproductive/Y
-crater/MS
 crosscheck/GDS
 customization/MS
 customize/SDG
 customizer/MS
-dangle/SDG
 datapoint/MS
 dataset/MS
 decelerate/DSG
@@ -276,7 +274,7 @@ deflation/MS
 delegate/SDG
 delegation/MS
 deliverable/S
-exchangeability
+demoralize/SDG
 denial/MS
 depict/SDG
 depicter/MS
@@ -293,9 +291,9 @@ determiner/MS
 determinism/M
 determinist/SM
 deterministic/IY
-diamond/SM
 differentiation/MS
 digraph/MS
+diminish/SDG
 disambiguate/GDS
 disambiguation/MS
 discordance/SM
@@ -322,8 +320,8 @@ duality/S
 duplex
 durability/S
 durable/Y
-dwell/SDG
 dynasty/MS
+dysfunction/MS
 ecosystem/SM
 eject/DSG
 ejection/SM
@@ -387,6 +385,7 @@ excellence/MS
 excelling
 excerpt/SDGM
 excerpter/M
+exchangeability
 exchangeable/UY
 exchanger/M
 exciter/M/S
@@ -404,6 +403,7 @@ exhale/SDG
 exhaustive/UPY
 existentialism/SM
 existentialist/MS
+expectancy/MS
 expressionless/Y
 expressive/PYI
 expressivity
@@ -463,6 +463,7 @@ homogeneous/Y
 hormone/MS
 hotspot/MS
 hybrid/SM
+hypersensitive/Y
 hypothesize/SDG
 illumination/M
 immobilize/SDG
@@ -587,13 +588,13 @@ mediation/SM
 mediator/MS
 memorization/SM
 memorize/GSD
-mercury
 mesh/MSDG
 meta
 metallic
 methodological/Y
 methodology/S
 metric/S
+micropayment/MS
 microphone/MS
 min
 mineral/MS
@@ -768,6 +769,7 @@ photography/M
 physiological/Y
 piecewise
 pinpoint/GDS
+placebo/MS
 placeholder/SM
 planar
 platoon/MS
@@ -778,6 +780,7 @@ polarity/MS
 polymorphic/Y
 polymorphism/SM
 potent/Y
+powerless
 practicability
 practicably
 pre
@@ -852,6 +855,7 @@ relational/Y
 relativistic/Y
 renewable/U
 renewal/MS
+repellent
 replaceable
 replica/SM
 replicate/GSD
@@ -1020,12 +1024,14 @@ trimmed
 trimming
 triplet/MS
 tripos
+triviality/MS
 truncation/MS
 trustee/MS
 trustful/EYP
 trustless/P
 trustworthy/UP
 tweet/SDG
+typography/M
 ubiquitous/YP
 ubiquity/S
 ultra
@@ -1053,6 +1059,7 @@ underpinned
 underpinning
 undetermined
 unendorsed
+unfulfilling/Y
 unification/MA
 unintended
 uninterrupted
@@ -1083,7 +1090,9 @@ utilize/SDG
 validate/AISDG
 validation/IMS
 validator/IMS
-vapor/MSDG
+vapor/M
+vaporize/SDG
+vaporizer/MS
 variability/IS
 verifiability/U
 verifiable/UP

@@ -60,6 +60,7 @@ def install():
 # ==========================================
 merge_files(['src/base/en_US_20.dic', 
              'src/base/en_US_extra.dic', 
+             'src/base/en_US_special.dic', 
              'src/base/en_US_abbr.dic', 
              'src/base/en_Latin.dic', 
              'src/academic/en_US_tech.dic', 

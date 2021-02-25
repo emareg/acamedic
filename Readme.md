@@ -65,6 +65,9 @@ The project is in an early stage and you might find many words in your domain th
 The dictionary is constructed from several individual dictionary files in the `src` folder.
 
 * `/base/` contains common words.
+	* `en_US_basic.dic` basic and simple words, e.g. `book`
+	* `en_US_formal.dic` generic, formal and abstract, e.g. `interchangeable`
+	* `en_US_special.dic` special, more domain specific names that are hard to confuse.
 * `/academic/` contains special mathematical, technical, chemical, etc. terms.
 * `/names/` contains special names starting with capital letter.
 * `/codes/` contains keywords of programming languages.

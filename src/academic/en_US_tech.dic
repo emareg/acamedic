@@ -22,6 +22,7 @@ elevon/S
 glider/MS
 gyroscope/S
 hexacopter/MS
+ultrasound
 lander/S
 magnetometer/S
 microscope/MS
@@ -33,7 +34,7 @@ orbiter/MS
 parachute/MS
 pendulum/MS
 piston/MS
-powerless
+autopilot/MS
 propeller/MS
 quadcopter/MS
 resistor/SM

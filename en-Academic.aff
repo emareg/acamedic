@@ -198,7 +198,7 @@ KEY qwertzuop|yxcvbnm|asdfghjkl|qaw|wse|edr|rft|tgz|zhu|uji|iko|olp|ays|sxd|dcf|
 
 
 # word replacing
-REP 100
+REP 101
 REP ^witch$ which      # full words
 REP ^angel$ angle
 REP ^though$ although
@@ -210,7 +210,8 @@ REP ^whilst$ while
 REP ^amongst$ among
 REP ic$ ical         # endings
 REP ical$ ic
-REP a ei               # defaults
+REP ise ize      # US vs. GB
+REP a ei         # defaults
 REP ei a
 REP a ey
 REP ey a

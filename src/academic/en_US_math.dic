@@ -8,6 +8,8 @@ antiderivative/MS
 antilogarithm/MS
 arccos/S
 arccosine/MS
+arcminute/MS
+arcsecond/MS
 arctan
 arithmetic/MS
 arithmetical/UY
@@ -25,8 +27,10 @@ bidirectionality
 bijection/S
 bijective
 bilinear/Y
+binomial
 cardinality/SM
 cardioid/MS
+Cartesian
 circumference/MS
 coefficient/SM
 combinational/AU
@@ -125,6 +129,7 @@ logarithm/SM
 logarithmic
 logarithmical/Y
 mantissa
+Markovian
 matrices
 matrix
 moduli

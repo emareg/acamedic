@@ -66,13 +66,21 @@ The dictionary is constructed from several individual dictionary files in the `s
 
 * `/base/` contains common words.
 	* `en_US_basic.dic` basic and simple words, e.g. `book`
-	* `en_US_formal.dic` generic, formal and abstract, e.g. `interchangeable`
+	* `en_US_extra.dic` generic, formal and abstract, e.g. `interchangeable`
 	* `en_US_special.dic` special, more domain specific names that are hard to confuse.
 * `/academic/` contains special mathematical, technical, chemical, etc. terms.
 * `/names/` contains special names starting with capital letter.
 * `/codes/` contains keywords of programming languages.
 
 
+
+## Automated Testing
+We perform several types of automated tests to ensure a high quality of the dictionary:
+
+* **Correctness:** check if all words in the dictionary are spelled correctly. This is done by looking up all words in a larger dictionary. Some words are open for debate, e.g. whether `testcase` is correct or `test case` should be the only correct spelling.
+* **Duplicates:** check if words are encoded twice. This is not a problem for correctness but might indicate some kind of unwanted addition.
+* **Coverage:** check which percentage of words of reference articles (e.g. Wikipedia) are included in the dictionary. We aim for high coverage but also intentionally exclude words to improve spell checking of similar words.
+* **Consistency:** check if there are inconsistencies with certain grammar rules. E.g. the ending `icly` should in general be `ically`
 
 
 
@@ -81,6 +89,7 @@ The dictionary is constructed from several individual dictionary files in the `s
 For spell checking of academic documents, it is not useful if dictionaries include words such as `thee` or `wee`. They will most likely mask a spelling error of the words `the` or `we`. Since they are archaic or words, probably no one is going to write them but rather read them in some historic text fragments. And even if you write them, a spelling error of these words will most likely be masked by other words because instead of `wee` there is `we`, `see`, or `weed`.
 
 Furthermore, the standard dictionaries include a lot of problematic words, such as `wit`, `dome`, or `wont`.
+
 
 ### Even text analysis tool make mistakes.
 Grammarly, for example, can also analyze context and grammar but still does not spot the following spelling error:
@@ -92,11 +101,12 @@ Grammarly, for example, can also analyze context and grammar but still does not 
 ## Creation Process
 I have created this dictionary using the following process:
 
-1. Take a very small base dictionary: [SCOWL-20](http://app.aspell.net/create)
-2. Manually go through it an remove non-scientific terms
-3. Use it to check reference papers 
+1. take a very small base dictionary: [SCOWL-20](http://app.aspell.net/create)
+2. manually go through it an remove non-scientific terms
+3. use it to check reference papers/articles
 4. add newly found terms that are in [SCOWL-60](http://app.aspell.net/create)
 5. manually check and add further unrecognized terms
+6. use the tests to double check all words
 
 
 #### Terms I have removed
@@ -127,8 +137,10 @@ I do automatic testing on the resulting dictionary file:
 	- manually double-check all remaining words with 
 		- Google
 		- [Cambridge Dictionary](https://dictionary.cambridge.org/)
+		- [Merriam-Webster](http://www.merriam-webster.com)
 		- [Oxford Dictionary](https://www.oxfordlearnersdictionaries.com/definition/academic)
 <!-- - check that only few words are one edit (typo) away from each other. -->
+
 
 
 ### Lessons Learned

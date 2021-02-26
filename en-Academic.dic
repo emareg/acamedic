@@ -1,4 +1,4 @@
-10699
+10647
 0/d
 0cm
 0em
@@ -2463,6 +2463,7 @@ affirmable
 affirmably
 affirmation/MS
 affirmative/Y
+affix/S
 afford/DSGB
 affordance/S
 aforementioned
@@ -2480,7 +2481,7 @@ agenda
 agent/SM
 aggravate/SDG
 aggravation/MS
-aggravative/Y
+aggravative
 aggregate/SDG
 aggregation/MS
 aggressive/Y
@@ -2593,8 +2594,6 @@ analogous
 analogue
 analogy
 analyses
-analyses
-analysis
 analysis/M
 analyst/SM
 analytic/S
@@ -2691,8 +2690,6 @@ appear/AESGD
 appearance/MS
 append/SDG
 appendices
-appendices
-appendix
 appendix/M
 applause
 apple/MS
@@ -2892,7 +2889,6 @@ automotive
 autonomous/Y
 autonomy/M
 autopilot/MS
-autopilot/MS
 autopsy/M
 autumn/M
 auxiliary/S
@@ -2918,7 +2914,6 @@ axes
 axial/Y
 axiom/SM
 axiomatic/Y
-axis
 axis/M
 azanium
 azide/a
@@ -2934,8 +2929,6 @@ backspace
 backup/S
 backward/S
 bacteria
-bacteria
-bacterium
 bacterium/M
 bad/Y
 badge
@@ -2982,7 +2975,6 @@ bases
 bash/SDG
 basic/SY
 basicstyle
-basis
 basis/M
 basket
 bass/MS
@@ -3107,7 +3099,7 @@ biomass/SM
 biotechnology/MS
 bipolar
 bipolarity/MS
-biquad
+biquad   
 bird/SM
 birth/MS
 birthday
@@ -3122,7 +3114,6 @@ bitmask/SDG
 bitstream/S
 bitten
 bitter
-bitvector/MS
 bitwise
 bizarre
 black/MS
@@ -3137,6 +3128,7 @@ blanket
 blast/DSG
 blastocyst/MS
 blatant/Y
+blend/SDG
 bless/DSG
 blew
 blind/Y
@@ -3298,7 +3290,6 @@ bye
 bypass/SDG
 byte/MS
 bytecode/MS
-bytelevel
 bytestream/S
 byzantine
 cabinet/MS
@@ -3357,9 +3348,7 @@ caption/MS
 capture/DSG
 car/MDSG
 carbamoyl/p
-carbon
 carbon/a
-carbonate/a
 carbonate/a
 carbonobromidoyl/p
 carbonochloridoyl/p
@@ -3540,6 +3529,7 @@ circular/Y
 circulate/GDS
 circulation/MS
 circumference/MS
+circumfix/S
 circumstance/SM
 circumvent/SDG
 circumvention/MS
@@ -3606,14 +3596,14 @@ coaxial/Y
 cobalt/a
 code's
 code/CGDS
-codebase/M
+codebase/MS
 coefficient/SM
 coffee
 cog/MS
 cognition/AMS
 cognitional
 cognitive/Y
-coherence/CIS
+coherence/CI
 coherency/IS
 coherent/IY
 cohesion/S
@@ -3802,7 +3792,7 @@ confidence
 confident
 confidential
 confidentiality
-configurability/AS
+configurability/A
 configurable/A
 configuration/ASM
 configure/ADSG
@@ -3945,9 +3935,7 @@ coordination/S
 coordinator/SM
 cope/SDG
 copernicium/a
-copper
 copper/a
-coprime
 coprime/MS
 coprocessor/MS
 copy/DSMG
@@ -4041,11 +4029,8 @@ crime/SM
 criminal/SM
 crises
 crisis
-crisis
 crisp/SM
 criteria
-criteria
-criterion
 criterion/M
 critic/SM
 critical/Y
@@ -4148,7 +4133,6 @@ darmstadtium/a
 dash/SDG
 data
 database/MS
-datacenter/MS
 dataflow/MS
 datapoint/MS
 dataset/MS
@@ -4346,7 +4330,6 @@ dexter
 di/m
 diagnoses
 diagnosis
-diagnosis
 diagnostic/S
 diagonal
 diagram/SM
@@ -4433,7 +4416,7 @@ discrete/Y
 discretion/MS
 discretization/S
 discretize/SDG
-discretizer
+discretizer/MS
 discriminate/DSG
 discrimination/MS
 discriminator/MS
@@ -4673,8 +4656,9 @@ elaborate/SDG
 elaboration/MS
 elaborator/MS
 elapse/GSD
-elastic/ISY
+elastic/IY
 elasticity/I
+elastics
 elderly
 elect/DSG
 election/MS
@@ -5219,8 +5203,6 @@ flux
 fly/DSMG
 foam
 foci
-focus
-focus'
 focus/UAGSD
 focusable
 fog
@@ -5285,9 +5267,7 @@ formation/I
 formatted
 formatting
 former/Y
-formula
 formula/S
-formulae
 formulae
 formulate/ASDG
 formulation/AS
@@ -5606,7 +5586,7 @@ hardy
 harm
 harmful/Y
 harmless
-harmonic/SIY
+harmonic/SY
 harmonize/SDG
 harmony
 harsh
@@ -5683,7 +5663,7 @@ herself
 hertz
 hesitate/SDG
 hesitation/MS
-heterogeneity/ISM
+heterogeneity/I
 heterogeneous/Y
 heterosexual/Y
 heuristics
@@ -5781,7 +5761,7 @@ humbly
 humidity
 humor
 humorous
-hundred/MS
+hundred/S
 hung
 hungry
 hunt/SGD
@@ -5793,7 +5773,6 @@ hydraulic/S
 hydrazino/p
 hydride/a
 hydro/c
-hydrogen
 hydrogen/a
 hydrogencarbonate/a
 hydrogenphosphate/a
@@ -5807,8 +5786,8 @@ hydroxy/p
 hydroxycyclo/p
 hydroxysulfanyl/p
 hyperbolic/Y
-hypercell/S
-hypercube/S
+hypercell/MS
+hypercube/MS
 hypergeometric
 hypergeometrical/Y
 hyperplane/S
@@ -5816,13 +5795,12 @@ hyperreal
 hyperref
 hypersensitive/Y
 hypertext
-hypertree/S
+hypertree/MS
 hyphen
 hypo/p
 hypoblast
 hypochlorite/a
 hypotheses
-hypothesis
 hypothesis
 hypothesize/SDG
 hypothetical/Y
@@ -5835,7 +5813,7 @@ icos/h
 icosahedra
 icosahedral/Y
 icosahedron/MS
-icy/RST
+icy/RT
 id
 idea/SM
 ideal/SMY
@@ -5964,13 +5942,11 @@ indefensible
 indefinite/Y
 indent
 indeterminate
-index
 index/GMDS
 indicate/SDG
 indication/M
 indicative/YS
 indicator/MS
-indices
 indices
 indictment
 indirect/Y
@@ -6007,6 +5983,7 @@ infimum
 infinite/Y
 infinitesimal/SY
 infinity
+infix/S
 inflate/SDG
 inflation/MS
 inflict/SDG
@@ -6025,6 +6002,7 @@ ingenious
 ingredient/SM
 inhabit/SDG
 inhabitant/MS
+inharmonic
 inherent/Y
 inherit/SDG
 inheritance
@@ -6199,7 +6177,6 @@ iodo/a
 ion/MS
 iota/MS
 iridium/a
-iron
 iron/a
 ironic
 irony
@@ -6376,7 +6353,6 @@ know/SG
 knowledge
 known/U
 krypton/a
-kth
 lab/MS
 label/MDGS
 labelformat
@@ -6725,8 +6701,6 @@ mathematics
 mathescape
 mathspec
 matrices
-matrices
-matrix
 matrix
 matter/MS
 maturation/M
@@ -6797,7 +6771,6 @@ mental/Y
 mentality
 mention/SDG
 menu/MS
-mercury
 mercury/a
 mercy
 mere/Y
@@ -6903,7 +6876,6 @@ minimalism
 minimalist
 minimize/SDG
 minimum
-minimum
 minipage
 minister/MS
 minor
@@ -6917,7 +6889,7 @@ miscellaneous
 misclassification/MS
 misclassify/SDG
 miscommunicate/GDS
-miscommunication/GDS
+miscommunication/MS
 miscomprehend/DGS
 misconceive/GDS
 misconception/SM
@@ -7073,7 +7045,7 @@ multithreaded
 multithreading
 multitude/SM
 multivariate
-multiway/S
+multiway
 muon/S
 murder/MDGS
 murderer/MS
@@ -7102,7 +7074,6 @@ mystic
 myth/MS
 mythical
 mythology
-myths
 nA/u
 nC/u
 nF/u
@@ -7160,7 +7131,6 @@ near/RYT
 nearby
 neat/Y
 nebula
-nebula
 nebulae
 necessary/UY
 necessity/MS
@@ -7188,7 +7158,7 @@ nerve/SM
 nervous
 nest/DGS
 net/MS
-netlist/S
+netlist/MS
 network/SMDG
 neural
 neutral
@@ -7216,9 +7186,7 @@ nil
 nine
 niobium/a
 nitrate/a
-nitrate/a
 nitride/a
-nitrite/a
 nitrite/a
 nitro/p
 nitrocyclo/p
@@ -7241,7 +7209,7 @@ non
 non/h
 nona/m
 nonadec/h
-nonarithmetic/MSY
+nonarithmetic/Y
 nonblocking
 nonce/S
 nondeterminism
@@ -7268,8 +7236,7 @@ norm/MS
 normal/Y
 normality/MS
 normalization/ACMS
-normalize/ADSG
-normalized/UC
+normalize/CADSG
 normalizer/MS
 normalsize
 north
@@ -7303,9 +7270,7 @@ ns/u
 nth
 nuclear
 nuclei
-nuclei/M
 nucleotide/MS
-nucleus
 nucleus/M
 nuisance
 null
@@ -7378,7 +7343,7 @@ offline
 offload/GSD
 offset/S
 offsetting
-offspring/MS
+offspring/M
 often
 oftentimes
 oganesson/a
@@ -7583,7 +7548,6 @@ overview
 overweight
 overwhelm/SDG
 overwrite/SG
-overwriting
 overwritten
 overwrote
 ovulation/MS
@@ -7596,7 +7560,6 @@ oxide/aS
 oxime/a
 oxo/p
 oxy/x
-oxygen
 oxygen/a
 ozone
 pF/u
@@ -7633,7 +7596,6 @@ pant/MS
 paper/SM
 paperback
 par
-par
 parabola/SM
 parabolic/PY
 parachute/MS
@@ -7665,8 +7627,6 @@ parbox
 pardon
 parent/SM
 parentheses
-parentheses
-parenthesis
 parenthesis
 parindent
 parity
@@ -7772,7 +7732,7 @@ performance/SM
 perhaps
 perimeter/SM
 period/SM
-periodic/Y
+periodic
 periodical/YMS
 periodicity/MS
 peripheral/S
@@ -7821,9 +7781,7 @@ pharmacy/SM
 phase/DSMG
 phenol
 phenomena
-phenomena
-phenomenon
-phenomenon/MS
+phenomenon/M
 phenyl/p
 phi/M
 philosopher/SM
@@ -7831,7 +7789,6 @@ philosophical
 philosophy/SM
 phoenix
 phone/DSMG
-phosphate/a
 phosphate/a
 phosphide/a
 phosphite/a
@@ -8029,7 +7986,7 @@ practicably
 practical/Y
 practicality
 practice/BMGDS
-pragma/S
+pragma/MS
 pragmatic
 praise
 praseodymium/a
@@ -8080,7 +8037,7 @@ premise/MS
 premium
 preparation/MS
 prepare/DSG
-prepend/D
+prepend/SDG
 preprint/SDG
 preprocess/GDS
 preprocessor/S
@@ -8356,7 +8313,6 @@ radio/SM
 radioactive/Y
 radium/a
 radius
-radius
 radix/SM
 radon/a
 rage
@@ -8378,7 +8334,7 @@ randomize/DSG
 rang
 range/CGDS
 rank/MSDG
-ransomware/MS
+ransomware/M
 rant/GSMD
 rape
 rapid/Y
@@ -8451,7 +8407,6 @@ recovery
 recreational/Y
 recruit/GLSD
 rectangle/S
-rectangular
 rectangular
 rectify/DSG
 recursion/MS
@@ -8630,7 +8585,6 @@ retirement/M
 retract
 retrieval
 retrieve/DSG
-reuse
 reveal/DGS
 revenge
 revenue
@@ -8790,7 +8744,7 @@ scatter/DSG
 scenario/MS
 scene/SM
 scenery
-schedulability/S
+schedulability
 schedule/AUMSDG
 scheduler/MS
 schema
@@ -9156,7 +9110,8 @@ spaceship/SM
 spacetime
 spacious/Y
 spaciousness
-spam/MSD
+spam/MS
+spammed
 spamming
 span/MS
 spanned
@@ -9194,7 +9149,7 @@ speculative/Y
 speculator/MS
 sped
 speech/MS
-speed/SMG
+speed/SG
 spell/SMDG
 spelling/MS
 spend/SG
@@ -9472,7 +9427,6 @@ sulfanylcarbonyl/p
 sulfanylidene/p
 sulfate/a
 sulfide/a
-sulfide/a
 sulfino/p
 sulfite/a
 sulfo/p
@@ -9556,7 +9510,6 @@ survival
 survive/SDG
 susceptible
 suspect/SMDG
-suspecting/UY
 suspend/SDG
 suspension
 suspicion
@@ -9610,7 +9563,6 @@ synopsis
 syntactic/Y
 syntax
 syntheses
-synthesis
 synthesis
 synthesize/SDG
 synthesizer
@@ -9742,10 +9694,8 @@ testcase/S
 tetra/m
 tetradec/h
 tetrahedra
-tetrahedral
 tetrahedral/Y
 tetrahedron/MS
-tex
 tex
 text/FMS
 textbook/SM
@@ -9780,9 +9730,8 @@ therein
 thereof
 thermal/Y
 thermodynamic/YS
-these/S
+these
 theses
-thesis
 thesis/M
 theta/MS
 they
@@ -9837,7 +9786,6 @@ tight/YRT
 tighten/SDG
 tightness
 tikz
-tikz
 tile/MS
 till
 time/MGDS
@@ -9848,10 +9796,9 @@ timeout/SM
 timer/MS
 timescale
 timespan/MS
-timestamp/SDG
+timestamp/MSDG
 timetable
 timings
-tin/MS
 tin/a
 tiny
 tip/MS
@@ -9990,7 +9937,9 @@ treasure
 treat/SMDG
 treatment/MS
 tree/MS
-trek/SDG
+trek/S
+trekked
+trekking
 tremendous/Y
 trend/SM
 tri/m
@@ -10198,6 +10147,7 @@ unmitigated
 unmodified
 unmodulated
 unnatural
+unnormalized
 unofficial
 unordered
 unpasteurized
@@ -10228,7 +10178,6 @@ untidy
 until
 untouched
 untrusted
-untrustworthy/P
 untyped
 unused
 unverified
@@ -10360,8 +10309,8 @@ violent/Y
 violin
 virgin
 virtual/Y
-virtualization
-virtualized
+virtualization/MS
+virtualize/SDG
 virtue/MS
 virus/MS
 visibility/I
@@ -10397,7 +10346,6 @@ voter/SM
 vouch
 vowel
 voxel/S
-vs
 vs
 vulnerability/ISM
 vulnerable
@@ -10513,7 +10461,7 @@ winning
 winter
 wipe/SDG
 wire/MGDS
-wireless/MDSYP
+wireless/DSYP
 wisdom
 wise/YTR
 wish/DSG

@@ -43,7 +43,7 @@ aforementioned
 afterthought/SM
 aggravate/SDG
 aggravation/MS
-aggravative/Y
+aggravative
 aggregate/SDG
 aggregation/MS
 agnostic/MSY
@@ -75,8 +75,6 @@ anthropomorphous
 anti
 antivirus/S
 aperture/SM
-appendices
-appendix/M
 applicability/I
 applicable/I
 applicably/I
@@ -199,7 +197,7 @@ coaxial/Y
 cognition/AMS
 cognitional
 cognitive/Y
-coherence/CIS
+coherence/CI
 coherency/IS
 coherent/IY
 cohesion/S
@@ -228,7 +226,7 @@ compositional/Y
 conciseness
 concretization
 concretize/DSG
-configurability/AS
+configurability/A
 configurable/A
 configuration/ASM
 configure/ADSG
@@ -329,7 +327,8 @@ ejector/SM
 elaboration/MS
 elaborator/MS
 elapse/GSD
-elastic/ISY
+elastic/IY
+elastics
 elasticity/I
 electro
 elimination/M
@@ -450,11 +449,11 @@ granularity/SM
 grayscale
 greenhouse/SM
 handshake/SGM
-harmonic/SIY
+harmonic/SY
 harmonize/SDG
 healthcare
 heatmap/MS
-heterogeneity/ISM
+heterogeneity/I
 heterogeneous/Y
 heuristics
 holistic/Y
@@ -478,13 +477,13 @@ imprecise/Y
 imprecision
 incentivization/S
 incentivize/GDS
-indices
 indistinguishable
 individualize/ESGD
 inertial/Y
 inflate/SDG
 inflation/MS
 infographic/S
+inharmonic
 initiator/MS
 innermost
 innovate/SDG
@@ -604,7 +603,7 @@ miniaturization
 misclassification/MS
 misclassify/SDG
 miscommunicate/GDS
-miscommunication/GDS
+miscommunication/MS
 miscomprehend/DGS
 misconceive/GDS
 misconception/SM
@@ -637,7 +636,7 @@ multitask/SDG
 multitasker/MS
 multitude/SM
 multivariate
-multiway/S
+multiway
 mutability/MS
 mutable/YP
 mutate/SDG
@@ -656,9 +655,7 @@ nonoverlapping
 nonperiodic
 nonperiodical/Y
 nontrivial
-nuclei/M
 nucleotide/MS
-nucleus/M
 obfuscate/SDG
 obfuscation/MS
 obstacle/SM
@@ -730,6 +727,7 @@ overuse/SDG
 overvalue/SDG
 overweight
 overwrite/SG
+overwritten
 overwrote
 oxidation/M
 pairwise
@@ -763,8 +761,6 @@ personalization/MS
 personalize/SDG
 pessimism
 pessimistic/Y
-phenomena
-phenomenon/MS
 photography/M
 physiological/Y
 piecewise
@@ -1080,7 +1076,6 @@ unresolved
 unsaturated
 unstructured
 unsynchronized
-untrustworthy/P
 unverified
 upcoming
 uppercase
@@ -1103,7 +1098,6 @@ visualization/S
 visualize/GDS
 visualizer/MS
 vocation/IAKFS
-vs
 weld/SDG
 welder/MS
 whitelist/SDG

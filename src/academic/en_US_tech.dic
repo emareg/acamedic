@@ -22,7 +22,6 @@ elevon/S
 glider/MS
 gyroscope/S
 hexacopter/MS
-ultrasound
 lander/S
 magnetometer/S
 microscope/MS
@@ -34,7 +33,6 @@ orbiter/MS
 parachute/MS
 pendulum/MS
 piston/MS
-autopilot/MS
 propeller/MS
 quadcopter/MS
 resistor/SM
@@ -50,5 +48,6 @@ telegraph/MSDG
 telematics
 telemetry/M
 turbine/MS
+ultrasound
 uplink
 vehicular

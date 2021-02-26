@@ -195,8 +195,6 @@ analog
 analogous
 analogue
 analogy
-analyses
-analysis/M
 analyst/SM
 analyzable/U
 analyze/SDG
@@ -362,7 +360,6 @@ away
 awful/Y
 awkward
 axiom/SM
-axis/M
 baby/SM
 back/SMDG
 backbone
@@ -370,8 +367,6 @@ background/MS
 backlog
 backspace
 backward/S
-bacteria
-bacterium/M
 bad/Y
 badge
 baffle/SDG
@@ -407,7 +402,6 @@ barrister/MS
 base/DSMGL
 bash/SDG
 basic/SY
-basis/M
 basket
 bass/MS
 bastard/SM
@@ -514,6 +508,7 @@ blank
 blanket
 blast/DSG
 blatant/Y
+blend/SDG
 bless/DSG
 blew
 blind/Y
@@ -678,7 +673,6 @@ capitalism
 capitalist
 capture/DSG
 car/MDSG
-carbon
 card/MS
 cardboard
 care/SM
@@ -1125,7 +1119,6 @@ cool/DSG
 coordinate/SDG
 coordination/S
 cope/SDG
-copper
 copy/DSMG
 copyright
 core/MS
@@ -1195,10 +1188,7 @@ crew/MS
 cricket
 crime/SM
 criminal/SM
-crisis
 crisp/SM
-criteria
-criterion/M
 critic/SM
 critical/Y
 criticality
@@ -1405,7 +1395,6 @@ deviation/MS
 device/SM
 devious/Y
 devise/DSG
-diagnosis
 diagnostic/S
 diagonal
 diagram/SM
@@ -2017,7 +2006,6 @@ flush/SDG
 flute
 fly/DSMG
 foam
-focus'
 focus/UAGSD
 focusable
 fog
@@ -2063,8 +2051,6 @@ formation/I
 formatted
 formatting
 former/Y
-formula/S
-formulae
 forth
 forthcoming
 fortnight
@@ -2434,22 +2420,20 @@ humble
 humbly
 humor
 humorous
-hundred/MS
+hundred/S
 hung
 hungry
 hunt/SGD
 hurry
 hurt/SG
 husband
-hydrogen
 hyphen
-hypothesis
 hypothetical/Y
 hysterical/Y
 I
 ice
 icon/SM
-icy/RST
+icy/RT
 id
 idea/SM
 ideal/SMY
@@ -2717,7 +2701,6 @@ invite/DSG
 invoke/DSG
 involve/LGDS
 ion/MS
-iron
 ironic
 irony
 irrational/Y
@@ -3121,7 +3104,6 @@ minimal
 minimalism
 minimalist
 minimize/SDG
-minimum
 minister/MS
 minor
 minority/SM
@@ -3237,7 +3219,6 @@ mystic
 myth/MS
 mythical
 mythology
-myths
 nail/MDSG
 naive
 naked
@@ -3397,7 +3378,7 @@ officer/MS
 official/MYS
 offset/S
 offsetting
-offspring/MS
+offspring/M
 often
 oftentimes
 oil
@@ -3505,13 +3486,10 @@ overtime
 overtone/MS
 overview
 overwhelm/SDG
-overwriting
-overwritten
 owe/SDG
 own/DSG
 owner/MS
 ownership
-oxygen
 ozone
 pace
 pacifier
@@ -3538,7 +3516,6 @@ panic
 pant/MS
 paper/SM
 paperback
-par
 parade
 paradise
 paradox
@@ -3551,8 +3528,6 @@ paranoid
 paraphrase
 pardon
 parent/SM
-parentheses
-parenthesis
 parity
 park/GMDS
 parliament
@@ -3624,7 +3599,7 @@ perform/SDG
 performance/SM
 perhaps
 period/SM
-periodic/Y
+periodic
 peripheral/S
 permanent/Y
 permissible
@@ -4012,7 +3987,6 @@ radar
 radiation
 radical/Y
 radio/SM
-radius
 rage
 raid/SM
 rail/SM
@@ -4089,7 +4063,6 @@ recovery
 recreational/Y
 recruit/GLSD
 rectangle/S
-rectangular
 rectify/DSG
 recursion/MS
 recursive/Y
@@ -4222,7 +4195,6 @@ retirement/M
 retract
 retrieval
 retrieve/DSG
-reuse
 reveal/DGS
 revenge
 revenue
@@ -4662,7 +4634,7 @@ speculative/Y
 speculator/MS
 sped
 speech/MS
-speed/SMG
+speed/SG
 spell/SMDG
 spelling/MS
 spend/SG
@@ -4914,7 +4886,6 @@ survival
 survive/SDG
 susceptible
 suspect/SMDG
-suspecting/UY
 suspend/SDG
 suspension
 suspicion
@@ -4953,7 +4924,6 @@ synonym/MS
 synonymous/Y
 syntactic/Y
 syntax
-synthesis
 synthesizer
 system/SM
 systematic/UY
@@ -5067,8 +5037,7 @@ thereby
 therefore
 therein
 thereof
-these/S
-thesis/M
+these
 they
 they're
 thick/P
@@ -5120,7 +5089,6 @@ timer/MS
 timescale
 timetable
 timings
-tin/MS
 tiny
 tip/MS
 tire/SDG
@@ -5218,7 +5186,9 @@ treasure
 treat/SMDG
 treatment/MS
 tree/MS
-trek/SDG
+trek/S
+trekked
+trekking
 tremendous/Y
 trend/SM
 trial/SM

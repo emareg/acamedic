@@ -1,0 +1,32 @@
+# abbreviations that are only found in a technical/programming context
+app/SM
+async
+bib
+biquad   # bi-quadratic
+bool
+com
+enum/MS
+exec
+foreach
+http/S
+init
+lib/S
+libc
+msg
+mutex/S
+org
+pragma/MS
+pwd
+regex
+src
+stdout
+usr
+utf8
+www
+xor
+secp256k1
+secp256r1
+secp384r1
+gcc
+dpkg
+sudo/R

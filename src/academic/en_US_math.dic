@@ -46,7 +46,6 @@ convex
 convolution/MS
 convolutional/Y
 convolve/GSD
-coprime
 coprime/MS
 cos
 cosine/SM
@@ -65,7 +64,7 @@ dimensionality
 dimensionless
 directional/Y
 discretize/SDG
-discretizer
+discretizer/MS
 disjoint
 distribution/MSA
 divisible/I
@@ -100,8 +99,8 @@ homology/MS
 homomorphic/Y
 homomorphism/MS
 hyperbolic/Y
-hypercell/S
-hypercube/S
+hypercell/MS
+hypercube/MS
 hypergeometric
 hypergeometrical/Y
 hyperplane/S
@@ -118,7 +117,6 @@ interpolation/MS
 invertible
 isomorphism/MS
 isoperimetric
-kth
 Lagrangian
 Laplacian
 lemma/S
@@ -130,8 +128,6 @@ logarithmic
 logarithmical/Y
 mantissa
 Markovian
-matrices
-matrix
 moduli
 modulo
 modulus
@@ -143,7 +139,7 @@ multiplicand/SM
 multiplication/MS
 multiplicative/Y
 multiplicity/S
-nonarithmetic/MSY
+nonarithmetic/Y
 nonholonomic
 nonhyperbolic/Y
 nonlinear/Y
@@ -151,8 +147,8 @@ nonlinearity/S
 nonnegative/Y
 nonsymmetric/Y
 normalization/ACMS
-normalize/ADSG
-normalized/UC
+normalize/CADSG
+unnormalized
 normalizer/MS
 nth
 octagon/MS
@@ -215,7 +211,6 @@ surjective
 Taylor
 tensor/S
 tetrahedra
-tetrahedral
 tetrahedral/Y
 tetrahedron/MS
 topological/Y

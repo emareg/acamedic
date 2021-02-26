@@ -1,0 +1,8 @@
+
+typecheck/SDG  # should be "type check"
+lifecycle/MS      # should be "life cycle" => https://english.stackexchange.com/questions/68230/life-cycle-life-cycle-or-lifecycle
+keypair/MS        # should be "key pair"
+typechecker/MS    # should be "type checker"
+testcase/MS       # should be "test case"
+
+inheterogeneity   # should be "homogeneity"

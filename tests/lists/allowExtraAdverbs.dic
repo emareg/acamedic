@@ -1,0 +1,16 @@
+# For these words the adjective form exist but not the adverb form because it is less frequently used.
+# It is therefore safe to allow and ignore warnings of those.
+# Nevertheless, all added words have been double checked with Google
+
+conformantly    # conformant is a conventional adjective
+bilinearly
+connectionally
+linearizably
+hypergeometrically
+hypersensitively
+unfulfillingly
+nonnegatively
+propulsively
+interplanetarily
+reintegratively
+disintegratively

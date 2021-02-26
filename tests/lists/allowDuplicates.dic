@@ -1,0 +1,91 @@
+# These words are encoded more than once in our dictionary because they have several meanings or several types.
+
+B    # letter or unit (Byte)
+C    # letter or unit (Coulomb)
+F    # letter or unit (Farad)
+H    # letter or unit (Henry)
+I    # letter or word (me) and chemical (Iodine) 
+J    # letter or unit (Joule)
+K    # letter or unit (Kelvin)
+N    # letter or unit (Newton)
+O    # letter or chemical (Oxygen)
+P    # letter or chemical (Phosphorus)
+S    # letter or chemical (Sulfur)
+T    # letter or unit (Tesla)
+U    # letter or chemical (Uranium)
+V    # letter or chemical (Vanadium)
+W    # letter or unit (Watt)
+Y
+
+Pa   # unit (Pascal) or chemical (Protactinium)
+Pb   # unit (Petabit) or chemical (Lead)
+Tb   # unit (Terabit) or chemical (Terbium)
+
+
+
+lead  # verb or chemical
+
+couple/S    # verb or noun
+
+building    # verb or noun
+drawing     # verb or noun
+heading     # verb or noun
+binding     # verb or noun
+booking     # verb or noun
+encoding    # verb or noun
+feeling     # verb or noun
+finding     # verb or noun
+listing     # verb or noun
+meaning     # verb or noun
+meeting     # verb or noun
+painting    # verb or noun
+warning     # verb or noun
+working     # verb or noun
+rating      # verb or noun
+writing     # verb or noun
+offering    # verb or noun
+proceeding  # verb or noun
+recording   # verb or noun
+saving      # verb or noun
+reading     # verb or noun
+surrounding # verb or noun
+spelling    # verb or noun
+mapping     # verb or noun
+ending      # verb or noun
+pairing     # verb or noun
+rating      # verb or noun
+
+smooth      # verb or adjective
+secure      # verb or adjective
+lower       # verb or adjective
+clean       # verb or adjective
+slow        # verb or adjective
+clear       # verb or adjective
+close       # verb or adjective
+narrow      # verb or adjective
+
+cleaner     # noun or adjective
+sound       # noun or adjective
+
+light       # verb, noun, or adjective
+
+
+ellipses  # math plural of ellipse or latin plural of elipsis
+bases     # past tense of the verb "base" or latin plural of "basis"
+
+enum      # shared by several programming languages
+
+Milan   # Name for person or city
+Sofia   # Name for person or city
+bit     # past tens of verb "bit" or unit
+bar     # noun or unit
+
+
+
+# ether     # two types of chemical affixes
+# deca  # unit or chemical affix
+# but   # word or chemical affix
+# per   # word or chemical affix
+# non   # word or chemical affix
+# mono  # word or chemical affix
+

@@ -1,0 +1,34 @@
+# These are words in transition from two separate words to a compound word.
+# Examples of accepted compounds: "birth rate" => "birthrate", "health care" => "healthcare",  "on-line" => "online"
+# https://www.latimes.com/socal/daily-pilot/opinion/tn-dpt-me-0130-casagrande-20140128-story.html
+
+namespace/MS
+pseudoprime/MS
+stripline/MS
+bitstream/MS
+bytestream/S   # borderline, maybe "byte stream"?
+cybercrime/MS
+blocktime/MS
+watchpoint/MS
+localhost
+backend/MS
+frontend/MS
+infographic/MS
+blockchain/MS
+callgraph/MS
+changelog/MS
+cryptocurrency/MS
+cryptosystem/MS
+hexacopter/MS
+whitepaper/MS
+quadcopter/MS
+toolchain/MS
+codebase/MS
+bytecode/MS
+netlist/MS
+hypertree/MS
+hypercell/MS
+hotspot/MS
+dataflows
+failover
+

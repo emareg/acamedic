@@ -1,0 +1,116 @@
+# These words are not in scowl-95 but have been triple-checked to be correct
+reauthenticates
+epigenome/MS
+coprime/MS
+virtualizes
+virtualized
+virtualizing
+microservice/MS
+microkernel/MS
+microcontroller/MS
+hardcode/SG
+datasheet/MS
+contactless
+misconfigure/SDG
+
+mispredict/SDG
+misprediction/MS
+overapproximate/SDG
+underapproximate/SDG
+overapproximation/MS
+validator/MS
+memristor/MS
+reimplements
+affordance/MS
+heatmap/MS
+interoperate/SDG
+bitmask/MS
+endian
+inlines
+inlined
+inlining
+endianness
+whitelist/MSDG
+decompilation/MS
+unfocus/S
+interactivities
+unschedule/SG
+auditability
+composability
+unassign/SG          # borderline
+desynchronization/MS
+timespan/MS           # borderline
+overapproximative/Y
+linearizability
+nonlinearizable       # can also be non-linearizable
+prefetcher/MS
+prescaler/M
+pinout/MS
+sandboxed
+sandboxing
+superframe/MS
+postprocessed
+postprocesses
+permissionless
+unpermissioned
+middleware
+discretize/SDG
+discretization/MS
+afterglowed
+afterglowing
+micropayment/MS
+denormalization/MS 
+unpluggable
+subtyping
+subtyped
+supertype/MS
+idempotence    # math term for matrices
+holonomic      # math term
+nonholonomic
+tetrahedra     # latin plural 
+suprema        # latin plural
+denormalize/SG
+redeployable    # "redeploy" and "deployable" exist; 81.000 Google results
+bitmask/SDG
+callee/MS
+schedulability
+timestamping
+transceives
+transceived
+transceiving
+transponds    # blended word but in line with "transceive"
+transponded
+transponding
+prepend/SDG
+prosthaphaeresis
+hyperreal
+fuzzer/MS          # in computer science
+lookbehind         # in computer science (regex)
+microarchitectural # in computer science
+cybersecurity      # in computer science
+templating         # in computer science
+parametrizable/U   # in math
+unprocessable
+evolvability
+circumfix/S
+microfertilization   # in medicine
+adsternal            # in medicine
+onboarding
+discretizer/MS
+gravidic
+
+parallelizations   # extra plural
+modularizations    # extra plural
+virtualizations    # extra plural
+chiplets           # extra plural
+preimages          # extra plural
+runtimes           # extra plural
+postconditions     # extra plural
+misconfigurations  # extra plural
+decompilers        # extra plural
+bootloaders        # extra plural
+whitespaces        # extra plural
+datapoints         # extra plural
+arcminutes         # extra plural
+basebands          # extra plural
+antiviruses        # extra plural

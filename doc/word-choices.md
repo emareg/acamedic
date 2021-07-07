@@ -40,6 +40,13 @@ Short: use `latency`
 Explanation: `latence` is the obsolete form. Derived from French?
 
 
+## Consistency vs. Consistence
+Short: use `consistency`
+
+Explanation: `consistence` is an obsolete/archaic form.
+
+
+
 
 ## Indexes vs Indices
 Short: it depends

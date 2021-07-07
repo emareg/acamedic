@@ -1,5 +1,11 @@
+import sys
+sys.path.insert(0, './tests')
 
-print("Testing for duplicates:")
+print("Testing Syntax:")
+print("-----------------------")
+import test_syntax
+
+print("\n\nTesting for duplicates:")
 print("-----------------------")
 import test_duplicates
 

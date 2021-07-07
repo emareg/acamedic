@@ -84,20 +84,35 @@ transponding
 prepend/SDG
 prosthaphaeresis
 hyperreal
-fuzzer/MS          # in computer science
-lookbehind         # in computer science (regex)
-microarchitectural # in computer science
-cybersecurity      # in computer science
-templating         # in computer science
-parametrizable/U   # in math
-unprocessable
 evolvability
 circumfix/S
-microfertilization   # in medicine
-adsternal            # in medicine
 onboarding
 discretizer/MS
+intragenerational
+
+# computer science
+# ==================================
+fuzzer/MS         
+lookbehind         # (regex)
+microarchitectural
+cybersecurity     
+templating        
+parametrizable/U   # in math
+unprocessable
+
+# medicine
+# ==================================
+microfertilization   # in medicine
+adsternal            # in medicine
+pluripotency
+electroporation
+noninvasively
 gravidic
+cryoresistance
+theriogenology
+intracytoplasmic
+
+
 
 parallelizations   # extra plural
 modularizations    # extra plural

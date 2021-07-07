@@ -1,3 +1,44 @@
+aluminum          # should be "aluminium"
+acknowledgement   # should be "acknowledgment"
+
+# separated words
 datacenter/MS    # it is "data center"
 bitvector/MS     # should be "bit vector"
+
+
+# british
+centre/MS
+behaviour/MS
+colour/MS
+licence/MS
+labour
+travelling
+standardise/SDG
+minimise/SDG
+maximise/SDG
+
+
+# imperial units
+acre/S
+
+
+# programming/code terms
+ctx
+sizeof
+len
+msec
+inc
+succ
+argc
+eval
+pthread
+
+
+# misc
+foo
+
+# abbreviations?
+cbmc
+snd
+nsec
 

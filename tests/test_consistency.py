@@ -1,13 +1,13 @@
-from parsedic import read_hunspell, filter_allowed
+from parsedic import read_hunspell, filter_allowed, compound
 import re
 import sys
 
 
 COMMON_SUFFIXES=(
-    'ry', 'ncy', 'acy', 'ion', 'ity', 'ism', 'ment', 'ness', 'nce', 'ogy', 'phy', 
+    'ry', 'ncy', 'acy', 'ion', 'ity', 'asm', 'ism', 'ment', 'ness', 'nce', 'ogy', 'phy', 'ique', 'graph', 'hood',
     'ium', 'uum', 'num',  #latin
-    's', 'ed', 'ing', 'ize', 'ate', 'ify', # verbs
-    'al', 'ic', 'ive', 'ary', 'able', 'ible', 'less', 'est', 'ent', 'ful', # adjectives
+    's', 'ed', 'ing', 'ize', 'ate', 'ify', 'ish', # verbs
+    'al', 'ic', 'ive', 'ary', 'able', 'ible', 'less', 'est', 'ent', 'ful', 'lar', # adjectives
     'ant', 'er', 'tor', 'sor', 'ist', 'ian', # persons
     'ly', # adverbs
     'ase', # enzyms 
@@ -17,6 +17,9 @@ COMMON_SUFFIXES=(
 def findInconsistencies(dictionary):
     dicInconsistent = {}
     for word in dictionary.keys():
+        if any(x.isdigit() for x in word[1:]):         # digit in word
+            dicInconsistent[word] = dictionary[word]
+
         if word.endswith(('icly', 'yly', 'abley', 'lely')): # wrong adverb forms
             dicInconsistent[word] = dictionary[word]
         if re.match(r'.+(?:thes|xs|[^aeuo]ys)$', word):  # wrong plural forms
@@ -24,12 +27,21 @@ def findInconsistencies(dictionary):
         if re.match(r'\w{3,10}(?:ed|able|less|ful|ify|ize|ly)\'s$', word): # wrong possessive forms
             dicInconsistent[word] = dictionary[word]
 
-        # todo: check that -ing forms have -s  AND that -est (T) forms have (R)
+        if len(word) > 5 and re.match(r'[qwrtzpsdfghklxcvbnm]{3}(?<!sch|spr|str|sph|scr|spl|chr|chl|phr|thr)', word): # three consonants
+            dicInconsistent[word] = dictionary[word]            
 
-        # if len(word) > 8 and not word[0].isupper():
-        #     mainword = re.sub(r'^(micro|milli|pico|kilo|mega|giga|tera|anti|mis|super|over|under|hyper|sub|counter)(.+)$', r'\2', word)
-        #     if len(mainword) > 8 and not mainword.endswith(COMMON_SUFFIXES):
-        #         dicInconsistent[word] = dictionary[word]
+        if len(word) > 9 and not word[0].isupper():
+            # if word.endswith('ing') and word[:-3]+'s' not in dictionary:   # -ing words have -s variant
+            #     dicInconsistent[word] = dictionary[word]
+            if word.endswith('iest') and word[:-2]+'r' not in dictionary:   # all -iest words have -ier
+                dicInconsistent[word] = dictionary[word]
+
+            # if word.endswith('able') and word[:-1]+'y' not in dictionary:   # all -able words have -ably
+            #     dicInconsistent[word] = dictionary[word]
+
+            # mainword = re.sub(r'\b(micro|milli|pico|kilo|mega|giga|mono|tera|octa|tetra|anti|auto|dis|fore|iso|mis|multi|pre|super|trans|over|under|un|hyper|hypo|hydro|sub|counter|ultra)', '', word)
+            # if len(mainword) > 9 and not mainword.endswith(COMMON_SUFFIXES) and not compound(mainword, dictionary):
+            #     dicInconsistent[word] = dictionary[word]
     return dicInconsistent
 
 
@@ -41,7 +53,17 @@ def testConsistency():
     dicInconsistent = {}
     dicAllowedInconsistent = {}
 
-    read_hunspell(dicAcamedic, 'en-Academic.dic')
+    read_hunspell(dicAcamedic, 'src/base/en_US_20.dic')
+    read_hunspell(dicAcamedic, 'src/base/en_US_extra.dic') 
+    read_hunspell(dicAcamedic, 'src/base/en_Latin.dic')
+    read_hunspell(dicAcamedic, 'src/academic/en_US_biota.dic')
+    read_hunspell(dicAcamedic, 'src/academic/en_US_tech.dic')
+    read_hunspell(dicAcamedic, 'src/academic/en_US_computer.dic') 
+    read_hunspell(dicAcamedic, 'src/academic/en_US_math.dic')
+    read_hunspell(dicAcamedic, 'src/academic/en_US_physics.dic') 
+    read_hunspell(dicAcamedic, 'src/academic/en_US_med.dic')
+
+
     read_hunspell(dicAllowedInconsistent, 'tests/lists/allowInconsistencies.dic')
 
 

@@ -59,6 +59,8 @@ PFX E   0     dis         .
 PFX F Y 1
 PFX F   0     con         .
 
+
+# should be deprecated? (only <10 entries)
 PFX K Y 1
 PFX K   0     pro         .
 

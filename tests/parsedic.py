@@ -67,9 +67,20 @@ def parse_affix(word, affix, affextra=True):
     return addwords 
 
 
+# check if a word is a compound
+def compound(word, dictionary):
+    if len(word) < 6: return None
+    splits = [(word[:i], word[i:]) for i in range(2, len(word)-2)]
+    for split in splits:
+        if split[0] in dictionary and split[1] in dictionary:
+            return split
+    else:
+        return None
+
 
 def read_hunspell(dictionary, dictfile, affextra=True):
     lines = ""
+    newwords = 0
     try:
         fh = open(dictfile, "r", encoding="utf8")
         lines = fh.read()
@@ -78,6 +89,7 @@ def read_hunspell(dictionary, dictfile, affextra=True):
         print("ERROR: Dictionary File '{}' not found. Install hunspell.".format(dictfile))
 
     lines = re.sub(r"#.*?(?:\n|$)", "\n", lines).strip()  # remove comments
+    lines = re.sub(r"  .*?(?:\n|$)", "\n", lines).strip()  # remove anything after two spaces
     lines = re.sub(r"\n\s*\n", "\n", lines)  # empty lines
 
     for line in lines.splitlines():
@@ -88,8 +100,9 @@ def read_hunspell(dictionary, dictfile, affextra=True):
                 dictionary[additional] += 1
                 if len(affix) > 0 and affix in "aphms": continue
             else:
+                newwords += 1
                 dictionary[additional] = 0
-    print("Loaded {}: {} words".format(dictfile, len(dictionary.keys())))
+    print("Loaded {} words from {} => {} words total".format(newwords, dictfile, len(dictionary.keys())))
     return dictionary
 
 

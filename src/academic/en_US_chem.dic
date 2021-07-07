@@ -59,8 +59,8 @@ benz/h
 
 
 ## Hydrocarbon suffix
-yl/xs
-oxy/x
+# yl/xs
+# oxy/x
 
 
 
@@ -200,10 +200,10 @@ nitro/p
 
 
 ## suffixes for cations: ide, ite, ate
-onium/c
-oate/c
-hydro/c
-amine/c
+# onium/c
+# oate/c
+# hydro/c
+# amine/c
 
 
 

@@ -149,6 +149,7 @@ I do automatic testing on the resulting dictionary file:
 * words with `-ical` or `-ual` suffix should (normally) have the `/Y` adverb extension.
 * words with `-tive` suffix often have `/SYP`
 * words should either have `-icity` or `-ness` suffices and these should not have plural forms. E.g. use `simplifications` instead of `simplicities`. 
+* words ending in `-ed` very rarely can be negated by prefixing `in-/im-/ir-/il-`
 
 
 

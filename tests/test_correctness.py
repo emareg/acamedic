@@ -1,12 +1,12 @@
 from parsedic import read_hunspell, filter_allowed
 
 
-
+# get entries that are in the small dictionary but not in the large
 def compare_dicts(dic_small, dic_large):
     matches = {} 
     for key in dic_small.keys():
         if key[0].isupper(): continue
-        if any(char in key for char in [" ", "'", ".", "-"]): continue
+        if any(char in key for char in [" ", ".", "-"]): continue
         if len(key) == 1: continue
         if key not in dic_large.keys():
             matches[key] = 0
@@ -29,7 +29,8 @@ def filter_clear_cases(dic_err, dic_full):
                 toRemoveKeys.append(key)                
     for key in toRemoveKeys:
         del dic_err[key]
-
+    # print("Removed {} obvious test entries.".format(len(toRemoveKeys)))
+    return len(toRemoveKeys)
 
 # main
 
@@ -63,7 +64,7 @@ def testCorrectness():
     dicMissing = compare_dicts(dicAcamedic, dicScowlFull)
 
     filter_clear_cases(dicMissing, dicAcamedic)
-    filter_clear_cases(dicAllowedMisses, dicAcamedic)
+    nRemoved = filter_clear_cases(dicAllowedMisses, dicAcamedic)
     dicFilt = filter_allowed(dicMissing, dicAllowedMisses)
 
 
@@ -76,7 +77,7 @@ def testCorrectness():
     if unknown:
         print("ERR: {} words not in larger dictionary: {}".format(len(unknown), unknown))
     else:
-        print("PASS: {} known exceptions found and ignored. All good.".format(len(dicAllowedMisses.keys())))
+        print("PASS: {} known exceptions found and ignored. All good.".format(len(dicAllowedMisses.keys())+nRemoved))
 
 
 

@@ -32,7 +32,7 @@ accept/SGD
 acceptable/UY
 acceptance
 access/SDG
-accessible/I
+accessible/IY
 accident/MS
 accidental/Y
 accommodate/SDG
@@ -62,7 +62,7 @@ activate/CGDS
 activation/ACMS
 active/AIY
 activist/MS
-activity/SM
+activity/ISM
 actor/SM
 actual/Y
 adapt/SDRG
@@ -130,13 +130,12 @@ airport/MS
 alarm/DGS
 albeit
 album/MS
-alcohol
 alcoholic
 alert/SDG
 algebra
 algebraic
 algorithm/SM
-alias/S
+alias/SDG
 alien/MS
 align/SDG
 alignment/MS
@@ -216,7 +215,8 @@ annoy/DGS
 annoyance
 annual/Y
 anomaly/SM
-anonymous
+anonymity
+anonymous/Y
 anorak/SM
 another
 answer/SMDG
@@ -382,7 +382,7 @@ ban/S
 banal
 banana/SM
 band/SM
-bandwidth
+bandwidth/S
 bang
 bank/SM
 bankrupt
@@ -418,7 +418,7 @@ beach
 beam/MDGS
 bean/SM
 bear/SGM
-beard/DGS
+beard/DSM
 beast/MS
 beat/SGM
 beaten          st:beat
@@ -842,7 +842,7 @@ clinical/Y
 clip/SM
 clipped
 clipping
-clique
+clique/MS
 clock/SM
 clog
 clone/SDGM
@@ -860,7 +860,7 @@ cluster/MSDG
 coach
 coal
 coast
-coat/MS
+coat/MSDG
 code's
 code/CGDS
 coffee
@@ -946,7 +946,7 @@ complaint/MS
 complement/MSDG
 complementary/Y
 complete/YGDS
-completeness/U
+completeness/I
 completion/MS
 complex
 complexity/MS
@@ -974,6 +974,7 @@ computational/Y
 compute/AGDS
 computer/MS
 computerize/SDG
+con/S
 concatenate/DSG
 conceal/SDG
 concede
@@ -1162,7 +1163,7 @@ court/SM
 courtesy
 cousin
 cover's
-cover/EADGS
+cover/AEUDGS
 coverage
 cow/MS
 cozy
@@ -1210,7 +1211,7 @@ crush/DSG
 cry/SDGM
 cryptic
 crystal/MS
-cube
+cube/MS
 cubic
 cue
 culprit
@@ -1238,6 +1239,7 @@ customer/MS
 cut/MS
 cute
 cutting
+cyan
 cycle's
 cycle/ADSG
 cyclist/SM
@@ -1292,6 +1294,7 @@ decline/SDG
 decrease/DSG
 dedicate/SDG
 deduce/SDG
+deduct/SDG
 deductible
 deduction/MS
 deductive/Y
@@ -1336,7 +1339,6 @@ democratic/Y
 demolish/SDG
 demonstrate/SDG
 demonstration/MS
-denominator/S
 denote/SDG
 dense
 density/MS
@@ -2001,7 +2003,7 @@ flower/MS
 flown
 fluctuation/MS
 fluent
-fluid
+fluid/S
 flush/SDG
 flute
 fly/DSMG
@@ -2009,7 +2011,7 @@ foam
 focus/UAGSD
 focusable
 fog
-fold/SGD
+fold/USGD
 folder/MS
 folk/SM
 follow/SGD
@@ -2713,7 +2715,8 @@ island/MS
 isn't
 isolate/DSG
 isolation/M
-issue/MGDS
+issue/AMGDS
+issuer/MS
 it
 it's
 item/SM
@@ -2736,7 +2739,7 @@ join/SGD
 joint/MYS
 joke/DSMG
 jolly
-journal/MS
+journal/MSG
 journalist/SM
 journey
 joy
@@ -2813,10 +2816,14 @@ laugh/MDG
 laughs
 laughter
 launch/DSG
+launcher/MS
 law/MS
 lawyer/MS
 lay/SG
-layer/MS
+layer/MSDG
+leftmost
+rightmost
+innermost
 layout/MS
 lazy/P
 leach
@@ -2963,6 +2970,7 @@ machinery
 mad/P
 made
 magazine/MS
+magenta
 magic
 magical/Y
 magnetic/Y
@@ -3230,7 +3238,8 @@ narrow/RT
 nasty/TR
 nation/MS
 national/Y
-native/MS
+nationality/S
+native/MSY
 natural/Y
 nature
 naughty
@@ -3298,7 +3307,9 @@ norm/MS
 normal/Y
 normality/MS
 north
+northeast
 northern
+northwest
 nose/MS
 nostalgia
 not
@@ -3845,7 +3856,7 @@ private/Y
 privatization
 privilege/DSMG
 prize/MS
-pro
+pro/S
 probability/SM
 probable
 probably
@@ -3906,7 +3917,7 @@ prospective
 prostitute/MS
 protect/DSG
 protection/M
-protein
+protein/MS
 protest
 protocol/MS
 prototype/MSDG
@@ -4236,8 +4247,8 @@ road/SM
 robot/MS
 robust/P
 rock/SM
-rocket
-rod
+rocket/MS
+rod/SM
 rode
 role/SM
 roll/SGMD
@@ -4483,7 +4494,7 @@ signature/MS
 signer/MS
 significance
 significant/Y
-silence
+silence/SDG
 silent/Y
 similar/Y
 similarity/MS
@@ -4579,7 +4590,7 @@ sole/MYS
 solid
 solo
 solution/SM
-solve/ADSG
+solve/AEDSG
 some
 somebody
 somehow
@@ -4605,7 +4616,9 @@ soundtrack
 soup
 source/MSDG
 south
+southeast
 southern
+southwest
 space/DSMG
 span/MS
 spanned
@@ -4778,6 +4791,7 @@ struck
 structural/UY
 structure/DSMG
 struggle/SDG
+stub/SM
 stuck
 student/SM
 studio
@@ -5104,7 +5118,7 @@ toggle
 toilet/SM
 token/MS
 told
-tolerance/I
+tolerance/IS
 tolerant
 tolerate/DSG
 toll
@@ -5117,7 +5131,7 @@ tongue
 tonight
 too
 took
-tool/MS
+tool/MSG
 tooth/M
 top/MS
 topic/SM
@@ -5489,7 +5503,7 @@ weather
 wedded
 wedding
 week/MYS
-weekday
+weekday/MS
 weekend/MS
 weigh/SDG
 weight/SDG
@@ -5537,7 +5551,7 @@ will/SDG
 willingly
 win/MS
 wind/UGMDS
-window/SGM
+window/MSDG
 wine/MS
 wing/MS
 winner/MS

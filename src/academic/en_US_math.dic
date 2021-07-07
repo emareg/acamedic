@@ -54,8 +54,11 @@ covariant
 curvature/SM
 cyclic
 cyclical/Y
+interpolate/SDG
+triangular/Y
 cylindrical/Y
 decidability/U
+denominator/MS
 derivative/YMSP
 determinant/S
 differentiable
@@ -88,6 +91,7 @@ fractal/MS
 fractional/A
 fractionalization
 fractionalize/SDG
+Gaussian
 geometric/MS
 geometrical/UY
 hexadecimal
@@ -120,6 +124,7 @@ isoperimetric
 Lagrangian
 Laplacian
 lemma/S
+lemniscate/MS
 linearity/S
 linearization/MS
 linearize/SDG
@@ -148,9 +153,9 @@ nonnegative/Y
 nonsymmetric/Y
 normalization/ACMS
 normalize/CADSG
-unnormalized
 normalizer/MS
 nth
+numerator/MS
 octagon/MS
 octahedra
 octahedral/Y
@@ -221,6 +226,7 @@ trigonometry/MS
 tuple/SM
 unidirectional/Y
 unitary
+unnormalized
 x
 y
 z

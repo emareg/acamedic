@@ -44,7 +44,7 @@ checkpointing
 checksum/SM
 chiplet/S
 chipset/S
-cipher/DMSG
+cipher/CDMSG
 ciphertext/S
 codebase/MS
 concatenation/MS
@@ -65,6 +65,8 @@ daemon/MS
 dataflow/MS
 datasheet/S
 datatype/MS
+datagram/MS
+nonvolatile
 deadlock/MSDG
 debugged
 debugger/SM

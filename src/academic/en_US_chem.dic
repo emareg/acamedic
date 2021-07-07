@@ -1,4 +1,19 @@
 
+# IUPAC systematic names
+# --------------------------------
+
+# group names
+alkane/S
+alkene/S
+alkyne/S
+alcohol/S
+ether/S
+aldehyde/S
+ketone/S
+carboxylate/S
+amine/S
+amide/S
+nitrile/S
 
 
 # multiplicity
@@ -16,7 +31,7 @@ undeca/m
 dodeca/m
 
 
-## Hydrocarbons
+## Hydrocarbons root
 meth/h
 eth/h
 prop/h
@@ -47,29 +62,28 @@ benz/h
 yl/xs
 oxy/x
 
-## Hydrocarbon prefixes
-hypo/p
-per/p
-cyclo/p
-iso/p
 
 
-## Hydrocarbons suffix
-ane/s
-ene/s
-adiene/s  # enes with more double bonds
-atriene/s
-anol/s
-anediol/s
-anetriol/
-anal/s
-anedial/s
-anone/s
-anedione/s
-anetrione/s
-yne/s
+
+## IUPAC Hydrocarbons suffix
+ane/s     # Alkanes: only single bonds
+ene/s     # carbons with double bonds
+yne/s     # carbons with triple bonds
+anol/s    # alcohols
+anal/s    # aldehyde
+anone/s   # ketone
+anoate/s  # Carboxylates
+anoyl/s   # Acyl groups
 ether/s
 
+adiene/s     # 2 ene
+atriene/s
+anediol/s    # 2 alcohol
+anetriol/s
+anedione/s   # 2 one
+anetrione/s
+
+anedial/s
 
 anecarboxylic/s
 anecarboxylate/s
@@ -77,8 +91,20 @@ boronic/s
 
 
 
-## non IUPAC: Eth-ylene
+## Hydrocarbon prefixes
+hypo/p
+per/p
+cyclo/p
+iso/p
+
+
+# Non-IUPAC, also common names?
+# --------------------------------
 # from https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry
+# https://stackoverflow.com/questions/22267480/creating-a-regular-expression-for-parsing-iupac-organic-compound-names
+
+# there are prefix and suffix forms
+
 
 phenyl/p
 
@@ -160,7 +186,7 @@ aminocyclo/p
 
 
 
-## halogene prefixes
+## halogene substitute prefixes
 # halo
 fluoro/a
 chloro/a

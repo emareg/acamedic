@@ -7,7 +7,16 @@ antenna/MS
 automotive
 autonomous/Y
 autopilot/MS
+waveguide/MS
+combustor/MS
 avionic/S
+aviation
+bandpass
+spaceflight/S
+racetrack/MS
+bot/MS
+servo/SM
+crankshaft/MS
 barometer/MS
 barometrical/Y
 cog/MS

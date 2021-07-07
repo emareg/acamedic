@@ -5,6 +5,8 @@ goto
 typedef
 sizeof
 struct
+malloc
+printf
 enum
 undef
 ifndef

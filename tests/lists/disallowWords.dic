@@ -24,7 +24,8 @@ acre/S
 
 # programming/code terms
 ctx
-sizeof
+iszero
+pred
 len
 msec
 inc
@@ -41,4 +42,6 @@ foo
 cbmc
 snd
 nsec
+sec
+iff
 

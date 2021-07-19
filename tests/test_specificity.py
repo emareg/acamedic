@@ -9,7 +9,6 @@ def findTypoFriends(dictionary):
     dicTypoFriends = {}
     for word in dictionary.keys():
         if len(word) < 4: continue
-        #if word[-1] in "sd": continue 
         if word[-3:] in ["ble", "bly"]: continue
         if word[0].isupper(): continue
         for edit in edits1(word):
@@ -18,10 +17,6 @@ def findTypoFriends(dictionary):
                 if word not in dicTypoFriends and edit not in dicTypoFriends:
                     dicTypoFriends[word] = edit
     return dicTypoFriends
-
-
-
-
 
 
 
@@ -85,6 +80,7 @@ def edits1(word):
 
 def testSpecificity():
     dicAcamedic = {}
+    dicAllowedMasking = {}
 
     read_hunspell(dicAcamedic, 'en-Academic.dic')
 

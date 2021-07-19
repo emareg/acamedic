@@ -4,6 +4,7 @@ int
 goto
 typedef
 sizeof
+typeof
 struct
 malloc
 printf

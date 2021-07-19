@@ -1,4 +1,4 @@
-10770
+10776
 0/d
 0cm
 0em
@@ -2373,7 +2373,7 @@ acetylcholinesterase
 achievable/U
 achieve/DSG
 achievement/MS
-acid
+acid/S
 acknowledge/DSG
 acknowledgment/MS
 acorn
@@ -2672,6 +2672,8 @@ anthropomorphize/SDG
 anthropomorphous
 anti
 antialiasing
+antibiotic/SM
+antibody/SM
 anticipate/GDS
 anticipation/MS
 antiderivative/MS
@@ -3906,6 +3908,7 @@ contest
 contextual/Y
 contextualization
 contextualize/DSG
+contiguous/YP
 continent/MS
 continental/Y
 continual/Y
@@ -5846,6 +5849,7 @@ hyperref
 hypersensitive/Y
 hypertext
 hypertree/MS
+hypervisor/MS
 hyphen
 hypo/p
 hypoblast
@@ -8516,6 +8520,7 @@ reductase
 reduction/SM
 redundancy
 redundant
+ref
 refactor/SDG
 refer/S
 reference/MGDS
@@ -10133,6 +10138,7 @@ type/MGDS
 typecheck/MSDG
 typechecker/MS
 typedef
+typeof
 typeset/S
 typesetting
 typewriter

@@ -94,6 +94,7 @@ intragenerational
 # ==================================
 fuzzer/MS         
 lookbehind         # (regex)
+hypervisor/MS
 microarchitectural
 cybersecurity     
 templating        

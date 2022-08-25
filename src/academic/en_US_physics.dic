@@ -1,5 +1,7 @@
 afterglow/SDG
 airtight
+altimeter/MS
+altitude/MS
 antimatter/SM
 antiquark/S
 asteroid/SM
@@ -8,8 +10,6 @@ astronautic/Y
 astronomic
 astronomical/Y
 bimetal
-altimeter/MS
-altitude/MS
 bimetallic
 bimetallism
 binocular/SY
@@ -28,6 +28,8 @@ conductivity/MS
 cosmological/Y
 cosmonaut/MS
 deflection/MS
+diamagnetic
+diamagnetism
 dielectric/MS
 dilation/M
 diode/SM
@@ -35,7 +37,8 @@ droplet/S
 eccentricity/SM
 eclipse/SDMG
 electrodynamic/S
-electromagnetic/MS
+electromagnet/SM
+electromagnetic/Y
 electromagnetism
 electromechanical/Y
 electromechanics
@@ -45,6 +48,9 @@ exciton/MS
 extrinsic/U
 fermion/SM
 ferroelectric/Y
+ferromagnet
+ferromagnetic
+ferromagnetism
 flux
 gaseous
 geodesic/MS
@@ -52,8 +58,11 @@ geodesical
 geodesist/MS
 geodesy
 geological/Y
+geomagnetic/Y
+geomagnetism/MS
 gluon/SM
 graviton/S
+gyroscopic
 habitable/Y
 heliosphere/M
 hemisphere/SM
@@ -85,6 +94,7 @@ luminescence
 luminescent
 luminosity/S
 luminous
+magnet/SM
 magneton/SM
 magnetosphere/M
 massless

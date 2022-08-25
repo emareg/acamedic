@@ -39,6 +39,7 @@ combinatorics
 commutative/Y
 commutativity
 concave
+cone/MS
 congruent/IY
 convergence/MS
 convergent
@@ -54,8 +55,6 @@ covariant
 curvature/SM
 cyclic
 cyclical/Y
-interpolate/SDG
-triangular/Y
 cylindrical/Y
 decidability/U
 denominator/MS
@@ -117,6 +116,7 @@ idempotent
 infimum
 infinitesimal/SY
 injective
+interpolate/SDG
 interpolation/MS
 invertible
 isomorphism/MS
@@ -187,10 +187,12 @@ radix/SM
 reciprocal/YS
 rectangular
 residual/SYM
+scalar/SM
 secant/SMY
 semidefinite
 simplex/S
 sin
+tetration
 singularity/S
 sinusoid/MS
 sinusoidal/Y
@@ -221,6 +223,7 @@ tetrahedron/MS
 topological/Y
 topology/SM
 transcendental/Y
+triangular/Y
 trigonometric/Y
 trigonometry/MS
 tuple/SM

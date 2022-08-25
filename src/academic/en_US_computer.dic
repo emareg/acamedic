@@ -47,6 +47,7 @@ chipset/S
 cipher/CDMSG
 ciphertext/S
 codebase/MS
+codeword/MS
 concatenation/MS
 constructor/MS
 contactless
@@ -83,6 +84,7 @@ doc/S
 download/SDG
 downtime/S
 eavesdrop/S
+eavesdropped
 eavesdropper/MS
 eavesdropping
 encoder/MS

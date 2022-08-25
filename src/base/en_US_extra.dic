@@ -1,6 +1,5 @@
 abandon/SGD
 abbreviate/GDS
-alloy/SMDG
 abbreviation/MS
 abolish/GDS
 abolition
@@ -51,6 +50,8 @@ aggregation/MS
 agnostic/MSY
 agriculture
 algorithmic/Y
+alloy/SMDG
+alphanumeric
 amortize/LBDSG
 amplification/MS
 amplifier/MS
@@ -95,6 +96,7 @@ arterial/SY
 artery/SM
 articulate/SDG
 articulation/MS
+artifact/MS
 ascent/MS
 aspiration/MS
 assert/DGS
@@ -247,6 +249,7 @@ contamination/ACMS
 contextual/Y
 contextualization
 contextualize/DSG
+contiguous/YP
 converge/SDG
 cooperate/SDG
 cooperation/MS
@@ -264,6 +267,7 @@ counterintuitive/Y
 countermeasure/S
 counterproductive/Y
 crosscheck/GDS
+customizability
 customization/MS
 customize/SDG
 customizer/MS
@@ -273,6 +277,8 @@ decelerate/DSG
 deceleration/MS
 declarative/Y
 decrement/GDS
+deficiency/SM
+deficient/Y
 deflate/SDG
 deflation/MS
 delegate/SDG
@@ -297,6 +303,7 @@ determinist/SM
 deterministic/IY
 developmental/Y
 differentiation/MS
+diffusion
 digraph/MS
 diminish/SDG
 disambiguate/GDS
@@ -317,6 +324,7 @@ diverge/SDG
 divergence/SM
 divergency
 divergent/Y
+doctoral
 dominator/SM
 donor/MS
 downside/MS
@@ -384,7 +392,6 @@ evict/GDS
 eviction/MS
 evolvability
 examinant/SM
-contiguous/YP
 examination/MS
 excel/S
 excelled/U
@@ -412,6 +419,7 @@ existentialism/SM
 existentialist/MS
 exogenous/Y
 expectancy/MS
+explorer/MS
 expressionless/Y
 expressive/PYI
 expressivity
@@ -448,7 +456,10 @@ formalization/MS
 formalize/GDS
 formulate/ASDG
 formulation/AS
-fragmentation/MS
+ventilate/SDG
+unventilated
+ventilation/MS
+ventilator/MS
 gauge/MSDG
 generalist/MS
 generality/MS
@@ -473,6 +484,7 @@ homogeneity/ISM
 homogeneous/Y
 hotspot/MS
 hybrid/SM
+hydroelectric/Y
 hypersensitive/Y
 hypothesize/SDG
 illumination/M
@@ -502,17 +514,6 @@ infographic/S
 inharmonic
 initiation/MS
 initiator/MS
-selector/SM
-diffusion
-lowercase
-hydroelectric/Y
-neuron/MS
-manuscript/MS
-landmark/MDGS
-selectivity
-explorer/MS
-moisture/MS
-alphanumeric
 innovate/SDG
 insightful/Y
 instantaneous/Y
@@ -574,6 +575,7 @@ iterate/SDG
 iteration/MS
 iterative/Y
 laborious/Y
+landmark/MDGS
 latch/UGSD
 latin
 lattice/MS
@@ -599,6 +601,7 @@ logistical/Y
 logistics
 lossless
 lossy
+lowercase
 macro/S
 magnification
 maintainability
@@ -607,6 +610,7 @@ manageability/U
 manageable/U
 maneuver/MSDG
 manifold
+manuscript/MS
 mapper/SM
 mapping/MS
 materialization/MS
@@ -655,6 +659,7 @@ modularize/SDG
 modulate/CSDG
 modulation/MSC
 modulator/CMS
+moisture/MS
 monetary/Y
 monetization/C
 monetize/SDG
@@ -678,6 +683,7 @@ narration/MS
 narrative/Y
 narrator/MS
 narrow/SDG
+neuron/MS
 nomenclature/MS
 nondeterminism
 nondeterministic/Y
@@ -807,6 +813,7 @@ polarity/MS
 polarize/SDG
 polymorphic/Y
 polymorphism/SM
+postdoctoral
 potent/Y
 powerless
 practicability
@@ -905,10 +912,13 @@ reputation/SM
 requester/MS
 reservoir/SM
 residue/MS
+resilience
 resilient/Y
 resonance/SM
 resonant/Y
 retina/MS
+reversibility/S
+reversible/Y
 revoke/SDG
 revolutionize/SDG
 rework/GDS
@@ -934,6 +944,8 @@ seamless/Y
 segmentation/SM
 segregate/SDG
 segregation/MS
+selectivity
+selector/SM
 semester/SM
 semi
 sensor/MS
@@ -1022,6 +1034,8 @@ teleconference/SM
 template/SM
 templating
 temporal/Y
+testability
+testable/UY
 thoughtful/YP
 threefold
 threefolded/P

@@ -65,7 +65,7 @@ activist/MS
 activity/ISM
 actor/SM
 actual/Y
-adapt/SDRG
+adapt/RBSDG
 adaptation/MS
 add/DGS
 addict/GSD
@@ -253,7 +253,7 @@ applicant/SM
 application/MS
 apply/SDG
 appoint/ESDG
-appointment/SM
+appointment/ESM
 arbitrarily
 arbitrary
 arc/MS
@@ -315,7 +315,8 @@ atheism
 atheist/SM
 atlas
 atrocity/SM
-attach/LGDS
+attach/GDS
+attachment/SM
 attack/GMDS
 attacker/MS
 attain/SDG
@@ -607,6 +608,7 @@ bug's
 bug/CS
 build's
 build/ASG
+builder/MS
 building/MS
 built/A
 bulb/MS
@@ -901,7 +903,8 @@ comment/SGMD
 commentary
 commentator/MS
 commercial/Y
-commission/SGD
+commission/ACSDG
+commissioner/MS
 commit/S
 commitment/MS
 committed
@@ -1100,6 +1103,8 @@ control/MS
 controlled
 controller/MS
 controlling
+controllability/U
+controllable/UY
 controversial
 controversy
 convenience
@@ -1307,7 +1312,6 @@ defective/Y
 defend/DGS
 defense/MS
 defensive/Y
-deficiency/SM
 define/AGDS
 definite/Y
 definition/MS
@@ -1335,7 +1339,8 @@ demand/GSMD
 demented
 demise
 democracy
-democratic/Y
+democratic/UY
+democratize/SDG
 demolish/SDG
 demonstrate/SDG
 demonstration/MS
@@ -1602,7 +1607,7 @@ ear/MS
 early/RT
 earn/DGS
 earth/M
-ease
+ease/SDG
 easily
 east
 eastern
@@ -2072,7 +2077,9 @@ fourteen
 fourth
 fraction/SM
 fragile
-fragment/MS
+fragment's
+fragment/CSDG
+fragmentation/CM
 frame/MSDG
 frank/Y
 frantic
@@ -2197,7 +2204,8 @@ gone
 good/PS
 goodbye
 gorgeous
-gossip
+gossip/SDG
+gossiper/MS
 got
 gotten
 govern/DGS
@@ -2323,6 +2331,7 @@ heard
 heart/MS
 heartily
 heat/SDG
+heater/MS
 heaven/S
 heavily
 heavy/RT
@@ -2578,7 +2587,7 @@ influence/MGDS
 influential/Y
 info
 informative
-infrastructure
+infrastructure/MS
 infrequent
 infringement
 ingenious
@@ -2602,6 +2611,7 @@ injure/DSG
 injury/SM
 ink
 inner
+innermost
 innocence
 innocent
 innovation/MS
@@ -2691,7 +2701,7 @@ invasion/MS
 invent/SGD
 invention/MS
 inventor
-inverse/SDG
+inverse/MSY
 invert/SGD
 invest/SDG
 investigate/DSG
@@ -2821,9 +2831,6 @@ law/MS
 lawyer/MS
 lay/SG
 layer/MSDG
-leftmost
-rightmost
-innermost
 layout/MS
 lazy/P
 leach
@@ -2845,6 +2852,7 @@ lecture/DSMG
 lecturer/MS
 led
 left
+leftmost
 leg/MS
 legal/Y
 legend
@@ -3266,7 +3274,7 @@ negotiable
 negotiate/SDG
 negotiation/MS
 neighbor/SGM
-neighborhood
+neighborhood/MS
 neither
 nerve/SM
 nervous
@@ -3355,7 +3363,10 @@ obscene
 obscure/SDG
 obscurity/MS
 observable
+observant/Y
 observation/SM
+observational/Y
+observatory/MS
 observe/DSG
 observer/MS
 obsess/DSG
@@ -3510,6 +3521,7 @@ packet/MS
 pad/S
 padded
 padding
+padlock/MS
 page/MGDS
 paid
 pain/MS
@@ -3594,7 +3606,7 @@ peer/MS
 pen/MS
 penalty/SM
 pence
-pencil
+pencil/MS
 pend/CGDS
 penguin
 penny/SM
@@ -3661,6 +3673,7 @@ pig/MS
 pigeon
 pile/SM
 pill/SM
+pillar/MS
 pilot
 pin/MS
 pinch/SDG
@@ -3750,7 +3763,8 @@ pose/KEGSD
 position/MDGS
 positive/SY
 possess/DSG
-possession
+possession/MS
+possessive/Y
 possibility/SM
 possible
 possibly
@@ -4229,6 +4243,7 @@ ridden
 ride/SG
 ridiculous/Y
 right/MYS
+rightmost
 rigid
 rigorous/YP
 ring/MSDG
@@ -4953,8 +4968,8 @@ tagged
 tagging
 tail/SM
 tailor/SGD
-take/SG
-taken
+take/ASG
+taken/A
 taker/MS
 tale/SM
 talent/MDS
@@ -5273,6 +5288,7 @@ unconditioned
 uncongested
 unconnected/YP
 unconscious
+unconfirmed
 unconvincing
 undefined
 under
@@ -5330,6 +5346,7 @@ unnatural
 unofficial
 unpleasant
 unpredicted
+unprivileged
 unpublished
 unregulated
 unrelated

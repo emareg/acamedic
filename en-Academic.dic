@@ -1,4 +1,4 @@
-10776
+10827
 0/d
 0cm
 0em
@@ -2720,8 +2720,8 @@ applicably/I
 applicant/SM
 application/MS
 apply/SDG
-appoint/ESDG
-appointment/SM
+appoint/SDG
+appointment/ESM
 appraisal
 appreciate/GDS
 appreciation/MS
@@ -2786,6 +2786,7 @@ arthroscopy
 article/MS
 articulate/SDG
 articulation/MS
+artifact/MS
 artificial/Y
 artist/MS
 artistic/Y
@@ -2852,7 +2853,8 @@ atomic/Y
 atomicity/S
 atriene/s
 atrocity/SM
-attach/LGDS
+attach/GDS
+attachment/SM
 attack/GMDS
 attacker/MS
 attain/SDG
@@ -3281,6 +3283,7 @@ bug's
 bug/CS
 build's
 build/ASG
+builder/MS
 building/MS
 built/A
 bulb/MS
@@ -3625,6 +3628,7 @@ cobalt/a
 code's
 code/CGDS
 codebase/MS
+codeword/MS
 coefficient/SM
 coffee
 cog/MS
@@ -3694,7 +3698,8 @@ comment/SGMD
 commentary
 commentator/MS
 commercial/Y
-commission/SGD
+commission/ACSDG
+commissioner/MS
 commit/S
 commitment/MS
 committed
@@ -3816,6 +3821,7 @@ condom/MS
 conduct/SDG
 conductivity/MS
 conductor/MS
+cone/MS
 conference/MS
 confess
 confidence
@@ -3930,6 +3936,8 @@ contribution/MS
 contributor/MS
 contrive/DSG
 control/MS
+controllability/U
+controllable/UY
 controlled
 controller/MS
 controlling
@@ -4120,6 +4128,7 @@ curvature/SM
 curve/SDGM
 custom/MS
 customer/MS
+customizability
 customization/MS
 customize/SDG
 customizer/MS
@@ -4239,6 +4248,7 @@ defend/DGS
 defense/MS
 defensive/Y
 deficiency/SM
+deficient/Y
 define/AGDS
 definite/Y
 definition/MS
@@ -4275,7 +4285,8 @@ demand/GSMD
 demented
 demise
 democracy
-democratic/Y
+democratic/UY
+democratize/SDG
 demolish/SDG
 demonstrate/SDG
 demonstration/MS
@@ -4374,6 +4385,8 @@ dial/DGS
 dialect/SM
 dialog
 dialogue
+diamagnetic
+diamagnetism
 diameter/MS
 diamond/SM
 diary
@@ -4520,6 +4533,7 @@ doc/S
 dock/MSDG
 docos/h
 doctor/MS
+doctoral
 doctrine
 document/GSMD
 documentary
@@ -4594,6 +4608,7 @@ dripping
 drive/SMG
 driven
 driver/MS
+driverless
 drop/SM
 droplet/S
 dropped
@@ -4643,7 +4658,7 @@ ear/MS
 early/RT
 earn/DGS
 earth/M
-ease
+ease/SDG
 easily
 east
 eastern
@@ -4651,6 +4666,7 @@ easy/RT
 eat/GRS
 eaten
 eavesdrop/S
+eavesdropped
 eavesdropper/MS
 eavesdropping
 eccentric
@@ -4708,12 +4724,15 @@ electricity/M
 electro
 electrode/MS
 electrodynamic/S
-electromagnetic/MS
+electromagnet/SM
+electromagnetic/Y
 electromagnetism
 electromechanical/Y
 electromechanics
 electron/MS
 electronic/SY
+electrophoreses
+electrophoresis/M
 electroporation
 elegant
 element/MS
@@ -5160,6 +5179,9 @@ fender/SM
 fermion/SM
 fermium/a
 ferroelectric/Y
+ferromagnet
+ferromagnetic
+ferromagnetism
 fertilization
 festival/MS
 fetch/SDG
@@ -5344,8 +5366,9 @@ fractional/A
 fractionalization
 fractionalize/SDG
 fragile
-fragment/MS
-fragmentation/MS
+fragment's
+fragment/CSDG
+fragmentation/CM
 frame/MSDG
 framework/SM
 francium/a
@@ -5467,6 +5490,8 @@ geographical/Y
 geography
 geological/Y
 geology
+geomagnetic/Y
+geomagnetism/MS
 geometric/MS
 geometrical/UY
 geometry/MS
@@ -5520,7 +5545,8 @@ gone
 good/PS
 goodbye
 gorgeous
-gossip
+gossip/SDG
+gossiper/MS
 got
 goto
 gotten
@@ -5595,6 +5621,7 @@ gut/MS
 gutter
 guy/MS
 gyroscope/S
+gyroscopic
 hPa/u
 habit/MS
 habitable/Y
@@ -5671,6 +5698,7 @@ heard
 heart/MS
 heartily
 heat/SDG
+heater/MS
 heatmap/MS
 heaven/S
 heavily
@@ -6055,7 +6083,7 @@ infographic/S
 informative
 infotainment
 infrared
-infrastructure
+infrastructure/MS
 infrequent
 infringement
 ingenious
@@ -6224,7 +6252,7 @@ invent/SGD
 invention/MS
 inventor
 inventory/MS
-inverse/SDG
+inverse/MSY
 inversion/MS
 invert/SGD
 invertible
@@ -6701,6 +6729,7 @@ magenta
 magic
 magical/Y
 magnesium/a
+magnet/SM
 magnetic/Y
 magnetometer/S
 magneton/SM
@@ -7237,7 +7266,7 @@ negotiable
 negotiate/SDG
 negotiation/MS
 neighbor/SGM
-neighborhood
+neighborhood/MS
 neither
 neodymium/a
 neon/a
@@ -7378,6 +7407,8 @@ numerical/Y
 numerous
 nurse/MS
 nut/MS
+nutrient/MS
+nutrition/M
 obey/DGS
 obfuscate/SDG
 obfuscation/MS
@@ -7391,7 +7422,10 @@ obscene
 obscure/SDG
 obscurity/MS
 observable
+observant/Y
 observation/SM
+observational/Y
+observatory/MS
 observe/DSG
 observer/MS
 obsess/DSG
@@ -7663,6 +7697,7 @@ packet/MS
 pad/S
 padded
 padding
+padlock/MS
 page/MGDS
 pagebreak
 pagestyle
@@ -7799,7 +7834,7 @@ peer/MS
 pen/MS
 penalty/SM
 pence
-pencil
+pencil/MS
 pend/CGDS
 pendulum/MS
 penetration/M
@@ -7861,6 +7896,9 @@ persuasion
 perverse
 pessimism
 pessimistic/Y
+pest/MS
+pesticidal
+pesticide/MS
 pet
 peta
 petabit/S
@@ -7926,6 +7964,7 @@ pig/MS
 pigeon
 pile/SM
 pill/SM
+pillar/MS
 pilot
 pin/MS
 pinch/SDG
@@ -8046,7 +8085,8 @@ position/MDGS
 positive/SY
 positron/MS
 possess/DSG
-possession
+possession/MS
+possessive/Y
 possibility/SM
 possible
 possibly
@@ -8055,6 +8095,7 @@ postage
 postal
 postcard/MS
 postcondition/S
+postdoctoral
 poster/MS
 postmaster
 postpone/SDG
@@ -8652,6 +8693,7 @@ resident/SM
 residual/SYM
 residue/MS
 resignation
+resilience
 resilient/Y
 resist
 resistance/MS
@@ -8691,6 +8733,8 @@ reveal/DGS
 revenge
 revenue
 reverse/DSG
+reversibility/S
+reversible/Y
 revert
 revise/GDS
 revision/MS
@@ -9702,8 +9746,8 @@ tagged
 tagging
 tail/SM
 tailor/SGD
-take/SG
-taken
+take/ASG
+taken/A
 taker/MS
 tale/SM
 talent/MDS
@@ -9804,6 +9848,8 @@ terrorist/MS
 terse
 tesla
 test/MDGS
+testability
+testable/UY
 testbed/S
 testcase/S
 tetra/m
@@ -10279,6 +10325,7 @@ unpolarized
 unprecedented/Y
 unpredicted
 unpreserved
+unprivileged
 unprocessed
 unpublished
 unrecognized
@@ -10304,6 +10351,7 @@ untouched
 untrusted
 untyped
 unused
+unventilated
 unverified
 unwanted
 unwelcome
@@ -10391,6 +10439,9 @@ vein/MS
 velocity/S
 vend/SDG
 vendor/MS
+ventilate/SDG
+ventilation/MS
+ventilator/MS
 venture
 venue/SM
 verb/MS

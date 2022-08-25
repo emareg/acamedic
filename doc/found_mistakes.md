@@ -8,6 +8,7 @@ This list is useful to keep track of the mistake rate and to see how errors get 
 * `spam/MSD` => wrong single "m" (e.g. spamed). Correct forms are spammed and spamming
 * `offspring/S` => offspring has no plural form.
 * `ransomware/S` => software has no plural form, so ransomware neither.
+* `inverse/SDG` => inverse is a noun not a verb. Was in initial SCOWL?
 * `miscommunication/GDS` => is a noun not a verb (probably copy paste error)
 * `configurability/AS` => plural form (S) only has 348 Google results and should be excluded
 * `schedulability/S` => no plural form

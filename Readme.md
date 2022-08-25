@@ -1,3 +1,5 @@
+<img src="res/img/logo-github.png" width="480">
+
 # Acamedic – The Academic Dictionary
 
 A small Hunspell dictionary for professional, scientific writing. 

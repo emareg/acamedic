@@ -38,6 +38,7 @@ def testCorrectness():
     dicAcamedic = {}
     dicScowlFull = {}
     dicAllowedMisses = {}
+    dicDisallowed = {}
 
     # Read own dictionary
     #read_hunspell(dicAcamedic, 'en-Academic.dic')
@@ -61,6 +62,9 @@ def testCorrectness():
     read_hunspell(dicAllowedMisses, 'tests/lists/allowExtraAdverbs.dic')
     read_hunspell(dicAllowedMisses, 'tests/lists/unclear_spelling.dic')
 
+    # disallowed words
+    read_hunspell(dicDisallowed, 'tests/lists/disallowWords.dic')
+
     dicMissing = compare_dicts(dicAcamedic, dicScowlFull)
 
     filter_clear_cases(dicMissing, dicAcamedic)
@@ -71,11 +75,14 @@ def testCorrectness():
 
     unmatched = [k for k in dicAllowedMisses.keys() if k not in dicFilt]
     unknown = [k for k in dicMissing.keys()]
+    disallowed = list(set(dicAcamedic).intersection(set(dicDisallowed.keys())))
 
     if unmatched:
         print("ERR: {} exceptions already in larger dictionary: {}".format(len(unmatched), unmatched) )
     if unknown:
         print("ERR: {} words not in larger dictionary: {}".format(len(unknown), unknown))
+    if disallowed:
+        print("ERR: {} words that are not allowed in dictionary: {}".format(len(disallowed), disallowed))
     else:
         print("PASS: {} known exceptions found and ignored. All good.".format(len(dicAllowedMisses.keys())+nRemoved))
 

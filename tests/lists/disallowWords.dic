@@ -1,5 +1,30 @@
+# The words in this list should never be added to the dectionary
+
+# preferred form exists
 aluminum          # should be "aluminium"
 acknowledgement   # should be "acknowledgment"
+
+# too similar to common words (masks error)
+wee               # close to "we"
+thee              # close to "the"
+dome              # close to "done"
+fist              # close to "first"
+wit               # close to "with"
+wont              # close to "want"
+
+# singular-only words
+noises
+informations
+knowledges
+advices
+dusts
+traffics
+furnitures
+
+# plural-only words
+physic
+mathematic
+
 
 # separated words
 datacenter/MS    # it is "data center"

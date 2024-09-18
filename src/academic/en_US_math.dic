@@ -84,6 +84,8 @@ evenness
 exp
 exponent/SM
 exponentiation/S
+extrapolate/SDG
+extrapolation
 factorial/SM
 factorization/SM
 fractal/MS
@@ -111,6 +113,7 @@ hyperreal
 icosahedra
 icosahedral/Y
 icosahedron/MS
+icosphere/MS
 idempotence
 idempotent
 infimum

@@ -1487,7 +1487,7 @@ distant
 distasteful/Y
 distinct/Y
 distinction/MS
-distinctive/Y
+distinctive/YP
 distinguish/DSG
 distort/DGS
 distortion/MS
@@ -1635,7 +1635,7 @@ effective/IPY
 efficiency/I
 efficient/IY
 effort/MS
-effortless
+effortless/Y
 egg/MS
 ego/MS
 eight
@@ -1701,6 +1701,7 @@ enemy/SM
 energy
 enforce/SDG
 engage/DSG
+engagement/MS
 engine/MS
 engineer/MDGS
 enhance/DSG
@@ -1759,7 +1760,7 @@ estimate/DSMG
 eternal
 eternity/M
 ethic/MS
-ethical
+ethical/U
 ethnic
 etymology
 evaluate/DSG
@@ -1927,7 +1928,6 @@ fear/MDSG
 feasible/IY
 feature/MGDS
 fed
-federal
 fee/MS
 feed/SG
 feedback
@@ -2067,6 +2067,7 @@ forty
 forum
 forward/SDG
 fossil
+foster/SDG
 fought
 foul
 found/SDG
@@ -2094,6 +2095,7 @@ frequency/SM
 frequent/Y
 fresh
 friction
+frictionless
 friend/MS
 friendly/URTP
 friendship/MS
@@ -2136,7 +2138,7 @@ fuzzy
 gain/GMDS
 galactic/Y
 galaxy/MS
-game/MS
+game/MSG
 gang
 gap/MS
 garage
@@ -2187,6 +2189,7 @@ glad/Y
 glance
 glass/MS
 global/Y
+globalize/SDG
 glorious
 glory
 glossy
@@ -2209,6 +2212,7 @@ gossiper/MS
 got
 gotten
 govern/DGS
+governance
 government/SM
 governor
 grab/S
@@ -2401,7 +2405,7 @@ honor/GMDS
 honorary
 hook/SGMD
 hop/MS
-hope/DSMG
+hope/SDGM
 hopeful/Y
 hopeless/Y
 horizon
@@ -3027,6 +3031,7 @@ marginal/Y
 mark/MDGS
 marker/SM
 market/SMDG
+marketplace/SM
 marriage
 marry/SDG
 mask/MSDG
@@ -3042,6 +3047,7 @@ mathematics
 matter/MS
 maturation/M
 mature/SDG
+maturity
 maximal/Y
 maximize/SDG
 may
@@ -3616,6 +3622,7 @@ perceive/DSG
 percent/MS
 percentage
 perception/MS
+perceptual/Y
 perfect/Y
 perfection/MS
 perform/SDG
@@ -4203,6 +4210,7 @@ response/SM
 responsibility/SM
 responsible
 responsive/U
+responsiveness/U
 rest/SDG
 restaurant/SM
 restore/SDG
@@ -4403,6 +4411,7 @@ selective/Y
 self
 selfish
 sell/GSM
+seller/MS
 semantic/SY
 seminar/MS
 send/GS
@@ -5087,7 +5096,7 @@ those
 though
 thought/SM
 thousand/MS
-thread/MS
+thread/MSDG
 threat/MS
 threaten/SGD
 three
@@ -5132,6 +5141,8 @@ together
 toggle
 toilet/SM
 token/MS
+tokenize/SDGR
+tokenization
 told
 tolerance/IS
 tolerant
@@ -5365,6 +5376,7 @@ unused
 unwanted
 unwelcome
 unwilling
+unwillingness
 unwise
 up/S
 upbringing
@@ -5487,7 +5499,7 @@ wait/DGS
 wake/SDG
 walk/DGS
 wall/MS
-wallet
+wallet/MS
 wander/SDG
 want/DGS
 war/MS

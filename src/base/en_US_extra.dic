@@ -44,7 +44,6 @@ aforementioned
 afterthought/SM
 aggravate/SDG
 aggravation/MS
-aggravative
 aggregate/SDG
 aggregation/MS
 agnostic/MSY
@@ -263,6 +262,7 @@ counterattack/DMGS
 counterbalance/MSDG
 counterclockwise
 counterexample/S
+counterfeit/SDG
 counterintuitive/Y
 countermeasure/S
 counterproductive/Y
@@ -357,6 +357,7 @@ emitting
 empiric
 empirical/UY
 empiricism
+empower/SDG
 encapsulate/SDG
 encapsulation/MS
 enclave/GDSM
@@ -430,6 +431,8 @@ fabrication/MS
 fabricator/SM
 fallback/S
 feasibility/IS
+federal
+federate/SDG
 filler/M
 finalist/SM
 finality/MS
@@ -488,6 +491,8 @@ hydroelectric/Y
 hypersensitive/Y
 hypothesize/SDG
 illumination/M
+immersive/P
+immersion
 immobilize/SDG
 immutability/MS
 immutable/YP
@@ -972,6 +977,8 @@ solidarity/MS
 solvability
 solvable/UAE
 soundness
+sovereign/Y
+sovereignty
 spacer/MS
 spacious/Y
 spaciousness
@@ -1036,6 +1043,7 @@ templating
 temporal/Y
 testability
 testable/UY
+texture/MS
 thoughtful/YP
 threefold
 threefolded/P
@@ -1054,6 +1062,7 @@ trademark/GMDS
 tradeoff/MS
 trajectory/S
 transactional
+transcend/SDG
 transcendence/MS
 transcontinental
 transcribe/SDG

@@ -1,4 +1,4 @@
-10827
+10854
 0/d
 0cm
 0em
@@ -2396,7 +2396,7 @@ actual/Y
 actuator/MS
 acyclic
 ad-hoc
-adapt/SDRG
+adapt/RBSDG
 adaptability
 adaptation/MS
 adaption/MS
@@ -2720,7 +2720,7 @@ applicably/I
 applicant/SM
 application/MS
 apply/SDG
-appoint/SDG
+appoint/ESDG
 appointment/ESM
 appraisal
 appreciate/GDS
@@ -4498,7 +4498,7 @@ distant
 distasteful/Y
 distinct/Y
 distinction/MS
-distinctive/Y
+distinctive/YP
 distinguish/DSG
 distinguishable
 distort/DGS
@@ -4693,7 +4693,7 @@ effective/IPY
 efficiency/I
 efficient/IY
 effort/MS
-effortless
+effortless/Y
 egg/MS
 ego/MS
 eigenvalue/S
@@ -4785,6 +4785,7 @@ employ/SDG
 employee/MS
 employer/MS
 employment/U
+empower/SDG
 empty/SDG
 emulate/SDG
 emulation/MS
@@ -4822,6 +4823,7 @@ energy
 enforce/SDG
 enforcement/MS
 engage/DSG
+engagement/MS
 engine/MS
 engineer/MDGS
 enhance/DSG
@@ -4918,7 +4920,7 @@ ether/S
 ether/a
 ether/s
 ethic/MS
-ethical
+ethical/U
 ethnic
 etymology
 eukaryote/S
@@ -5080,6 +5082,8 @@ extraction/MS
 extraneous
 extraordinarily
 extraordinary
+extrapolate/SDG
+extrapolation
 extreme/SY
 extremist
 extrinsic/U
@@ -5159,6 +5163,7 @@ feasible/IY
 feature/MGDS
 fed
 federal
+federate/SDG
 fee/MS
 feed/SG
 feedback
@@ -5352,6 +5357,7 @@ forty
 forum
 forward/SDG
 fossil
+foster/SDG
 fought
 foul
 found/SDG
@@ -5386,6 +5392,7 @@ frequent/Y
 fresh
 freshness
 friction
+frictionless
 friend/MS
 friendly/URTP
 friendship/MS
@@ -5436,7 +5443,7 @@ gain/GMDS
 galactic/Y
 galaxy/MS
 gallium/a
-game/MS
+game/MSG
 gamma/MS
 gang
 ganglia
@@ -5523,6 +5530,7 @@ glance
 glass/MS
 glider/MS
 global/Y
+globalize/SDG
 glorious
 glory
 glossary/SM
@@ -5551,6 +5559,7 @@ got
 goto
 gotten
 govern/DGS
+governance
 government/SM
 governor
 grab/S
@@ -5805,7 +5814,7 @@ honor/GMDS
 honorary
 hook/SGMD
 hop/MS
-hope/DSMG
+hope/SDGM
 hopeful/Y
 hopeless/Y
 horizon
@@ -5938,6 +5947,8 @@ imino/p
 immature
 immediate/Y
 immense/Y
+immersion
+immersive/P
 immigrant/MS
 imminent
 immobilize/SDG
@@ -6796,6 +6807,7 @@ marginal/Y
 mark/MDGS
 marker/SM
 market/SMDG
+marketplace/SM
 marriage
 marry/SDG
 mask/MSDG
@@ -6819,6 +6831,7 @@ matrix
 matter/MS
 maturation/M
 mature/SDG
+maturity
 max
 maxima
 maximal/Y
@@ -7090,6 +7103,7 @@ monkey/MS
 mono
 mono/m
 monochrome
+monolith/MS
 monolithic
 monopoly
 monospace
@@ -7851,6 +7865,7 @@ percent/MS
 percentage
 percentile/MS
 perception/MS
+perceptual/Y
 perchlorate/a
 perfect/Y
 perfection/MS
@@ -7938,6 +7953,7 @@ photovoltaic/S
 phrase/AMGDS
 physic/S
 physical/Y
+physician/SM
 physicist/MS
 physiological/Y
 physiology
@@ -8711,6 +8727,7 @@ response/SM
 responsibility/SM
 responsible
 responsive/U
+responsiveness/U
 rest/SDG
 restaurant/SM
 restore/SDG
@@ -8876,6 +8893,7 @@ saw
 say/SG
 scalability/S
 scalable
+scalar/SM
 scale/DSMG
 scan/SM
 scandal
@@ -8970,6 +8988,7 @@ selenium/a
 self
 selfish
 sell/GSM
+seller/MS
 semantic/SY
 semaphore/GMSD
 semester/SM
@@ -9258,6 +9277,8 @@ south
 southeast
 southern
 southwest
+sovereign/Y
+sovereignty
 space/DSMG
 spacecraft/M
 spaceflight/S
@@ -9857,6 +9878,7 @@ tetradec/h
 tetrahedra
 tetrahedral/Y
 tetrahedron/MS
+tetration
 tex
 text/FMS
 textbook/SM
@@ -9978,6 +10000,8 @@ together
 toggle
 toilet/SM
 token/MS
+tokenization
+tokenize/SDGR
 told
 tolerance/IS
 tolerant
@@ -10043,6 +10067,7 @@ transaction/SM
 transactional
 transceive/SDG
 transceiver/MS
+transcend/SDG
 transcendence/MS
 transcendental/Y
 transcontinental
@@ -10229,6 +10254,7 @@ uncommitted
 uncommon
 uncompensated
 unconditioned
+unconfirmed
 uncongested
 unconnected/YP
 unconscious
@@ -10356,6 +10382,7 @@ unverified
 unwanted
 unwelcome
 unwilling
+unwillingness
 unwise
 up/S
 upbringing
@@ -10534,7 +10561,7 @@ wait/DGS
 wake/SDG
 walk/DGS
 wall/MS
-wallet
+wallet/MS
 wander/SDG
 want/DGS
 war/MS
